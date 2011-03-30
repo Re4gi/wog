@@ -1,0 +1,86 @@
+Goblin caves:
+
+ 1. ruby hammer
+ 2. ruby great hammer
+ 3. ruby claymore
+ 4. ruby morning star
+ 5. ruby mace
+ 6. ruby sabre
+ 7. ruby hand axe
+ 8. ruby warstaff
+ 9. ruby staff
+ 10. ruby spear
+ 11. ruby knife
+ 12. ruby club
+ 13. ruby cutlass
+ 14. ruby pike
+ 15. ruby halberd
+ 16. ruby great axe
+ 17. ruby shortsword
+ 18. ruby flail
+ 19. ruby warhammer       
+ 20. ruby battle axe       
+ 
+Free Harbour: 
+ 
+ 1. ruby falchion   
+ 2. ruby great star 
+ 3. ruby twohanded sword
+ 4. ruby ninetailed cat
+ 5. ruby spiked club
+ 6.	ruby whip
+ 7. ruby longsword  
+ 8. ruby rapier
+ 9. ruby budzogan
+ 
+ALL:
+
+battle axe			X		axes
+battle bow					bows
+bow							bows
+broadsword					long-blades
+budzogan			X		twohanded-clubs
+claymore			X		twohanded-blades
+club				X		clubs
+crossbow			-		
+cutlass				X		short-blades
+dagger						daggers
+falchion			X		long-blades
+flail				X		flails				
+great axe			X		twohanded-axes
+great hammer		X		twohanded-hammers
+great star			X		twohanded-flails
+halberd				X		polearms
+hammer				X		hammers
+hand axe			X		axes
+katzbalger					twohanded-axes
+knife				X		daggers
+lance						polearms
+large knife					daggers
+light crossbow		-
+long whip					whips				
+longbow						bows
+longsword			X		long-blades	
+mace				X		maces
+magical wand
+massive trunk		-
+morning star		X		flails
+ninetailed cat		X		whips
+pick				-		axes
+pike				X		polearms
+rapier				X		daggers
+sabre				X		long-blades
+scimitar					long-blades
+scythe						polearms
+shortbow					bows
+shortsword			X		short-blades
+sickle				-		
+spear				X		spears	
+spiked club			X		clubs
+staff				X		staves
+torch				-
+trident						spears
+twohanded sword		X		twohanded-blades
+warhammer			X		hammers
+warstaff			X		staves
+whip				X		whips	  

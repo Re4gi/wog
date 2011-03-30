@@ -1,0 +1,205 @@
+EQUIPMENT:
+
+- You are using -----------------------------------------------------------
+  on the head      : blessed silk shadow hood
+  around the body  : ebony dark robe of might                               [1]
+  on the neck      : mithril amulet of stealth				    [9]
+  on the arms      : blessed silk shadow sleeves
+  around the wrist : orange ruby bracelet	       			    [14 magic resistance]
+  on the hands     : blessed silk shadow gauntlets
+  on the finger    : blessed emerald ring of quickness
+  on the body      : blessed silk shadow shirt
+  around the waist : ruby belt of endurance
+  on the legs      : blessed silk shadow leggings
+  on the feet      : blessed silk shadow boots
+  in right hand    : blessed ruby rapier
+  in left hand     : blessed ruby mace
+----------------------------------------------------------------------------
+
+****************************************************************************
+
+ATTRIBUTES:
+
+Your attack bonus is 90% with rapier in your right hand and
+79% with mace in your left hand.
+Your equipment gives you 127% bonus to dodge and 93% to parry
+attacks and absorbs 0% of damage from all physical attacks.
+
+Your attack bonus is 100% with dagger in your right hand and
+96% with mace in your left hand.
+Your equipment gives you 127% bonus to dodge and 104% to parry
+attacks and absorbs 0% of damage from all physical attacks.
+
+-*- HP: 335 (335) FP: 235 (235)
+
+****************************************************************************
+
+BACKGROUND:
+
+carry much more things, health regeneration, vitality
+
+****************************************************************************
+
+SCORE:
+
+Grandmaster Regi Hero the halfling Soldier of Order of Holy Retribution
+------------------------------------------------------------
+ Player level              : 55
+ Gender                    : male
+ Race                      : halfling
+ Size                      : small
+ Class                     : thief
+ Alignment                 : good
+ Deity                     : On
+ Clan                      : Order of Holy Retribution
+ Hit points(max)           : 335(335)
+ Fatique points(max)       : 235(235)
+Primary stats:
+ Str: 18  Dex: 24  Con: 18  Int: 19  Wis: 16  Cha: 21
+You are feeling very brave !
+------------------------------------------------------------
+
+****************************************************************************
+
+SAVINGS:
+
+Basic saving throws vs    Resistance(%)        Immunity(%)
+-----------------------------------------------------------------
+  fire                      shielded           vulnerable
+  cold                      shielded           vulnerable
+  acid                      shielded           vulnerable
+  electricity               shielded           vulnerable
+  poison                    shielded           vulnerable
+  touch                     shielded           vulnerable
+  disease               somewhat shielded      vulnerable
+  drain                     shielded           vulnerable
+  magic                     shielded           vulnerable
+  mindeffective             shielded           vulnerable
+  illusion                  shielded           vulnerable
+  petrification             shielded           vulnerable
+  deathmagic                shielded           vulnerable
+  summoning                 shielded           vulnerable
+  energy                somewhat shielded      vulnerable
+-----------------------------------------------------------------
+
+****************************************************************************
+
+DEITY:
+
+You feel that On is very happy.
+
+****************************************************************************
+
+INVENTORY:
+
+one wool amulet of Zygurg, one blessed emerald ring of freshness, one blessed
+ruby dagger (enchanted)
+
+****************************************************************************
+
+BANK:
+
+5000+
+
+****************************************************************************
+
+GRIMOIRS NEEDED:
+
+no
+
+****************************************************************************
+
+ITEMS:
+
+Alamar Forest:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Antar1:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Antar2:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Bartakhazan Mines:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Buthzak-Dum Mines:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Galvestone:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Gladstone Village:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Loudhorn Village:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Moonsdale:
+-----------------------------------------------------------------
+any blessed emerald ring of might
+-----------------------------------------------------------------
+
+Thistlerock:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+****************************************************************************
+
+SKILLS:
+
+all
+
+You don't know any spells.
+You know these skills:
+  accuracy              amazing   |    alertness             amazing
+  armour piercing       amazing   |    blindfight            amazing
+  bows                  amazing   |    climbing              amazing
+  critical hit          amazing   |    daggers               amazing
+  dark vision           amazing   |    detect hidden         amazing
+  dodge                 amazing   |    dual strike           amazing
+  dust trickery         amazing   |    fast healing          amazing
+  haggling              amazing   |    maces                 amazing
+  orientation           amazing   |    parry                 amazing
+  peek                  amazing   |    quickdraw             amazing
+  rewield               amazing   |    riding                amazing
+  shield block          amazing   |    short-blades          amazing
+  soft steps            amazing   |    spears                amazing
+  staves                amazing   |    swimming              amazing
+  tumble                amazing   |    two-weapon            amazing
+  unarmed               amazing   |    whips                 amazing
+You know these abilities:
+  appraise              amazing   |    backstab              amazing
+  bind wounds           amazing   |    blackjack             amazing
+  butcher               amazing   |    caltrops              amazing
+  circle                amazing   |    cutpurse              amazing
+  dagger strike         amazing   |    disarm                amazing
+  disarm trap           amazing   |    disguise              amazing
+  envenom               amazing   |    gouge                 amazing
+  hide in shadows       amazing   |    high kick             amazing
+  move silently         amazing   |    picklock              amazing
+  punch                 amazing   |    rescue                amazing
+  retreat               amazing   |    rob                   amazing
+  ropetrap              amazing   |    scan terrain          amazing
+  steal                 amazing   |    surge                 amazing
+  track                 amazing   |    trip                  amazing
+You know these traits:
+  find weakness                                              amazing
+  combat runner                                              amazing
+  stamina                                         	     fair
+
+You have 10 learning points remaining.
+
+****************************************************************************
+
+ALIASES:
+
+OK

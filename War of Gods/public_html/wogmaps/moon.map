@@ -1,0 +1,43 @@
+                            MOONSDALE
+
+          T           O-S
+          |           |             G-main gate
+          O         V O             T-tower  (Mage guild)
+           \        | |             V-vault
+            O   W-O-O-O-A           S-stables (horse)
+             \    | | |             W-weaponer
+              O-O-O-F-O-O-O-O-G     A-armourer
+                  | | |             F-fountain
+                  O-O-O-B           B-bar
+                  | | |             I-inn + rent -> `up`
+          O-O-O-O-O O R             R-treasurer shop
+         /  | | |   |               1-Holy knight (Paladin guild)
+      I-O   O O O   O               2-Cleric guild (up to 20)
+        |           |               C-`climb ladder`
+        O         O-O-O
+       /          | | |
+  C-O-O           O-O-O
+                    |
+                  1-O-O
+                    |
+                    2
+
+
+  SEWERS UNDER MOONSDALE
+       
+       *
+       |
+     O-O-*             * - cycle rooms
+     | |
+     C-O
+     | |
+     O O-*
+     | |
+     O-O Thief guild (up to 20)
+     | | |
+     O O-O
+     | | |
+     O-O O-O
+       | | |
+       O O O <-OUT
+

@@ -1,0 +1,50 @@
+                              SPIDER OUTPOST
+
+     EXIT                                      * - cycling
+      |                           *            # - room 'No obvious exists'
+      O     1D-O                  |            1U, 1D - path 'up' and 'down'
+      |        | G                v            2U, 2D - path 'up' and 'down'
+      O        O-A                2D           3, 3D - oneway 'down' from 3D to 3
+     /|\         T               /|\           4D, 4 - oneway 'down' from 4D to 4
+    O-O 1U       E             4D O 3D         5U, 5D - path 'up' and 'down'
+    | |                           |            6U, 6D - path 'up' and 'down'
+   2U-3                           *            7U, 7D - path 'up' and 'down'
+                                               H - `climb chimney` -> to HD
+                                               
+                          
+     | 
+     4-
+    (up) -> D      
+           /|\
+            O
+            |                                                               O              
+            O   #-O                                                        /|\             
+             \  |  \                                                    O-O-L-O            
+              # | O O                                                   |  \|/             
+              |\| | |           6U                            # D <---> U   O              
+              | O-# #6D          \                            |  \                         
+              | |                 H (to Undercaves)           #-# #                        
+              | 5D                |/                         /   /                         
+              | ^                 7D->O              7U <-> O-#-#          D (Necropolis)  
+              |  \                |                  ^                    /                
+              |   v               U <-> D8           |               O-O-O                 
+              |   D <-> U             (west to 8)    v              /                      
+              |                                      UP            HD                      
+              |                                                                            
+              |                                                                            
+              #                                                                                     
+              |                  
+              D <-> U,D <-> U    
+         (try        \           
+         go up        O-U5       
+         and down       |        
+         more times     O-#-8-   
+         to find                  
+         new 'up' exit)            
+                  
+                  
+                  
+                  
+                                        
+                                        
+                                        

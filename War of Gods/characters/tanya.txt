@@ -1,0 +1,219 @@
+EQUIPMENT:
+
+- You are using -----------------------------------------------------------
+  on the head      : blessed ruby elven chain coif
+  around the body  : golden cape of absorbtion				   [6]
+  on the neck      : golden amulet of vigour				   [1]
+  on the arms      : blessed ruby elven chain sleeves
+  around the wrist : golden bracelet of blocking			   [10]
+  on the hands     : blessed ruby elven chain gauntlets
+  on the finger    : blessed emerald ring of magic
+  on the body      : blessed ruby elven chain armour
+  around the waist : ruby belt of endurance
+  on the legs      : blessed ruby elven chain leggings
+  on the feet      : blessed ruby elven chain boots
+  as shield        : blessed ruby large shield
+  in right hand    : blessed ruby mace
+----------------------------------------------------------------------------
+
+****************************************************************************
+
+ATTRIBUTES:
+
+Your attack bonus is 75% with mace in your right hand.
+Your equipment gives you 0% bonus to dodge and 67% to parry
+attacks and absorbs 65% of damage from all physical attacks.
+You have 80% bonus to block attacks with your large shield.
+
+-*- HP: 416 (416) FP: 190 (190) Mana: 704 (704)
+
+****************************************************************************
+
+BACKGROUND:
+
+vitality, stronger, more luck
+
+****************************************************************************
+
+SCORE:
+
+Legend Tanya Hero the gnomish Soldier of Order of Holy Retribution
+------------------------------------------------------------
+ Player level              : 60
+ Gender                    : female
+ Race                      : gnome
+ Size                      : small
+ Class                     : cleric
+ Alignment                 : good
+ Deity                     : Kovarian
+ Clan                      : Order of Holy Retribution
+ Hit points(max)           : 416(416)
+ Fatique points(max)       : 190(190)
+ Mana(max)                 : 704(704)
+Primary stats:
+ Str: 19  Dex: 19  Con: 19  Int: 20  Wis: 23  Cha: 19
+You are feeling very brave !
+------------------------------------------------------------
+
+****************************************************************************
+
+SAVINGS:
+
+Basic saving throws vs    Resistance(%)        Immunity(%)
+-----------------------------------------------------------------
+  fire                      protected          vulnerable
+  cold                      protected          vulnerable
+  acid                   highly shielded       vulnerable
+  electricity               protected          vulnerable
+  poison                 highly shielded       vulnerable
+  touch                  highly shielded       vulnerable
+  disease              slightly protected      vulnerable
+  drain                  highly shielded       vulnerable
+  magic                     protected          vulnerable
+  mindeffective             protected          vulnerable
+  illusion                  protected          vulnerable
+  petrification          highly shielded       vulnerable
+  deathmagic           slightly protected      vulnerable
+  summoning              highly shielded       vulnerable
+  energy                    protected          vulnerable
+-----------------------------------------------------------------
+
+****************************************************************************
+
+DEITY:
+
+You feel that Kovarian is nice as pie.
+
+****************************************************************************
+
+INVENTORY:
+
+one platinum amulet of giant strength [21], one ruby dark robe of haggling [30]
+
+****************************************************************************
+
+BANK:
+
+5000+
+
+****************************************************************************
+
+GRIMOIRS NEEDED:
+
+no
+
+****************************************************************************
+
+ITEMS:
+
+Alamar Forest:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Antar1:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Antar2:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Bartakhazan Mines:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Buthzak-Dum Mines:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Galvestone:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Gladstone Village:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Loudhorn Village:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Moonsdale:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Thistlerock:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+****************************************************************************
+
+SKILLS:
+
+all
+
+You know these spells:
+  atonement             amazing   |    blade barrier         amazing
+  bless                 amazing   |    bravery               amazing
+  brotherhood           amazing   |    call lightning        amazing
+  cause blindness       amazing   |    cause critical wounds amazing
+  cause heavy wounds    amazing   |    cause light wounds    amazing
+  cause medium wounds   amazing   |    continual light       amazing
+  create food           amazing   |    create water          amazing
+  cure blindness        amazing   |    cure critical wounds  amazing
+  cure disease          amazing   |    cure heavy wounds     amazing
+  cure light wounds     amazing   |    cure medium wounds    amazing
+  detect aura           amazing   |    detect health status  amazing
+  detect illusion       amazing   |    detect magic          amazing
+  earthquake            amazing   |    elemental protection  amazing
+  faerie fire           amazing   |    faerie fog            amazing
+  far sight             amazing   |    feast                 amazing
+  find stone            amazing   |    firestorm             amazing
+  flame strike          amazing   |    flower odour          amazing
+  focus heat            superb    |    goodberry             superb
+  harm                  amazing   |    heal                  amazing
+  holy strike           amazing   |    insect plague         amazing
+  light                 amazing   |    mass bless            amazing
+  mind protection       amazing   |    mind vulnerability    amazing
+  neutralize poison     amazing   |    pacify                amazing
+  poison                amazing   |    prayer                amazing
+  raise dead            amazing   |    refresh critic        amazing
+  refresh heavy         amazing   |    refresh light         amazing
+  refresh medium        amazing   |    regenerate            amazing
+  remove paralysis      amazing   |    resist acid           amazing
+  resist cold           amazing   |    resist deathmagic     amazing
+  resist disease        amazing   |    resist electricity    amazing
+  resist energy         amazing   |    resist fire           amazing
+  resist illusion       amazing   |    resist magic          amazing
+  resist mindeffective  amazing   |    resist petrification  amazing
+  resist touch          amazing   |    restore               amazing
+  sand spray            amazing   |    see hidden            amazing
+  sense life            amazing   |    slow poison           amazing
+  spiked stones         amazing   |    spiritual hammer      amazing
+  starburst             amazing   |    stick to snakes       amazing
+  sting                 amazing   |    walk on water         amazing
+You know these skills:
+  accuracy              amazing   |    alertness             amazing
+  blindfight            amazing   |    bows                  amazing
+  climbing              amazing   |    dodge                 amazing
+  fast healing          amazing   |    haggling              amazing
+  maces                 amazing   |    meditation            amazing
+  parry                 amazing   |    riding                amazing
+  shield block          amazing   |    staves                amazing
+  swimming              amazing   |    unarmed               amazing
+You know these abilities:
+  appraise              amazing   |    brew                  amazing
+  butcher               amazing   |    disarm trap           amazing
+  punch                 amazing   |    rescue                amazing
+  retreat               amazing   |
+You know these traits:
+  spell charging: touch                                      amazing
+  spell powering: touch                                      amazing
+  spell powering: magic                                      amazing
+
+You have 541 learning points remaining.
+
+****************************************************************************
+
+ALIASES:
+

@@ -1,0 +1,15 @@
+O-O-O N
+  |   |                  GALVESTONE
+O-O F-O-C   O
+  |    \    |         F - fighter guild (up to 10)
+O-O P-O-W O-O-O       C - cleric guild (up to 10)
+   \ / \|\|           P - post office
+  A-O-E O-O           A - armoury
+   /   /  |           E - weaponry
+T-O-O O O-O-O         W - water source
+ /  $  \  |           R - rent
+O-O R-D G O           G - gate ( east -> stables (rhino) )
+        |             T - outfiter
+        O             $ - path `up` or `down`
+        |             D - donation room
+       EXIT           N - chieftain + 2 bodyguards

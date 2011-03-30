@@ -1,0 +1,34 @@
+         G                    MAZE OF CUTHARR
+         $
+         O              R
+         $              $
+         O        F     B
+         $        |     |
+M--O--O--O--O--O--O--W--O--O--O--O<->1
+         |  |  |        |
+         O  U  P     D--O--O
+         $              |
+         O              O
+         |              |
+       O-O-O            O
+       | | |
+       O S O
+        \|/
+         O
+         |            $ - path `up` or `down`
+         P            D - donation room
+                      P - shaman (you can get bless, prayer, ... etc here)
+                      U - armourer
+  |  #  |             P - weaponer
+--O--1##O--           F - outfitter
+  |  |  #             B - bartender
+--O##O##O--           R - rent
+  #  |  |             S - shaman guild
+--O##O--O--           M - fighter guild
+  |  #  |             G - doomguard guild
+     #                
+   EXIT               
+                      
+
+
+ # - path through maze

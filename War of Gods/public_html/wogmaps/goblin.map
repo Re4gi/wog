@@ -1,0 +1,19 @@
+  K   O-O-O-O-O         GOBLIN CAVES
+  |   |     | |
+  O   O     O-O     K - Goblin king
+  |   |     | |     T - Thief guild
+O-O O-O-2   T F     F - Fighter guild
+| |   |             W - Weaponer
+O-O O-O-O W A       A - Armourer
+  |   |   | |       G - Grocery
+  O O-O-O O-O-G     R - Rent
+  |   |   | |       S - Shaman guild
+  O-O-O-O-O-O-P-R   D - Donation room
+  | | |             C - Rocks
+  C-1-O             P - Pub
+  | | |             1 - Well
+  O-O-O-O-S         2 - 2x Rogue (autoattacker)
+  |     |
+  O     D
+  |
+ EXIT

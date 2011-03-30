@@ -1,0 +1,68 @@
+                                           THISTLEROCK                                               
+                                                                   
+              (ground floor)               ( 1 - floor )                         (-1 floor)
+                                                                       (when fall down from elevator)
+                                                                              
+                       O O                    W-O O                   
+                       | |                      | |                         
+                     O-O-O-O                    O-L-O                 (push hand in gap)
+                     $                         /  |                           O                         O                      
+             O-V   O O-O-O               Armoury  V                           $  (->'enter hole')       |      
+             | |   | $                                                        O <-----------------> O-O-O-O                    
+         O-O-O-O-O-O-Z                                                        $  (<-'climb up')         |        
+           |   |   | |                                                      O-O                         O                      
+           O   G   O DT (deathtrap)                                         !                                  
+            \  |   |                       ( 2 - floor )                    H (place where you fall)           
+             O O O-O                                                          ('climb ladder' -> ground floor) 
+             | | |                                                            (or 'north' through wall)        
+             O-O-O                           C-O                                                                        
+               |                                \                                                                       
+               O-O-O                             L                                                                      
+               |                                                               
+             O-O                                                               
+               |                                                               
+              EXIT                         
+                                           
+                                                 
+          ( 3 - floor )                    ( 4 - floor )          
+        
+        
+            O-O O-O-R                      L     O---A 
+              | | |                        |        /
+        O   O-O-R-O-O                      |     U /
+        |\ /| | |                          O     $/
+        O-O-O-O-O                          |     D---O
+             \|/                           |     |
+          N   O                            O--K--O
+          |   |                            
+        O-J-O-R
+          |   |
+        O O F R                                          
+         \|/                                             
+          W                O -`step base` -> T           
+           \               |
+          R-D -`down`--> O-O-O
+            |              |
+        O-O-T-Weaponer     B
+          | |              |   
+        O-O-L              Thief guild (up to 10)
+            |               (enter 2x)
+            O
+        
+
+ K - telescope
+ A - alchemist
+ U - path 'up' and 'down'
+ F - fighter guild (up to 10)
+ R - rocks
+ W - water basin
+ J - board room
+ N - donation room
+ G - main gate `turn wheel`
+ L - automatic elevator - you need to wait here (between 1st, 2nd, 3rd and 4th floor)
+ V - non-automatic elevator (between ground floor and 1st floor)
+     `pull chain` to call elevator
+     `push lever` (inside elevator) ->  to 1st floor
+     `pull lever` (inside elevator) ->  to ground floor
+      when fall down -> `climb ladder`
+ Z - automatic carriage system (you will fall into DT without levitate! - if vagon is on another floor )

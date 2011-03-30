@@ -1,0 +1,51 @@
+                 SEWERS UNDER ANTAR
+    1.floor                                  2.floor                   3.floor                      4. floor
+                                                                                                
+                                                                                                
+     O-----O-O>O->                           O-O-O                      O<----O-O-O                   O-O     O
+     |     | |    \                          | v v                      |       |                     |       |
+     O-O   O O-O-O O---O-O                   O>Q<O                      O O-O-O-O---O                 O-O-O-O-O
+       |   | | | | |     |                   |   v                      | |     |   |                         |
+   O   |   |/  O O O-O-O O                   O>Q<O                      O-O     O-O-O            O-O          |
+   |   |  /|     | |   | |                   |   v                      | |                        |          |
+   O-O O-O | 1   O-O   | O                   O>Q<O                    O-O O-O-O-O-O-O              O-O        |
+   | | | | | |         | |                   |   v                    | | | |   | | |              | |        |
+   | | | 1 | O-O       | O-O                 O>Q<O-U                  O-O O-O   O O O              O-O        |
+   | | |   |   |       | | |                 | | |                    |     |   | | |              | |        |
+   X O-O O-O-O-O 2     O O-X                 X-O-O <-(don't go north) O     O-O U O<O              O-O O O-O  |
+     |   |   |   |     | |                   | |                      |     |     |                |   | |    |
+   X-O---O F<E-D O O   O O               O-O | X4                     O-O   O---O-O                O-O-O-O    |
+     |   |   |   | |   | |                 | |                        | |   |                          |      |
+     O---O---O---O-O---O-O               D-O-F-R                      O-O-O-O                          O      |
+                                                                                                       |      |
+ 1- connected                            U- `climb ladder` (up) ->2    U - `up`                        O      |
+ E- EXIT `climb ladder`                  Q- deathtrap                                                  |      |
+ X- `down`                               D- `down` (3rd floor)                                       O-O-O    |
+ D- `down` (2nd floor)                   F- fall from (1st floor)                                    |        |
+ F- fall down (2nd floor)                R- from (1st floor)                                         O--U--O--O
+ X4 - path 'down' to 4. floor
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+          
+         
+         
+
+
+   5 - same room
+

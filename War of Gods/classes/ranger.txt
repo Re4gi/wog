@@ -1,0 +1,178 @@
+  a            ambush
+  ab           assist bear
+  ap           assist panther
+  b            bearcharge
+  bc           bury corpse
+  bk           order bear to kill
+  c            conceal
+  ca           calm animal
+  caf          cast 'animal friendship'
+  can          cast 'ally of nature'
+  cb           cast 'barkskin'
+  cc           cast 'call companion'
+  cd           close door
+  cdf          cast 'dance of the fireflies'
+  ceb          cast 'ever burning log'
+  ces          cast 'enchant staff'
+  cf           cast 'create food'
+  cg           close gate
+  cm           cast 'meteor'
+  cof          climb over fence
+  cr           climb rope
+  cre          creep
+  cs           cast 'spike thorns'
+  css          cast 'stick to snakes'
+  csw          cast 'spirit of wolf'
+  ct           cast 'thornfoot'
+  cw           cast 'create water'
+  dd           dive down
+  dh           dismount
+  di           disarm
+  dt           disarm trap on
+  dw           drink water
+  eb           eat bread
+  ec           enter cavity
+  ee           examine eye
+  ef           eat food
+  eo           enter opening
+  ep           enter passage
+  f            feint
+  fl           formation legion
+  fp           formation phallanx
+  fr           cast 'friends'
+  fs           formation skirmish
+  ga           get all
+  gb           get all from bones
+  gc           get all from corpse
+  gr           cast 'grasping roots'
+  gs           get all from skeleton
+  h            hunt
+  hk           high kick
+  ip           cast 'insect plague'
+  ld           lock door
+  lg           lock gate
+  lh           lead horse
+  lr           lower rope
+  m            messages
+  mc           cast 'mouldy coat'
+  me           meditate long
+  od           open door
+  og           open gate
+  p            pugil
+  pf           order panther to find
+  q            quaff
+  qb           quaff blue
+  qg           quaff green
+  qp           quaff purple
+  qr           quaff red
+  qy           quaff yellow
+  r            retreat
+  rb           rescue bear
+  re           rescue
+  rh           ride horse
+  rp           rescue panther
+  rr           raise rope
+  rs           rapid shot
+  sac          sacrifice corpse
+  sn           snare
+  sp           serpentstrike
+  sr           search room
+  ste          scan terrain
+  t            trip
+  ta           tame
+  tr           track
+  tw           cast 'tangle weed'
+  ud           unlock door
+  ug           unlock gate
+  wd           wimpy direction
+  8            kill warg
+  9            kill warboar
+  99           kill spider
+  0            kill zonga
+  00           kill mammoth
+  1            kill *dark-elf*
+  2            kill *orc*
+  3            kill *goblin*
+  4            kill *svirfneblin*
+  5            kill *minotaur*
+  6            kill *duergar*
+  7            kill *troll*
+  11           order bear to kill *dark-elf*
+  22           order bear to kill *orc*
+  33           order bear to kill *goblin*
+  44           order bear to kill *svirfneblin*
+  55           order bear to kill *minotaur*
+  66           order bear to kill *duergar*
+  77           order bear to kill *troll*
+  a1           ambush *dark-elf*
+  a2           ambush *orc*
+  a3           ambush *goblin*
+  a4           ambush *svirfneblin*
+  a5           ambush *minotaur*
+  a6           ambush *duergar*
+  a7           ambush *troll*
+  c1           cast 'mouldy coat' *dark-elf*
+  c2           cast 'mouldy coat' *orc*
+  c3           cast 'mouldy coat' *goblin*
+  c4           cast 'mouldy coat' *svirfneblin*
+  c5           cast 'mouldy coat' *minotaur*
+  c6           cast 'mouldy coat' *duergar*
+  c7           cast 'mouldy coat' *troll*
+  d1           disarm *dark-elf*
+  d2           disarm *orc*
+  d3           disarm *goblin*
+  d4           disarm *svirfneblin*
+  d5           disarm *minotaur*
+  d6           disarm *duergar*
+  d7           disarm *troll*
+  f1           feint *dark-elf*
+  f2           feint *orc*
+  f3           feint *goblin*
+  f4           feint *svirfneblin*
+  f5           feint *minotaur*
+  f6           feint *duergar*
+  f7           feint *troll*
+  i1           cast 'insect plague' *dark-elf*
+  i2           cast 'insect plague' *orc*
+  i3           cast 'insect plague' *goblin*
+  i4           cast 'insect plague' *svirfneblin*
+  i5           cast 'insect plague' *minotaur*
+  i6           cast 'insect plague' *duergar*
+  m1           cast 'meteor' *dark-elf*
+  m2           cast 'meteor' *orc*
+  m3           cast 'meteor' *goblin*
+  m4           cast 'meteor' *svirfneblin*
+  m5           cast 'meteor' *minotaur*
+  m6           cast 'meteor' *duergar*
+  m7           cast 'meteor' *troll*
+  p1           pugil *dark-elf*
+  p2           pugil *orc*
+  p3           pugil *goblin*
+  p4           pugil *svirfneblin*
+  p5           pugil *minotaur*
+  p6           pugil *duergar*
+  p7           pugil *troll*
+  s1           serpentstrike *dark-elf*
+  s2           serpentstrike *orc*
+  s3           serpentstrike *goblin*
+  s4           serpentstrike *svirfneblin*
+  s5           serpentstrike *minotaur*
+  s6           serpentstrike *duergar*
+  s7           serpentstrike *troll*
+  t1           cast 'thornfoot' *dark-elf*
+  t2           cast 'thornfoot' *orc*
+  t3           cast 'thornfoot' *goblin*
+  t4           cast 'thornfoot' *svirfneblin*
+  t5           cast 'thornfoot' *minotaur*
+  t6           cast 'thornfoot' *duergar*
+  t7           cast 'thornfoot' *troll*
+  w1           cast 'tangle weed' *dark-elf*
+  w2           cast 'tangle weed' *orc*
+  w3           cast 'tangle weed' *goblin*
+  w4           cast 'tangle weed' *svirfneblin*
+  w5           cast 'tangle weed' *minotaur*
+  w6           cast 'tangle weed' *duergar*
+  w7           cast 'tangle weed' *troll*
+  `            psay HEAL, RESCUE!!!
+  ``           psay RETREAT!!!
+  *F1-F7       bearcharge darkie

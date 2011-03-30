@@ -1,0 +1,20 @@
+         UNDERDEEPS
+G <- P
+     |
+ O-O-O O-O-O
+ | |   |   |    P - `push wall`
+ O-O   O   O    G - thief guild
+ |     |   |
+ O     O O-O
+ |     | |
+ O-O-O-O-O
+       |
+       O
+
+       ^
+       |
+       O (`pass bushes`)
+       |
+       O-O-O
+       |
+      EXIT

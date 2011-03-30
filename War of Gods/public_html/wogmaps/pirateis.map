@@ -1,0 +1,84 @@
+        
+        
+                O--O
+                $  $
+                U--U
+               / B  \
+        O--O--O /|\  O--O
+       /       O-O-O     \         B - leader
+      /        | | |    O-U        F - fountain
+     /    O O  O-O-O      |        G - gate
+    /     | |    |      O-O        U - path 'up'
+   /      O-U<-->D        |        $ - path `up` od `down`
+  /       | |   /         |
+ /        O O  /          |
+U   O O       /           U
+ \   \|      /           /
+  O   O--O--O--O--O     /
+  |   |     |          /
+  U   O O   O---F   O /
+   \    |   |   |   |/
+    O---O---O---O---O
+         \  |
+          \ |
+           \|
+            G---O (gate mechanism)
+        
+        
+        H O-O
+        | |  \
+        O O   O    H - hole -> `climb up'
+       /  |  /
+      O   O O
+       \ / /
+        O O
+        
+       \
+        O
+       /|
+      O
+      |
+      T            T - trapdoor -> `push western wall`
+      |
+      O
+   \ /              O -> `open bar`, `open trapdoor`, `up`
+    O                #
+                      O
+                      #
+        O   G         O
+    E  / \   \         #
+    X-O   O   O   O   O O -> `dive lake`
+    I      \ /   /    |/
+    T       O   O     O
+            |\   \    & -> `pass bushes`
+            O-O-O-O-O-O    
+             \|X|X|X|/
+              O-O-O-O
+                 \|/
+                  O
+                  |
+                  O
+                  |
+                  O
+                  |
+                 SHIP
+                 
+                 
+           GOLDEN SERPENT
+
+          1            1 - stern, exit up, a gang plank (if is possible to)
+         /|            2 - port
+        2-3            3 - starboard
+         \|            4 - bow
+          4
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    

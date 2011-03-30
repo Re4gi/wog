@@ -1,0 +1,30 @@
+
+       O                     FALCRENTH
+       |
+       O
+       |
+   O-O-O-O-O                        O-U 
+       |
+   O-O-O-O-O                          D           O
+       |                              |           |
+EXIT-S-O-O-O                     U  D-O-O       O-O-O
+         |  \                   /        \       /
+       O-O-O O-O-O-O     D   U-O          D   O-O-O
+      O  |       | |     |                      |
+      |  |       O-O     B      K       O-U-O   O O-H  
+    O-O--T-O       |     |      |      /    |   | |    
+      |  | H       U     D      O O O O O   O-O-O-O O O
+      O  | |                    | | | | |          \| |
+       O-O-O-O                  O-O-O O-O-O         O-O
+         | |                      | |/  |           | |
+         O O                      O O   O           O O
+                                    |
+                                    O
+
+S - sign
+T - statue
+U - up 
+D - down
+B - bridge(troll) (100 coins to pass through bridge)
+K - hobgoblin king
+H - hidden trap door connecting these two rooms (search room)

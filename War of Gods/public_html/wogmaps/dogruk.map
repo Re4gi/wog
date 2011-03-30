@@ -1,0 +1,92 @@
+                          DOGRUK
+
+  Valley              Silver Mines
+
+        N <-> N
+        |      \
+      O-O       O   O           E - `enter crack`
+      |          \  |           $ - path `up` or `down`
+      O           O-O-O         N - `enter gap`
+      $             |           P - picks
+      O           P-O           C - chest
+      |             |           V - silver golem
+O--O--E             O-C
+|                   |
+O             C O   O
+|             | |  / \
+O             O-O-O   V
+|               |
+EXIT            O
+
+
+                     River
+                                  Mithril Mines
+                       O
+                      /
+                     O         M-O-O
+  Golden Mines       |           | |           (repair elevator, pull handle)
+                     O         O-O O        MG O-O->O-O-R
+                     |         |   |         | |        |
+                     3 <-> 3-O-O-P J-O-O-O-O-O O-M      O
+                    /              |         | |
+                 O-O             4-O       O-O-O-H
+                /
+C-O-O-T        O
+  |            |
+O-O-O-U <----> 2
+  |             \         C - chest
+O-O-O       C    O-L      T - golden golem
+  |        /              U - Uther dwarven Hero
+  O     O-O                   `jump dowm` -> River
+   \      |               $ - path `up` or `down`
+    O     O               K - `enter hole`
+   / \    $               X - Argonix
+  C   O   O               1 - `dig north`
+      |   |               Z - Ghost of Thief Master
+      O-O-O G                 (darkvision for thieves)
+      |   $ |             W - water source (lake)
+      O   O-O             E - `enter crack`
+      |      \            B - cave bear
+      |       Z           G - glabrezu
+      |                   L - water lizard
+      | K <-> X           2 - `climb cliff` -> U
+      | |                 3 - `dive down` `enter crack` `rise up`
+      1-O                 M - molydeus
+      | |                 P - picks
+    E-W-O                 J - `read scroll`
+      |                   H - mithril golem
+      O                   R - mithril saurion
+      |
+      B
+                    Dogruk (lost city)
+
+
+            M--O--M                 $ - path `up` or `down`
+               |                    IG - Iron golem
+            O--O--O                 C - Chest
+               |                    M - Molydeus
+            O--O--O                 G - Glabrezu
+               |                    A - Dwarven statues
+               O   O--IG            CT - Chest with torches and breads
+                \  $
+            C    O-O
+            |   /|
+O--O--O  O--O--O O
+|  |  |  |  |    |
+O--O--O  O  O    O                   O--O--O
+|  |  |          |                   |  |  |
+O--O--O--O--MM   O             O--O--O--O--O
+         |      / \            $     |  |  |
+   O--O  O--O--O   O--O--O--A--O     O--O--4
+   |  |  |      \ /         |        |  |  |
+   O  O--O       O          O        O--O--O
+   |  |  |       |          |           |
+   O--O  O    O--O--G       O--G        O
+         |       |          |
+         O    O--O--M       O--M
+         |       |
+      O--O--O UP-O--O--O
+      |  |  |       |  |
+      O--O--C       CT C
+
+

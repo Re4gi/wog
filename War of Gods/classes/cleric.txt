@@ -1,0 +1,173 @@
+  a            cast 'atonement'
+  b            cast 'cause blindness'
+  bb           cast 'blade barrier'
+  bc           bury corpse
+  bh           cast 'brotherhood'
+  bl           cast 'bless'
+  br           cast 'bravery'
+  cb           cast 'cure blindness'
+  cc           cast 'cure critical wounds'
+  ccc          cast 'cause critical wounds'
+  cch          cast 'cause heavy wounds'
+  ccl          cast 'cause light wounds'
+  ccm          cast 'cause medium wounds'
+  cd           close door
+  cdi          cast 'cure disease'
+  cf           cast 'create food'
+  cg           close gate
+  ch           cast 'cure heavy wounds'
+  cl           cast 'cure light wounds'
+  cm           cast 'cure medium wounds'
+  cof          climb over fence
+  cr           climb rope
+  cw           cast 'create water'
+  dd           dive down
+  dhs          cast 'detect health status'
+  dm           cast 'detect magic'
+  dp           dismount
+  dt           disarm trap on
+  dw           drink water
+  ea           cast 'earthquake'
+  eb           eat bread
+  ec           enter cavity
+  ef           eat food
+  eo           enter opening
+  ep           enter passage
+  epr          cast 'elemental protection'
+  f            cast 'faerie fire'
+  fe           cast 'feast'
+  ff           cast 'faerie fog'
+  fis          cast 'find stone'
+  fl           formation legion
+  fo           cast 'flower odour'
+  fp           formation phallanx
+  fs           cast 'far sight'
+  fsk          formation skirmish
+  ga           get all
+  gb           get all from bones
+  gc           get all from corpse
+  gs           get all from skeleton
+  h            cast 'heal'
+  ha           cast 'harm'
+  hs           cast 'holy strike'
+  ip           cast 'insect plague'
+  ld           lock door
+  lg           lock gate
+  li           cast 'continual light'
+  lp           lead pony
+  lr           lower rope
+  m            messages
+  mb           cast 'mass bless'
+  me           meditate long
+  mp           cast 'mind protection'
+  mv           cast 'mind vulnerability'
+  np           cast 'neutralize poison'
+  od           open door
+  og           open gate
+  p            cast 'poison'
+  pa           cast 'pacify'
+  pr           cast 'prayer'
+  q            quaff
+  qb           quaff blue
+  qg           quaff green
+  qp           quaff purple
+  qr           quaff red
+  qy           quaff yellow
+  r            retreat
+  rc           cast 'refresh critic'
+  rd           cast 'raise dead'
+  re           rescue
+  rea          cast 'resist acid'
+  rec          cast 'resist cold'
+  red          cast 'resist deathmagic'
+  redi         cast 'resist disease'
+  ree          cast 'resist energy'
+  reel         cast 'resist electricity'
+  ref          cast 'resist fire'
+  reg          cast 'regenerate'
+  rei          cast 'resist illusion'
+  rema         cast 'resist magic'
+  remi         cast 'resist mindeffective'
+  rep          cast 'resist petrification'
+  repa         cast 'remove paralysis'
+  rest         cast 'restore'
+  ret          cast 'resist touch'
+  rh           cast 'refresh heavy'
+  rl           cast 'refresh light'
+  rm           cast 'refresh medium'
+  rp           ride pony
+  rr           raise rope
+  sa           cast 'sand spray'
+  sac          sacrifice corpse
+  shi          cast 'see hidden'
+  sl           cast 'sense life'
+  sr           search room
+  sti          cast 'sting'
+  ud           unlock door
+  ug           unlock gate
+  wd           wimpy direction
+  ww           cast 'walk on water' 
+  8            kill warg
+  9            kill warboar
+  99           kill spider
+  0            kill zonga
+  00           kill mammoth
+  1            kill *dark-elf*
+  2            kill *orc*
+  3            kill *goblin*
+  4            kill *svirfneblin*
+  5            kill *minotaur*
+  6            kill *duergar*
+  7            kill *troll*
+  11           cast 'sand spray' *dark-elf*
+  22           cast 'sand spray' *orc*
+  33           cast 'sand spray' *goblin*
+  44           cast 'sand spray' *svirfneblin*
+  55           cast 'sand spray' *minotaur*
+  66           cast 'sand spray' *duergar*
+  77           cast 'sand spray' *troll*
+  111          cast 'cause blindness' *dark-elf*
+  222          cast 'cause blindness' *orc*
+  333          cast 'cause blindness' *goblin*
+  444          cast 'cause blindness' *svirfneblin*
+  555          cast 'cause blindness' *minotaur*
+  666          cast 'cause blindness' *duergar*
+  777          cast 'cause blindness' *troll*
+  a1           cast 'atonement' *dark-elf*
+  a2           cast 'atonement' *orc*
+  a3           cast 'atonement' *goblin*
+  a4           cast 'atonement' *svirfneblin*
+  a5           cast 'atonement' *minotaur*
+  a6           cast 'atonement' *duergar*
+  a7           cast 'atonement' *troll*
+  f1           cast 'faerie fire' *dark-elf*
+  f2           cast 'faerie fire' *orc*
+  f3           cast 'faerie fire' *goblin*
+  f4           cast 'faerie fire' *svirfneblin*
+  f5           cast 'faerie fire' *minotaur*
+  f6           cast 'faerie fire' *duergar*
+  f7           cast 'faerie fire' *troll*
+  i1           cast 'insect plague' *dark-elf*
+  i2           cast 'insect plague' *orc*
+  i3           cast 'insect plague' *goblin*
+  i4           cast 'insect plague' *svirfneblin*
+  i5           cast 'insect plague' *minotaur*
+  i6           cast 'insect plague' *duergar*
+  i7           cast 'insect plague' *troll*
+  p1           cast 'poison' *dark-elf*
+  p2           cast 'poison' *orc*
+  p3           cast 'poison' *goblin*
+  p4           cast 'poison' *svirfneblin*
+  p5           cast 'poison' *minotaur*
+  p6           cast 'poison' *duergar*
+  p7           cast 'poison' *troll*
+  s1           cast 'sting' *dark-elf*
+  s2           cast 'sting' *orc*
+  s3           cast 'sting' *goblin*
+  s4           cast 'sting' *svirfneblin*
+  s5           cast 'sting' *minotaur*
+  s6           cast 'sting' *duergar*
+  s7           cast 'sting' *troll*
+  `            psay HEAL, RESCUE!!!
+  ``           psay RETREAT!!!
+  *F1-F7       cast 'holy strike' darkie

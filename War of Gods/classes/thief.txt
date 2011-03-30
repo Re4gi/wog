@@ -1,0 +1,119 @@
+  b            backstab
+  bc           bury corpse
+  bj           blackjack
+  bw           bind wounds
+  c            circle
+  ca           caltrops
+  cd           close door
+  cg           close gate
+  cof          climb over fence
+  cr           climb rope
+  cut          cutpurse
+  di           disarm
+  dis          disguise as
+  dp           dismount
+  ds           dagger strike
+  dt           disarm trap on
+  dw           drink water
+  eb           eat bread
+  ec           enter cavity
+  ee           examine eye
+  ef           eat food
+  eo           enter opening
+  ep           enter passage
+  fl           formation legion
+  fp           formation phallanx
+  fs           formation skirmish
+  g            gouge
+  ga           get all
+  gb           get all from bones
+  gc           get all from corpse
+  gs           get all from skeleton
+  h            hide in shadows
+  ld           lock door
+  lg           lock gate
+  lp           lead pony
+  lr           lower rope
+  m            messages
+  ms           move silently
+  od           open door
+  og           open gate
+  pw           poisonward
+  q            quaff
+  qb           quaff blue
+  qg           quaff green
+  qp           quaff purple
+  qr           quaff red
+  qy           quaff yellow
+  r            retreat
+  re           rescue
+  rp           ride pony
+  rr           raise rope
+  rt           ropetrap
+  sac          sacrifice corpse
+  sp           sprint
+  sr           search room
+  ste          scan terrain
+  su           surge
+  t            trip
+  tr           track
+  ud           unlock door
+  ug           unlock gate
+  wd           wimpy direction
+  8            kill warg
+  9            kill warboar
+  99           kill spider
+  0            kill zonga
+  00           kill mammoth
+  1            kill *dark-elf*
+  2            kill *orc*
+  3            kill *goblin*
+  4            kill *svirfneblin*
+  5            kill *minotaur*
+  6            kill *duergar*
+  7            kill *troll*
+  11           backstab *dark-elf*
+  22           backstab *orc*
+  33           backstab *goblin*
+  44           backstab *svirfneblin*
+  55           backstab *minotaur*
+  66           backstab *duergar*
+  77           backstab *troll*
+  111          circle *dark-elf*
+  222          circle *orc*
+  333          circle *goblin*
+  444          circle *svirfneblin*
+  555          circle *minotaur*
+  666          circle *duergar*
+  777          circle *troll*
+  b1           blackjack *dark-elf*
+  b2           blackjack *orc*
+  b3           blackjack *goblin*
+  b4           blackjack *svirfneblin*
+  b5           blackjack *minotaur*
+  b6           blackjack *duergar*
+  b7           blackjack *troll*
+  c1           caltrops *dark-elf*
+  c2           caltrops *orc*
+  c3           caltrops *goblin*
+  c4           caltrops *svirfneblin*
+  c5           caltrops *minotaur*
+  c6           caltrops *duergar*
+  c7           caltrops *troll*
+  d1           dagger strike *dark-elf*
+  d2           dagger strike *orc*
+  d3           dagger strike *goblin*
+  d4           dagger strike *svirfneblin*
+  d5           dagger strike *minotaur*
+  d6           dagger strike *duergar*
+  d7           dagger strike *troll*
+  g1           gouge *dark-elf*
+  g2           gouge *orc*
+  g3           gouge *goblin*
+  g4           gouge *svirfneblin*
+  g5           gouge *minotaur*
+  g6           gouge *duergar*
+  g7           gouge *troll*
+  ``           psay RETREAT!!!
+  `            psay HEAL, RESCUE!!!
+  *F1-F7      disarm darkie

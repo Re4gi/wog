@@ -1,0 +1,299 @@
+EQUIPMENT:
+
+- You are using -----------------------------------------------------------
+  on the head      : blessed ruby full helm
+  around the body  : mithril cloak of stamina                               [50]
+  on the neck      : ruby amulet of warding                                 [12]
+  on the arms      : blessed ruby fullplate sleeves
+  around the wrist : platinum bracelet of blocking                          [11]
+  on the hands     : blessed ruby fullplate gauntlets
+  on the finger    : blessed emerald ring of absorbtion
+  on the body      : blessed ruby fullplate armour
+  around the waist : blessed ruby belt of endurance
+  on the legs      : blessed ruby fullplate leggings
+  on the feet      : blessed ruby fullplate boots
+  as shield        : blessed ruby tower shield
+  on shield        : wooden stick (lit)
+  in right hand    : blessed ruby pike
+----------------------------------------------------------------------------
+
+****************************************************************************
+
+ATTRIBUTES:
+
+tactics passive:
+
+Your attack bonus is 41% with pike in your right hand and
+22% with tower shield in your left hand.
+Your equipment gives you 0% bonus to dodge and 71% to parry
+attacks and absorbs 78% of damage from all physical attacks.
+You have 119% bonus to block attacks with your tower shield.
+Your toughness reduces damage from all attacks by 20%.
+
+Your attack bonus is 40% with broadsword in your right hand
+and 22% with tower shield in your left hand.
+Your equipment gives you 0% bonus to dodge and 115% to parry
+attacks and absorbs 78% of damage from all physical attacks.
+You have 119% bonus to block attacks with your tower shield.
+Your toughness reduces damage from all attacks by 20%.
+
+tactics defensive:
+
+Your attack bonus is 71% with pike in your right hand and
+51% with tower shield in your left hand.
+Your equipment gives you 0% bonus to dodge and 68% to parry
+attacks and absorbs 78% of damage from all physical attacks.
+You have 114% bonus to block attacks with your tower shield.
+Your toughness reduces damage from all attacks by 20%.
+
+Your attack bonus is 70% with broadsword in your right hand
+and 51% with tower shield in your left hand.
+Your equipment gives you 0% bonus to dodge and 110% to parry
+attacks and absorbs 78% of damage from all physical attacks.
+You have 114% bonus to block attacks with your tower shield.
+Your toughness reduces damage from all attacks by 20%.
+
+tactics normal:
+
+Your attack bonus is 101% with pike in your right hand and
+90% with tower shield in your left hand.
+Your equipment gives you 0% bonus to dodge and 62% to parry
+attacks and absorbs 78% of damage from all physical attacks.
+You have 104% bonus to block attacks with your tower shield.
+Your toughness reduces damage from all attacks by 20%.
+
+Your attack bonus is 99% with broadsword in your right hand
+and 90% with tower shield in your left hand.
+Your equipment gives you 0% bonus to dodge and 100% to parry
+attacks and absorbs 78% of damage from all physical attacks.
+You have 104% bonus to block attacks with your tower shield.
+Your toughness reduces damage from all attacks by 20%.
+
+tactics offensive:
+
+Your attack bonus is 111% with pike in your right hand and
+104% with tower shield in your left hand.
+Your equipment gives you 0% bonus to dodge and 50% to parry
+attacks and absorbs 78% of damage from all physical attacks.
+You have 84% bonus to block attacks with your tower shield.
+Your toughness reduces damage from all attacks by 20%.
+
+Your attack bonus is 108% with broadsword in your right hand
+and 104% with tower shield in your left hand.
+Your equipment gives you 0% bonus to dodge and 80% to parry
+attacks and absorbs 78% of damage from all physical attacks.
+You have 84% bonus to block attacks with your tower shield.
+Your toughness reduces damage from all attacks by 20%.
+
+tactics aggressive:
+
+Your attack bonus is 121% with pike in your right hand and
+121% with tower shield in your left hand.
+Your equipment gives you 0% bonus to dodge and 31% to parry
+attacks and absorbs 78% of damage from all physical attacks.
+You have 52% bonus to block attacks with your tower shield.
+Your toughness reduces damage from all attacks by 20%.
+
+Your attack bonus is 118% with broadsword in your right hand
+and 121% with tower shield in your left hand.
+Your equipment gives you 0% bonus to dodge and 50% to parry
+attacks and absorbs 78% of damage from all physical attacks.
+You have 52% bonus to block attacks with your tower shield.
+Your toughness reduces damage from all attacks by 20%.
+
+-*- HP: 549 (549) FP: 200 (200) Mana: 292 (292)
+
+****************************************************************************
+
+BACKGROUND:
+
+melee fighting, using magic, more luck
+
+****************************************************************************
+
+SCORE:
+
+Holy Avenger Ivor Hero the human Soldier of Order of Holy Retribution
+------------------------------------------------------------
+ Player level              : 55
+ Gender                    : male
+ Race                      : human
+ Size                      : medium
+ Class                     : paladin
+ Alignment                 : lawful good
+ Deity                     : Leoric
+ Clan                      : Order of Holy Retribution
+ Hit points(max)           : 549(549)
+ Fatique points(max)       : 250(250)
+ Mana(max)                 : 292(292)
+Primary stats:
+ Str: 21  Dex: 20  Con: 20  Int: 20  Wis: 19  Cha: 20
+You are feeling very brave !
+------------------------------------------------------------
+
+****************************************************************************
+
+SAVINGS:
+
+Basic saving throws vs    Resistance(%)        Immunity(%)
+-----------------------------------------------------------------
+  fire                   rather shielded       vulnerable
+  cold                   rather shielded       vulnerable
+  acid                   highly shielded       vulnerable
+  electricity            highly shielded       vulnerable
+  poison                 rather shielded       vulnerable
+  touch                  rather shielded       vulnerable
+  disease              slightly protected      vulnerable
+  drain                     protected          vulnerable
+  magic                  highly shielded       vulnerable
+  mindeffective          highly shielded       vulnerable
+  illusion               highly shielded       vulnerable
+  petrification          highly shielded       vulnerable
+  deathmagic             highly shielded       vulnerable
+  summoning              highly shielded       vulnerable
+  energy                 highly shielded       vulnerable
+-----------------------------------------------------------------
+
+****************************************************************************
+
+DEITY:
+
+You feel that Leoric is nice as pie.
+
+****************************************************************************
+
+INVENTORY:
+
+one blessed ruby broadsword, one platinum cape of giant strength [26],
+one golden amulet of haggling [28]
+
+****************************************************************************
+
+BANK:
+
+5000+
+
+****************************************************************************
+
+GRIMOIRS NEEDED:
+
+no
+
+****************************************************************************
+
+ITEMS:
+
+Alamar Forest:
+-----------------------------------------------------------------
+blessed ruby lance
+-----------------------------------------------------------------
+
+Antar1:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Antar2:
+-----------------------------------------------------------------
+medium blessed mithril fullplate barding
+-----------------------------------------------------------------
+
+Bartakhazan Mines:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Buthzak-Dum Mines:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Galvestone:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Gladstone Village:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Loudhorn Village:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Moonsdale:
+-----------------------------------------------------------------
+any darkened emerald ring of absorbtion
+any darkened emerald ring of freshness
+any darkened multicoloured emerald ring				 [fire, magic, energy]
+medium pale golden amulet					 [9 immunity]
+medium golden amulet of might					 [1]
+any darkened emerald ring of regeneration
+any blessed emerald ring of agility
+medium mithril amulet of might					 [1]
+any blessed emerald ring of blocking
+any blessed emerald ring of blocking
+any darkened emerald ring of warding
+any blessed emerald ring of warding
+any darkened emerald ring of regeneration
+-----------------------------------------------------------------
+
+Thistlerock:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+****************************************************************************
+
+SKILLS:
+
+all
+
+You know these spells:
+  armour of faith       amazing   |    back to the grave     amazing
+  bless                 amazing   |    champions strength    amazing
+  cure light wounds     amazing   |    cure medium wounds    amazing
+  fortitude             amazing   |    heroic day            amazing
+  heroism               amazing   |    holy mark             amazing
+  prayer                amazing   |    sacred aura           amazing
+  saint aura            amazing   |    turn undead           amazing
+You know these skills:
+  accuracy              amazing   |    alertness             amazing
+  axes                  amazing   |    blindfight            amazing
+  bows                  amazing   |    brawling              amazing
+  climbing              amazing   |    clubs                 amazing
+  daggers               amazing   |    dodge                 amazing
+  double strike         amazing   |    fast healing          amazing
+  flails                amazing   |    haggling              amazing
+  hammers               amazing   |    long-blades           amazing
+  maces                 amazing   |    meditation            amazing
+  mounted combat        amazing   |    multi opponent        amazing
+  parry                 amazing   |    polearms              amazing
+  redemption            amazing   |    rewield               amazing
+  riding                amazing   |    second attack         amazing
+  shield block          amazing   |    shields               amazing
+  short-blades          amazing   |    smash weapon          amazing
+  spears                amazing   |    staves                amazing
+  swimming              amazing   |    twohanded-axes        amazing
+  twohanded-blades      amazing   |    twohanded-clubs       amazing
+  twohanded-flails      amazing   |    twohanded-hammers     amazing
+  unarmed               amazing   |    whips                 amazing
+You know these abilities:
+  appraise              amazing   |    back to back          amazing
+  butcher               amazing   |    call warhorse         amazing
+  charge                amazing   |    confess               amazing
+  disarm                amazing   |    disarm trap           amazing
+  doorbash              amazing   |    drill warhorse        amazing
+  hard kick             amazing   |    lay hands             amazing
+  punch                 amazing   |    rescue                amazing
+  retreat               amazing   |    shield bash           amazing
+  smite                 amazing   |    track                 amazing
+  trample               amazing   |
+You know these traits:
+  high pain threshold                                        fair
+  toughness                                                  amazing
+  endurance                                                  amazing
+  tactician                                                  fair
+
+You have 163 learning points remaining.
+
+****************************************************************************
+
+ALIASES:
+
+OK

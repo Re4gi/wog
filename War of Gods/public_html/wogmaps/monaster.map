@@ -1,0 +1,29 @@
+   LEORIC'S MONASTERY
+
+      O
+      |
+      O      W - water source
+     / \
+    O   O
+     \ /
+      O
+      |
+  O-O-O-O-O
+  |   |   |
+O-O O-O-O O-O
+  |       |
+O-O O O O O-O
+  | | | | |
+  O-O-O-O-O
+      |
+      O
+      |
+  O O-O-O-O   O-O-O
+  | | | | |   | | |
+  O-O O O O-O-O-W-O-O-O-EXIT
+  | |     |   | | |
+  O O O O O   O-O-O
+  | | | | |
+  O O-O-O-O
+      | |
+      O O

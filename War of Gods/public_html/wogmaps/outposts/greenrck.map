@@ -1,0 +1,22 @@
+                     GREENROCK OUTPOST
+
+
+                 EXIT
+                  |
+                  O
+                  |                          O-O
+              S-O-O                            |
+              |    \                     O-D   O-O
+              O     O-O-EXIT                \ /
+             / \   /                       O-U-O            D
+     EXIT-O-O   O-S                         / \
+                |                        O-O   D-O
+                O                              |
+                |                              O
+               EXIT                      
+                                         
+             ground                      upper floor      top floor
+                                         
+        S - secret exit 'UP' (there is floor with exits 'UP and DOWN')
+        U - on up is next room with exits UP and DOWN, exit up is leading to top
+        on top is chief of this outpost

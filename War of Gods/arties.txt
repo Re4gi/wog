@@ -1,0 +1,161 @@
+wooden staff of the wanderer 	  	+10 to spell penetration, +2 to fp regen 	 			Beholder		Vialyrian University of Magic	
+cotton mystic dark blue pointed hat	+10 to electricity resistance, +1 to intelligence			Espera			Exile
+cotton mystic dark blue pointed hat	+10 to electricity resistance, +1 to intelligence			Hammond McElhone	Exile underground
+ruby undead banisher			sword with chance to stun undead with hit				Dracolich		Exile underground
+silk spectral boots of elvenkind	-5 to loudness								Selic			Exile underground
+ruby great axe of slaughtering		chance for special hit - enemy lvl 30- -> instant kill			Gargantuan ape		Swamps of Death
+violet silver brooch of glory		amulet, +20 to touch resistance, fearless				Iron golem		Dogruk
+ruby falcon sword of swiftness		+10 to attack, +1 to max speed						Zdrill'ekgon		Ice Fortress
+emerald heartseeker			battle bow								Gwyallen		Ice Fortress
+green spear of ssep			poisoned ruby spear							Styr chieftain 		Swamps of Death
+ruby shining lance of benevolence	+1 magical damage							Rodi			Paladin's camp
+silver shield of reflection		kite shield, no paralyze with gaze					Lich			Tangwar
+silk shadow hood of the brotherhood	+25 to magic immunity							Rhiedan shane 		Rogue Camp
+ruby rapier of godspeed			+1 to max speed, +1 to fp regen						Lutamienen		Alamar
+ruby elven coif of wisdom		+1 to wisdom								Yarnalla Whiteflower	Dran Forest
+silk shadow hood of the sisterhood	+25 to magic immunity							Ven'ommis'tress		Goragrom
+mithril axe of krezzod			+10 to attack								Krezzod the Mighty	Duergen trading post
+ruby soulkeeper				elven chain armour, +15 to drain resistance, +20 to drain immunity	Krezzod the Mighty	Duergen trading post
+ancient smokebottle			create darkness								Hammond McElhone	Exile underground
+leather green leather quiver of plenty	neverending quiver							Vermona			Druid Grove
+emerald amulet of the beast		+3 to hp regen	
+ruby bloodstained great sword of hatred	+5 to attack, cleaving attack
+violet platinum medallion of inveteracy	amulet, +20 to touch resistance, fearless				Iron golem		Dogruk
+emerald battlepriest armour		+1 to constitution
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ruby dark red fullplate armour of sturdiness					Styr chieftain				Swamps of Death
+
+You can see that the shape of a fierce-looking head of a
+drake is inscribed in the middle on the front side. On
+the back of this fullplate armour you can see three
+small black gemstones that are arranged in the form
+of a reversed triangle.
+It is in superb condition.
+It has a dim magical hue.
+When worn, the armour gives you +1 to constitution.
+It is made of ruby.
+It is of any size.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ruby bloodstained great sword of hatred							Gargantuan ape				Swamps of Death					twohanded-blades mastery		darkie
+
+Even for a twohanded sword this blade is extraordinary long.
+The hilt is very wide, enabling even large hands a good grip.
+In addition to the encrusted blood on the blade, a red glow
+and a deep humming sound are giving this sword a creepy whiff.
+A black inked carving runs vertically along the sword, it reads:
+Z º = - : > è § | ~ º / § ~ T § ~ - ﬁ
+It is in superb condition.
+It has a bright magical hue.
+When wielded, the great sword of hatred gives you +5 to attack.
+It is made of ruby.
+It looks very heavy.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+wool amulet of zygurg											Zygurg						Free Harbour
+
+The amulet is made from wool and he has little diamond eye
+which changes his color but it's always but only red but
+only green. The legend says that eye will stay green when
+its owner is hidden
+It is in superb condition.
+It is made of wool.
+It is of any size.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ruby great axe of slaughtering									Gargantuan ape				Swamps of Death					twohanded-axes mastery
+
+It is an extremely heavy axe with a large and engraved blade.
+Encrusted beads of blood are covering the whole weapon. A
+tiny red gem is placed in the middle of the body of the axe.
+The gem is strangely pulsating and causing a weird vibration.
+It is in superb condition.
+It is made of ruby.
+It looks very heavy.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ruby rapier of godspeed											Lutamienen					Alamar
+
+Sharp looking weapon from class known as rapiers. Imbued with wild
+magic, when wielded, grants extra speed and wielder also feels
+that walking is not so tiresome as usually. Especially favoured by
+those who have to run more often then fight face to face. Hence
+the name came from.
+It is in superb condition.
+It has a dim magical hue.
+When wielded, the rapier gives you +1 to max speed, +1 to fp regen.
+It is made of ruby.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+mithril axe of krezzod											Krezzod						Duergen trading post			
+
+You can see a rough looking axe, obviously battered by time, nevertheless
+there is something special about it. A tiny gemstone is inlaid in the
+middle of the blade. There are various stories how Krezzod claimed this
+axe, but most believe that it was a loot from a long-forgotten battle.
+It is in superb condition.
+It has a brilliant, pulsating magical hue.
+When wielded, the axe of Krezzod gives you +10 to attack.
+It is made of mithril.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ruby soulkeeper													Krezzod						Duergen trading post
+
+A very fine looking chainmail armour. On the first view it looks
+like a common and plain chain armour but as you examine it closely
+you can see a thin, barely visible grid. It seems to be made of pure
+energy and it is attached to the armour. As you touch the grid nothing
+unusual happens. You are quite sure that this grid is not ment to raise
+the absorbage of this armour.
+It is in superb condition.
+It has a brilliant, pulsating magical glow.
+When worn, the armour gives you +15 to drain resistance.
+When worn, the armour gives you +20 to drain immunity.
+It is made of ruby.
+It is of any size.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+silk shadow hood of the sisterhood								Ven'ommis'tress				Goragrom
+
+Grey, high quality silk hood is possibly the real reason why
+every moll wants to be member of the sisterhood. Leader is a
+sicko, always putting her affairs personnel above the ones
+of the guild. The most sad thing, her jealous husband is
+even able to hire clerics to locate his wife on her sashays
+d'amoure. Thus the hood with the ability to negate magical
+divination attempts.
+It is in superb condition.
+It has a brilliant, pulsating magical glow.
+When worn, the helm gives you +25 to magic immunity.
+It can only be used by thief.
+It is made of silk.
+It is of any size.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+green spear of Ssep												Styr chieftain				Swamps of Death
+
+This spear look like a common spear but maybe its green glowing surface
+is hidding some unidetified power. Its long handle is covered by runes.
+It looks very old, maybe it is an ancient weapon that high priests of
+the Ssep were wearing.
+It is in superb condition.
+A green liquid is attached to it.
+It is made of ruby.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+pair of orcish war-drums										Kar-Gar orc					Kar-Gar fortress
+
+Orcish armies usually use horns and the war-drums to intimidate the enemies.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------

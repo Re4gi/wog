@@ -1,0 +1,16 @@
+         U         KOBOLD SETTLEMENT
+         |
+         O-D
+        / \
+       /   \         U - path `up`
+    O-O     O-O      D - path `down` (locked door)
+      |     |
+    O-O--O--O-O
+      |  |  |
+    O-O  |  O-O
+         |
+    EXIT O
+     |   |
+     O   |
+     |   |
+     O---O

@@ -1,0 +1,24 @@
+                O   O---O  EXIT O
+                |   |   |   |   |
+            O---O---O   O   O---O---O
+            |       |   |   V   |
+            E---O   O   O---O---O---O
+                    |               |
+                    O               O
+                    |
+            O   O---O   O<--O-->O
+            |   |       |   |   |
+        O---O---O---O---O   O---O---E -> O---O
+                    V   V   |   |        |
+        O   O---O   O---O---O   O---O    R
+        |       |               |
+    O---O---O---O---O---O---O   O---O
+            |   |       |   |   |
+            O---O---O---O   O---O---O
+                |   |   |   |   V
+                O  EXIT O---O---O
+
+
+          E - `enter passage` -> to EXIL
+          < ; > ; V ; U  -  oneway road ( not visible)
+          R - robbers

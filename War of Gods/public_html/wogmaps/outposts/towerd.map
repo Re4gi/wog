@@ -1,0 +1,15 @@
+                        TOWER OF DEAD
+
+    0. floor       1. floor        2. floor
+
+        O              O              O
+E      / \             |               \        1 - path 'up'
+X-O-O-O 1-S          O-2-O              3-O     2 - path 'up' and 'down'
+I      \ /$            |               /        3 - path 'down'
+T       O $            O              L         L - get log
+          $                                     S - crush slab with log (exit 'down' will appear)
+          $
+        | $
+        O-O
+        |
+        O

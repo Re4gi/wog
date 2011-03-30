@@ -1,0 +1,29 @@
+			WEREWOOD
+
+         O-O-O
+              \
+        O-O-L1-a-O O                    a - Ankhegg
+                  X \                   W - Werewolf
+        1-2-L2-W O-W O-EXIT             A - Dire Ape
+               |  /                     T - 'Climb branches'
+         O-O-O-O-O                      KA - 2x Killer Ape, 'Enter hole'
+              \|/                       L1,L2 - grab liane;jump -> J
+               A                        J - on liane 'jump east' or 'jump west'
+               |     KA <-> Nest        B - Basilisk
+               T <-> $                  R - Rope
+                                        D - 'tie rope to boulder' inak deathtrap
+                                        G - Doomguard guildmaster up to 35
+                                        H - acid drakes
+
+
+                  O-O   O-O
+                  $       $ O-J-J-L1
+                  O   R   O $ $ $ $ - ked sa smykne z liany
+                  $   |   $ $ 1-2-L2
+            O O D-O-O-O-O-O O <-
+            |/|\$         $ $   |
+        G-H-O-O-O     climb-B-climb east
+             \|/       west
+            O-O
+              |
+              O

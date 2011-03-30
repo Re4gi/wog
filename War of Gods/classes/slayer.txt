@@ -1,0 +1,112 @@
+  ac           ancestral call
+  b            berserk
+  ba           batter
+  ban          bandage
+  bc           bury corpse
+  bo           bodyslam
+  c            cleave
+  ca           challenge
+  cd           close door
+  cg           close gate
+  cof          climb over fence
+  cr           climb rope
+  db           doorbash
+  dd           dive down
+  di           shatter weapon
+  dp           dismount
+  dt           disarm trap on
+  dw           drink water
+  eb           eat bread
+  ec           enter cavity
+  ef           eat food
+  eo           enter opening
+  ep           enter passage
+  fa           feral assault
+  fl           formation legion
+  fp           formation phallanx
+  fs           formation skirmish
+  ga           get all
+  gb           get all from bones
+  gc           get all from corpse
+  gs           get all from skeleton
+  h            headbutt
+  hk           hard kick
+  ld           lock door
+  le           leap
+  lg           lock gate
+  lp           lead pony
+  lr           lower rope
+  m            messages
+  od           open door
+  og           open gate
+  p            pound
+  q            quaff
+  qb           quaff blue
+  qg           quaff green
+  qp           quaff purple
+  qr           quaff red
+  qy           quaff yellow
+  r            retreat
+  re           rescue
+  rp           ride pony
+  rr           raise rope
+  sac          sacrifice corpse
+  sr           search room
+  sta          stalk
+  ste          scan terrain
+  tr           track
+  ud           unlock door
+  ug           unlock gate
+  wa           warcry
+  wd           wimpy direction
+  ww           whirlwind
+  8            kill warg
+  9            kill warboar
+  99           kill spider
+  0            kill zonga
+  00           kill mammoth
+  1            kill *dark-elf*
+  2            kill *orc*
+  3            kill *goblin*
+  4            kill *svirfneblin*
+  5            kill *minotaur*
+  6            kill *duergar*
+  7            kill *troll*
+  11           cleave *dark-elf*
+  22           cleave *orc* 
+  33           cleave *goblin*
+  44           cleave *svirfneblin*
+  55           cleave *minotaur*
+  66           cleave *duergar*
+  77           cleave *troll*
+  d1           shatter weapon *dark-elf*
+  d2           shatter weapon *orc*
+  d3           shatter weapon *goblin*
+  d4           shatter weapon *svirfneblin*
+  d5           shatter weapon *minotaur*
+  d6           shatter weapon *duergar*
+  d7           shatter weapon *troll*
+  f1           feral assault *dark-elf*
+  f2           feral assault *orc*
+  f3           feral assault *goblin*
+  f4           feral assault *svirfneblin*
+  f5           feral assault *minotaur*
+  f6           feral assault *duergar*
+  f7           feral assault *troll*
+  p1           pound *dark-elf*
+  p2           pound *orc*
+  p3           pound *goblin*
+  p4           pound *svirfneblin*
+  p5           pound *minotaur*
+  p6           pound *duergar*
+  p7           pound *troll*
+  t1           batter *dark-elf*
+  t2           batter *orc*
+  t3           batter *goblin*
+  t4           batter *svirfneblin*
+  t5           batter *minotaur*
+  t6           batter *duergar*
+  t7           batter *troll*
+  `            psay HEAL, RESCUE!!!
+  ``           psay RETREAT!!!
+  *F1-F7       leap darkie

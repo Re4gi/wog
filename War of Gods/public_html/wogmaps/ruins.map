@@ -1,0 +1,27 @@
+        Z
+        |           MACHYLNETH
+    O-C G
+    |  /|\                  K           P - `pass bushes`
+    O-O D O                 |           R - rocks
+      |   |                 N           S - `clean shoes`
+    O-O   O-N              / \          C - stairs down
+   /   \ /   \        O---O---O---O     M - Macland
+O O     O     O        \ /     \ /      N - necromancer
+|\|           |         N       O       D - `down` -> K
+M O     R     O O      / \     / \      K - `knock wall`
+   \    |    / \|     O---O---N---O     L - `climb ladder` -> 1
+    O O-O-O-O   S          \ /          G - Guard
+        $                   L           Z - Z'ztras
+        P
+       / \
+      1   O
+      |   |
+      O   O
+       \ /
+        O
+        |
+        O
+        |
+        O
+        |
+       EXIT

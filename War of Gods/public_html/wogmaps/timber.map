@@ -1,0 +1,43 @@
+                TIMBER OF SHADOWS + TEETH TOWER
+                
+     TEETH TOWER
+
+   LEVEL 0                 LEVEL -1
+
+O-O   O   O   O-O
+|  \ / \ / \ /  |        O O         O
+O   O   O   O   O        | |         |
+ \ / \  |  / \ /       G-O-O       D-O
+  O   R U R   O        $    \     /  |
+ / \  |   |  / \       $ O-O O   O   O
+O   O-O   O-O   O      $/|X|\ \ /
+ \     \ /     /       O-O-O-B U -> (main staircase)
+  O-U   M   U-O         \|X|/ / \
+ /     / \     \         O-O O   O
+O   O-O   O-O   O           /     \
+ \ /  |   |  \ /       O-O-O       O-O-O
+  O   R U R   O          |           |
+ /   / \|/ \   \         O           O
+O   O   O   O   O
+|  / \ / \ / \  |
+A-O   O   O   O-T    A - altar -> `put hands in openings` for leave
+                     M - main staircase (path down)
+^                    R - rocks
+|     TIMBER         W - wolf
+        OF           D - `down`
+P    SHADOWS    O    U - `up`
+ \             /     P - `exa stones`; then
+  W-O       O-O           push one of the rocks
+   \|\     /|/       G - `open gate` (ghosts will attack)
+    O O-O-O O        T - trolls
+     \| | |/         B - vampire baron Brulgoschej
+      O-O-O
+        |
+       EXIT
+
+
+
+
+
+
+

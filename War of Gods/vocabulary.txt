@@ -1,0 +1,173 @@
+along			pozdlz
+cliff			utes
+eastward		na vychod
+fortress		pevnost
+passage			priechod
+wide 			siroky
+litter			vystlat
+surface			povrch
+narrow			uzky
+scrape			skriabanec
+marking			oznacenie
+ravine			roklina
+root			koren
+palisade		palisada, hradba
+thick			tucny
+sharp			ostry
+spike			trn
+creepy			strasidelny
+crumple			krcit sa
+pile			hromada
+apparent		zrejmy
+bright			jasny
+trunk			kmen
+pleasant		prijemny
+gleam			ziarit, svietit
+fairly			celkom
+smoothed		vyhladeny
+various			rozne
+spot			miesto
+lichen			lisajnik
+sprout			vyklicit
+damp			vlhky
+fragrance		vona
+fungus			huba
+horrid			hnusny, odporny
+shelter			ukryt
+torn			roztrhane
+hoof			kopyto
+cart			vozik
+heap			halda
+chill			chladny
+whip			slahat
+freeze			mrazit
+broad			siroky
+hut				chata
+inhabitant		obyvatel
+raven			havran
+confident		dovercivy
+cavern			jaskyna
+dim				sery, nejasny
+solid			spolahlivy
+trail			popinat sa
+staircase		schodisko
+pure			cisty
+granite			zula
+pit				jama
+roughly			priblizne, zhruba
+basalt			cadic
+soft			jemny
+glow			ziara
+menacing		hrozivy
+spore			vytrus
+outskirts		okolia, kraj
+rampart			hradba
+impenetrable	nepreniknutelny
+regarding		v suvislosti
+superiority		nadradenost
+stir			pohyb
+breach			prelomit
+loom			crtat sa
+remain			zostat
+stench			zapach
+circular		kruhovy
+basement		suteren, podzemie
+ceiling			strop
+strange			podivny
+shatter			triast sa
+cardinal		svetove strany
+beneath			pod
+spire			veza
+colonnade		stlporadie
+scatter			rozptyl
+archway			obluk
+engraved		ryte
+desecrate		znesvatit
+oak				dub
+sturdy			robustny, pevny
+warehouse		sklad
+crate			debna
+stacked up		naskladane
+waste			odpad
+proceed			pokracovat
+gentle			jemny, pokojny
+gust			zavan
+shimmering		trblietave
+particles		castice
+lantern			lampas
+cramped			stiesnene
+crypt			krypta
+burial mound	mohyla
+stacked			skladany
+shape			tvar
+suspicious		podozrivy
+pungent			prenikavy
+powder			prasok
+greet			pozdravit
+tomb			hrobka
+grave			hrob
+pine 			borovica
+nailed			pribity
+elaborate		komplikovany
+carved			vytesany
+polish			lesk
+slightly		mierne
+breeze			vanok
+corridor		chodba
+chase			lov
+flickering		blikajuce
+hardening		kalenie
+fade			vyblednut
+forth			dalej
+filthy			spinavy
+cobblestone		dlazobna kocka
+marred			poznacene
+foul			odporny
+urine			moc
+feces			vykaly
+overwhelming	ohromujuci
+across			cez
+vision			zrak, videnie
+forge			kovaren
+moulder			hnit
+evidence		dokazy
+crude			surovy
+ore				ruda
+splashed		ospliechany
+raw				surovy
+consistency		konzistencia
+rack			stojan
+shelf			policka, regal
+line			lemovat
+sundry			rozlicne
+tools			nastroje
+smithing		kovacstvo
+trade			obchod
+smoked			zadymeny
+cracked			popraskany
+twisted			skruteny
+crack			trhlina
+base			zaklad
+etched			leptany
+hollow			prazdny
+crowd			dav
+rusted			zhrdzaveny
+skeletal		kostrove
+weed			burina
+walkway			chodnik, priechod
+straight		priamo
+ancestor		predok
+junk			odhodit, vyradit
+garbage			odpadky
+ripped			rozparane
+strewn			rozhadzane
+atop			na vrchole
+torn			trzny, roztrhany
+banner			transparent
+crusted			stvrdnuty
+stained			postriekany
+ravage			vyplienenie, spustosenie
+rubble			sut, strk
+likely			pravdepodobne
+awake 			prebudit
+metal			kov

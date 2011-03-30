@@ -1,0 +1,1230 @@
+﻿-- phpMyAdmin SQL Dump
+-- version 2.11.5
+-- http://www.phpmyadmin.net
+--
+-- Hostiteľ: localhost
+-- Vygenerované:: 24.Sep, 2008 - 10:18
+-- Verzia serveru: 5.0.51
+-- Verzia PHP: 5.2.5
+
+SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
+
+--
+-- Databáza: `wog`
+--
+
+-- --------------------------------------------------------
+
+--
+-- Štruktúra tabuľky pre tabuľku `acceptance`
+--
+
+CREATE TABLE `acceptance` (
+  `id` int(11) NOT NULL auto_increment,
+  `msg` text collate utf8_unicode_ci NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=7 ;
+
+--
+-- Sťahujem dáta pre tabuľku `acceptance`
+--
+
+INSERT INTO `acceptance` (`id`, `msg`) VALUES
+(1, '5 000 gold.'),
+(2, '50+ wps.'),
+(3, 'Success in arena fights.'),
+(4, 'Create zone map or complete quest, according order decision.'),
+(5, 'At least 75% yes vote from order members.'),
+(6, '1 liter spirits on next session.');
+
+-- --------------------------------------------------------
+
+--
+-- Štruktúra tabuľky pre tabuľku `armours`
+--
+
+CREATE TABLE `armours` (
+  `id` int(11) NOT NULL auto_increment,
+  `name` text collate utf8_unicode_ci NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=4 ;
+
+--
+-- Sťahujem dáta pre tabuľku `armours`
+--
+
+INSERT INTO `armours` (`id`, `name`) VALUES
+(1, 'breastplate'),
+(2, 'mail'),
+(3, 'armour');
+
+-- --------------------------------------------------------
+
+--
+-- Štruktúra tabuľky pre tabuľku `bon_ton`
+--
+
+CREATE TABLE `bon_ton` (
+  `id` int(11) NOT NULL auto_increment,
+  `msg` text collate utf8_unicode_ci NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=9 ;
+
+--
+-- Sťahujem dáta pre tabuľku `bon_ton`
+--
+
+INSERT INTO `bon_ton` (`id`, `msg`) VALUES
+(1, 'Defend clan with bravery and do not allow enemy to conquer clan or gain any information about clan.'),
+(2, 'Obey game rules.'),
+(3, 'Work actively on clan expanding, zones maping, revealing new secrets and composing  new findings into clan chronicle.'),
+(4, 'Order commands haven''t to be discussed but fulfilled.'),
+(5, 'Attend at least one time per year on clan session in spot chosen by clan order.'),
+(6, 'There is embargo on all clan informations, clan acceptance rules, maps and clan war plans.'),
+(7, 'Keep in mind that we are whitties, so you have to kick darkies asses with most possible effectivity and as often as you can.'),
+(8, 'Keep in mind that this is just game, so you have to differentiate it from real life - real life has always priority! Visit WoG psychologist Harl, if clan order desides so. ');
+
+-- --------------------------------------------------------
+
+--
+-- Štruktúra tabuľky pre tabuľku `born_zones`
+--
+
+CREATE TABLE `born_zones` (
+  `id` int(11) NOT NULL auto_increment,
+  `race` text collate utf8_unicode_ci NOT NULL,
+  `side` text collate utf8_unicode_ci NOT NULL,
+  `zone` text collate utf8_unicode_ci NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=15 ;
+
+--
+-- Sťahujem dáta pre tabuľku `born_zones`
+--
+
+INSERT INTO `born_zones` (`id`, `race`, `side`, `zone`) VALUES
+(1, 'dwarf', 'whittie', 'budzak-dum'),
+(2, 'human', 'whittie', 'antar'),
+(3, 'gnome', 'whittie', 'thistlerock'),
+(4, 'halfling', 'whittie', 'gladstone'),
+(5, 'half-giant', 'whittie', 'galvestone'),
+(6, 'high-elf', 'whittie', 'alamar'),
+(7, 'wild-elf', 'whittie', 'alamar'),
+(8, 'duergar', 'darkie', 'kuhkaduh'),
+(9, 'dark-elf', 'darkie', 'necropolis'),
+(10, 'goblin', 'darkie', 'goblin caves'),
+(11, 'minotaur', 'darkie', 'maze of cutharr'),
+(12, 'orc', 'darkie', 'orc caves'),
+(13, 'svirfneblin', 'darkie', 'clevertown'),
+(14, 'troll', 'darkie', 'troll caves');
+
+-- --------------------------------------------------------
+
+--
+-- Štruktúra tabuľky pre tabuľku `commands`
+--
+
+CREATE TABLE `commands` (
+  `int` int(11) NOT NULL auto_increment,
+  `command` text collate utf8_unicode_ci NOT NULL,
+  `description` text collate utf8_unicode_ci NOT NULL,
+  `class` text collate utf8_unicode_ci NOT NULL,
+  PRIMARY KEY  (`int`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=114 ;
+
+--
+-- Sťahujem dáta pre tabuľku `commands`
+--
+
+INSERT INTO `commands` (`int`, `command`, `description`, `class`) VALUES
+(1, 'n', 'north', 'movement'),
+(2, 's', 'south', 'movement'),
+(3, 'w', 'west', 'movement'),
+(4, 'e', 'east', 'movement'),
+(5, 'nw', 'northwest', 'movement'),
+(6, 'ne', 'northeast', 'movement'),
+(7, 'sw', 'southwest', 'movement'),
+(8, 'se', 'southeast', 'movement'),
+(9, 'u', 'up', 'movement'),
+(10, 'd', 'down', 'movement'),
+(11, '%', 'repeats last command', 'others'),
+(12, 'sc', 'score, show basic information about character', 'others'),
+(13, 'ss', 'short score, show your hp, fp, mana a exp to next level', 'others'),
+(14, 'at or att', 'attributes, show your offense, dodge, parry, absorbage, mood of your god, starving, weight, spells on you', 'others'),
+(15, 'donation', 'you will received basic items (work only for newbies)', 'others'),
+(16, 'i', 'inventory, shows your inventory', 'others'),
+(17, 'keep [item]', 'this will prevent from selling, dropping or junking a item; keep [item] again to remove keep for this item', 'others'),
+(18, 'keep list', 'show items, which you have in keep list', 'others'),
+(19, 'keep clear', 'clears keep list', 'others'),
+(20, 'eq', 'equipment, shows your equipment', 'others'),
+(21, 'session', 'shows session summary, time of session, experince and money gained during session', 'others'),
+(22, 'skills', 'shows your learned skills', 'others'),
+(23, 'help all skills', 'shows all skills of your class', 'others'),
+(24, 'help all abilities', 'shows all abilities of your class', 'others'),
+(25, 'help all spells', 'shows all spells of your class', 'others'),
+(26, 'help all traits', 'shows all traits of your class', 'others'),
+(27, 'help all [class] skills', 'shows all skills of selected class', 'others'),
+(28, 'help all [class] abilities', 'shows all abilities of selected class', 'others'),
+(29, 'help all [class] spells', 'shows all spells of selected class', 'others'),
+(30, 'help all [class] traits', 'shows all traits of selected class', 'others'),
+(31, 'who', 'shows online players (does not show incognitos and enemy players) and sum of all players on both sides', 'others'),
+(32, 'who zone', 'shows online players in zone (available on level 11+)', 'others'),
+(33, 'where', 'shows players country', 'others'),
+(34, 'wl', 'shows warlist', 'others'),
+(35, 'war', 'shows outposts and which side has claimed them', 'others'),
+(36, 'pk', 'shows hunter and trophy of the day', 'others'),
+(37, 'savings', 'shows resistance and imunities of your character', 'others'),
+(38, 'quests', 'shows quests you gained and which are in progress', 'others'),
+(39, 'trophy', 'shows numbers and names of creatures you have killed', 'others'),
+(40, 'news', 'shows you news in wog', 'others'),
+(41, 'save', 'save your character (this is done also automatically)', 'others'),
+(42, 'sh', 'shout, this will hear every player of your side', 'communication'),
+(43, 'y', 'yell, this will hear every players (enemies too) in zone and neareast', 'communication'),
+(44, 't', 'tell, this will hear only player who recieve tell', 'communication'),
+(45, 'say or ''', 'this will hear each player in your room', 'communication'),
+(46, 'whisper', 'this will hear only player who recieve whisper, but players in room see that you are whispering, also sleeping player', 'communication'),
+(47, 'psay', 'this will hear each partymember and each player in the room where is party member', 'communication'),
+(48, 'channel', 'there are few channels, newbie, class (each class has own), arena (available on level 20+), and clan (available if you are in clan)', 'communication'),
+(49, 'messages', 'show you last 10 communication messages', 'communication'),
+(50, 'party [name]', 'create party named [name]', 'party'),
+(51, 'disband party', 'disband party, can only leader of party', 'party'),
+(52, 'leave party ', 'you leave party', 'party'),
+(53, 'dismiss [name]', 'dismiss [name] from party, can only leader of party', 'party'),
+(54, 'pwho or partywho', 'show members in party, their hp, fp, mana, level and distance', 'party'),
+(55, 'psay', 'communication in party (see psay in communication section)', 'party'),
+(56, 'recruit [name] or all', 'will be recruit [name] or all who will follow you to party', 'party'),
+(57, 'follow [name]', 'you will start or stop follow [name] player, you must follow party leader to join the party', 'party'),
+(58, 'eq', 'equipment, show you your equipment', 'equipment'),
+(59, 'equ', 'equip, will equip you first of each equipmnet from your invetory', 'equipment'),
+(60, 'wi', 'wield, wield weapon in hands', 'equipment'),
+(61, 'we', 'wear, wear equip on you', 'equipment'),
+(62, 'i', 'inventory, show your inventory', 'equipment'),
+(63, 'hold or light or use [torch]', 'will be light torch', 'equipment'),
+(64, 'k', 'kill, start fight', 'misc'),
+(65, 'flee', 'run from fight', 'misc'),
+(66, 'con', 'consider, you can consider monster', 'misc'),
+(67, 'do', 'you can do with do multialias, but no in pk', 'misc'),
+(68, 'campfire', 'will set up campfire for better regeneration, but you need wood', 'misc'),
+(69, 'scout', 'you can seen mobs in other room', 'misc'),
+(70, 'zone [name]', 'this get more about [name] zone', 'misc'),
+(71, 'h zones', 'will show list of zones', 'misc'),
+(72, 'quaff [potion]', 'quaffs a potion', 'misc'),
+(73, 'list', 'show available items', 'shop'),
+(74, 'buy', 'buy items from shop', 'shop'),
+(75, 'sell', 'sell items to shop', 'shop'),
+(76, 'value', 'you can see vaule of item in inventory', 'shop'),
+(77, 'browse', 'you can see descibe of items in shop', 'shop'),
+(78, 'repair', 'you can repair your damaged equipment at weaponer/armourer/blacksmith', 'shop'),
+(79, 'resize', 'you can resize equipment to your size at armourer/leather shop', 'shop'),
+(80, 'offer', 'show you rent cost', 'rent'),
+(81, 'rent', 'rent your character', 'rent'),
+(82, 'deposit', 'deposit equipment in storage', 'rent'),
+(83, 'withdraw', 'withdraw equipment from storage', 'rent'),
+(84, 'list', 'show you your equipment storage', 'rent'),
+(85, 'browse', 'you can see describe of equipment in storage', 'rent'),
+(86, 'deposit', 'deposits money to your bank account', 'bank'),
+(87, 'withdraw', 'withdraws money from your bank account', 'bank'),
+(88, 'balance', 'shows your current amount of money in bank', 'bank'),
+(89, 'list', 'show availe items', 'alchemist'),
+(90, 'buy', 'buy items from shop', 'alchemist'),
+(91, 'sell', 'sell items to shop', 'alchemist'),
+(92, 'value', 'you can see vaule of item in inventory', 'alchemist'),
+(93, 'browse', 'you can see descibe of items in shop', 'alchemist'),
+(94, 'brew', 'shows list of avalaible potions to brew at alchemist', 'alchemist'),
+(95, 'brew [spell]', 'alchemist will brew potion with chosen [spell]', 'alchemist'),
+(96, 'list', 'show you available spells', 'church'),
+(98, 'list', 'show you list of available features (skills, spells, abilities and traits)', 'guild'),
+(99, 'learn', 'learn a feature (skill, spell, ability and trait) (for learming points)', 'guild'),
+(100, 'improve', 'improve a primary staty if you have stat point', 'guild'),
+(101, 'forget', 'forget a trait (must be 40+; you can forgot only 2 traits)', 'guild'),
+(102, 'advance', 'advance to next level', 'guild'),
+(104, 'spill or empty [bottle, potion]', 'you empty contain of bottle or potion', 'misc'),
+(105, 'lead [mount]', 'lead specificed mount', 'mount'),
+(106, 'rid', 'rid your mount', 'mount'),
+(107, 'dismount', 'dismount your mount', 'mount'),
+(108, 'ride', 'ride your mount (you must lead him)', 'mount'),
+(109, 'ride [mount]', 'ride specificed mount', 'mount'),
+(110, 'background', 'show your background (bonuses)', 'others'),
+(111, 'wl all', 'show warlist with all active players', 'others'),
+(112, 'wl long', 'show long warlinst with all players, inactive too', 'others'),
+(113, 'wl players', 'show warlist showing only best char or players acount', 'others');
+
+-- --------------------------------------------------------
+
+--
+-- Štruktúra tabuľky pre tabuľku `equip`
+--
+
+CREATE TABLE `equip` (
+  `id` int(11) NOT NULL auto_increment,
+  `location` text collate utf8_unicode_ci NOT NULL,
+  `item` text collate utf8_unicode_ci NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=18 ;
+
+--
+-- Sťahujem dáta pre tabuľku `equip`
+--
+
+INSERT INTO `equip` (`id`, `location`, `item`) VALUES
+(1, 'on the head', 'helm'),
+(2, 'on the head', 'hood'),
+(3, 'around the body', 'cloak'),
+(4, 'around the body', 'cape'),
+(5, 'around the body', 'robe'),
+(6, 'on the neck', 'amulet'),
+(7, 'on the arms', 'sleeves'),
+(8, 'around the wrist', 'bracelet'),
+(9, 'on the hands', 'gauntlets'),
+(10, 'on the finger', 'ring'),
+(11, 'on the body', 'armour'),
+(12, 'on the body', 'shirt'),
+(13, 'around the waist', 'belt'),
+(14, 'on the legs', 'leggings'),
+(15, 'on the feet', 'boots'),
+(16, 'as shield', 'shield'),
+(17, 'in hands', 'weapon');
+
+-- --------------------------------------------------------
+
+--
+-- Štruktúra tabuľky pre tabuľku `equipment`
+--
+
+CREATE TABLE `equipment` (
+  `id` int(11) NOT NULL auto_increment,
+  `name` text collate utf8_unicode_ci NOT NULL,
+  `class` text collate utf8_unicode_ci NOT NULL,
+  `bars` smallint(6) NOT NULL,
+  `time` smallint(6) NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=90 ;
+
+--
+-- Sťahujem dáta pre tabuľku `equipment`
+--
+
+INSERT INTO `equipment` (`id`, `name`, `class`, `bars`, `time`) VALUES
+(1, 'dagger', 'weapon', 1, 3),
+(2, 'knife', 'weapon', 1, 2),
+(3, 'large knife', 'weapon', 1, 2),
+(4, 'cutlass', 'weapon', 1, 8),
+(5, 'rapier', 'weapon', 1, 8),
+(6, 'shortsword', 'weapon', 1, 10),
+(7, 'mace', 'weapon', 1, 12),
+(8, 'trident', 'weapon', 2, 16),
+(9, 'warhammer', 'weapon', 2, 16),
+(10, 'battle axe', 'weapon', 2, 14),
+(11, 'hand axe', 'weapon', 1, 6),
+(12, 'broadsword', 'weapon', 2, 16),
+(13, 'falchion', 'weapon', 2, 18),
+(14, 'longsword', 'weapon', 2, 15),
+(15, 'sabre', 'weapon', 2, 12),
+(16, 'scimitar', 'weapon', 2, 14),
+(17, 'flail', 'weapon', 1, 12),
+(18, 'morning star', 'weapon', 1, 14),
+(19, 'halberd', 'weapon', 2, 18),
+(20, 'lance', 'weapon', 2, 10),
+(21, 'pike', 'weapon', 2, 10),
+(22, 'scythe', 'weapon', 2, 12),
+(23, 'claymore', 'weapon', 3, 20),
+(24, 'twohanded sword', 'weapon', 3, 20),
+(25, 'great hammer', 'weapon', 3, 24),
+(26, 'great axe', 'weapon', 3, 22),
+(27, 'ring armour', 'armour', 3, 6),
+(28, 'ring boots', 'armour', 1, 2),
+(29, 'ring breastplate', 'armour', 2, 5),
+(30, 'ring gauntlets', 'armour', 1, 2),
+(31, 'ring helm', 'armour', 1, 2),
+(32, 'ring leggings', 'armour', 2, 3),
+(33, 'ring mail', 'armour', 3, 6),
+(34, 'ring sleeves', 'armour', 1, 2),
+(35, 'chain armour', 'armour', 3, 10),
+(36, 'chain barding', 'armour', 1, 10),
+(37, 'chain boots', 'armour', 1, 3),
+(38, 'chain breastplate', 'armour', 2, 8),
+(39, 'chain coif', 'armour', 1, 3),
+(40, 'chain gauntlets', 'armour', 1, 3),
+(41, 'chain leggings', 'armour', 2, 5),
+(42, 'chain mail', 'armour', 3, 10),
+(43, 'chain sleeves', 'armour', 1, 4),
+(44, 'basinet 1', 'armour', 2, 0),
+(45, 'scale armour', 'armour', 3, 8),
+(46, 'scale barding', 'armour', 2, 8),
+(47, 'scale boots', 'armour', 1, 2),
+(48, 'scale breastplate', 'armour', 2, 6),
+(49, 'scale gauntlets', 'armour', 1, 2),
+(50, 'scale leggings', 'armour', 2, 4),
+(51, 'scale mail', 'armour', 3, 8),
+(52, 'scale sleeves', 'armour', 1, 3),
+(53, 'elven armour', 'armour', 2, 10),
+(54, 'elven barding', 'armour', 2, 10),
+(55, 'elven boots', 'armour', 1, 3),
+(56, 'elven coif', 'armour', 1, 3),
+(57, 'elven gauntlets', 'armour', 1, 3),
+(58, 'elven leggings', 'armour', 3, 5),
+(59, 'elven mail', 'armour', 3, 10),
+(60, 'elven sleeves', 'armour', 1, 4),
+(61, 'plate armour', 'armour', 4, 14),
+(62, 'plate barding', 'armour', 3, 14),
+(63, 'plate boots', 'armour', 1, 4),
+(64, 'plate gauntlets', 'armour', 1, 4),
+(65, 'plate leggings', 'armour', 3, 7),
+(66, 'plate mail', 'armour', 4, 14),
+(67, 'plate sleeves', 'armour', 2, 5),
+(68, 'visored helm', 'armour', 1, 4),
+(69, 'dwarven armour', 'armour', 4, 14),
+(70, 'dwarven barding', 'armour', 3, 14),
+(71, 'dwarven boots', 'armour', 1, 4),
+(72, 'dwarven gauntlets', 'armour', 1, 4),
+(73, 'dwarven helm', 'armour', 1, 4),
+(74, 'dwarven leggings', 'armour', 3, 7),
+(75, 'dwarven mail', 'armour', 4, 14),
+(76, 'dwarven sleeves', 'armour', 2, 5),
+(77, 'full armour', 'armour', 4, 18),
+(78, 'full barding', 'armour', 4, 18),
+(79, 'full boots', 'armour', 1, 5),
+(80, 'full breastplate', 'armour', 3, 15),
+(81, 'full gauntlets', 'armour', 1, 5),
+(82, 'full helm', 'armour', 1, 5),
+(83, 'full leggings', 'armour', 3, 9),
+(84, 'full mail', 'armour', 4, 18),
+(85, 'full sleeves', 'armour', 2, 6),
+(86, 'small shield', 'shield', 1, 2),
+(87, 'round shield', 'shield', 2, 2),
+(88, 'kite shield', 'shield', 3, 2),
+(89, 'large shield', 'shield', 4, 2);
+
+-- --------------------------------------------------------
+
+--
+-- Štruktúra tabuľky pre tabuľku `equip_class`
+--
+
+CREATE TABLE `equip_class` (
+  `id` int(11) NOT NULL auto_increment,
+  `class` text collate utf8_unicode_ci NOT NULL,
+  `type` text collate utf8_unicode_ci NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=19 ;
+
+--
+-- Sťahujem dáta pre tabuľku `equip_class`
+--
+
+INSERT INTO `equip_class` (`id`, `class`, `type`) VALUES
+(1, 'banded', 'absorbage'),
+(2, 'studded', 'absorbage'),
+(3, 'ring', 'absorbage'),
+(4, 'chain', 'absorbage'),
+(5, 'elven chain', 'absorbage'),
+(6, 'scale', 'absorbage'),
+(7, 'plate', 'absorbage'),
+(8, 'dwarven plate', 'absorbage'),
+(9, 'fullplate', 'absorbage'),
+(10, 'plain', 'dodge'),
+(11, 'dyed', 'dodge'),
+(12, 'sewn', 'dodge'),
+(13, 'woven', 'dodge'),
+(14, 'punctured', 'dodge'),
+(15, 'tattered', 'dodge'),
+(16, 'spectral', 'dodge'),
+(17, 'mystic', 'dodge'),
+(18, 'shadow', 'dodge');
+
+-- --------------------------------------------------------
+
+--
+-- Štruktúra tabuľky pre tabuľku `equip_material`
+--
+
+CREATE TABLE `equip_material` (
+  `id` int(11) NOT NULL auto_increment,
+  `material` text collate utf8_unicode_ci NOT NULL,
+  `type` text collate utf8_unicode_ci NOT NULL,
+  `lvl` text collate utf8_unicode_ci NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=29 ;
+
+--
+-- Sťahujem dáta pre tabuľku `equip_material`
+--
+
+INSERT INTO `equip_material` (`id`, `material`, `type`, `lvl`) VALUES
+(1, 'bone', 'absorbage', '1+'),
+(2, 'wooden', 'absorbage', '1+'),
+(3, 'brass', 'absorbage', '1+'),
+(4, 'bronze', 'absorbage', '1+'),
+(5, 'iron', 'absorbage', '1+'),
+(6, 'coral', 'absorbage', '1+'),
+(7, 'crystal', 'absorbage', '1+'),
+(8, 'steel', 'absorbage', '1+'),
+(9, 'lapis', 'absorbage', '1+'),
+(10, 'pearl', 'absorbage', '1+'),
+(11, 'amber', 'absorbage', '1+'),
+(12, 'silver', 'absorbage', '10+'),
+(13, 'ebony', 'absorbage', '10+'),
+(14, 'quartz', 'absorbage', '10+'),
+(15, 'golden', 'absorbage', '20+'),
+(16, 'mithril', 'absorbage', '20+'),
+(17, 'platinum', 'absorbage', '30+'),
+(18, 'ruby', 'absorbage', '30+'),
+(19, 'emerald', 'absorbage', '40+'),
+(20, 'sapphire', 'absorbage', '40+'),
+(21, 'diamond', 'absorbage', '40+'),
+(22, 'obsidian', 'absorbage', '40+'),
+(23, 'leather', 'dodge', '1+'),
+(24, 'cloth', 'dodge', '10+'),
+(25, 'linnen', 'dodge', '20+'),
+(26, 'wool', 'dodge', '30+'),
+(27, 'cotton', 'dodge', '40+'),
+(28, 'silk', 'dodge', '50+');
+
+-- --------------------------------------------------------
+
+--
+-- Štruktúra tabuľky pre tabuľku `forum`
+--
+
+CREATE TABLE `forum` (
+  `id` int(11) NOT NULL auto_increment,
+  `login` text collate utf8_unicode_ci NOT NULL,
+  `msg` text collate utf8_unicode_ci NOT NULL,
+  `time` text collate utf8_unicode_ci NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=121 ;
+
+--
+-- Sťahujem dáta pre tabuľku `forum`
+--
+
+INSERT INTO `forum` (`id`, `login`, `msg`, `time`) VALUES
+(120, 'regi', '', '2008-09-24 10:18:07');
+
+-- --------------------------------------------------------
+
+--
+-- Štruktúra tabuľky pre tabuľku `gods`
+--
+
+CREATE TABLE `gods` (
+  `id` int(11) NOT NULL auto_increment,
+  `name` text collate utf8_unicode_ci NOT NULL,
+  `zone` text collate utf8_unicode_ci NOT NULL,
+  `side` text collate utf8_unicode_ci NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=15 ;
+
+--
+-- Sťahujem dáta pre tabuľku `gods`
+--
+
+INSERT INTO `gods` (`id`, `name`, `zone`, `side`) VALUES
+(1, 'Boelg', 'alamar', 'whittie'),
+(2, 'Brom', 'antar', 'whittie'),
+(3, 'Kovarian', 'bartakhazan', 'whittie'),
+(4, 'Laerwen', 'alamar', 'whittie'),
+(5, 'Leoric', 'antar', 'whittie'),
+(6, 'Leoric', 'temple of shield', 'whittie'),
+(7, 'On', 'gladstone', 'whittie'),
+(8, 'Palas', 'moonsdale', 'whittie'),
+(9, 'Voduvial', 'antar', 'whittie'),
+(10, 'Betrezar', 'icy plain barbarians', 'darkie'),
+(11, 'Hroog', 'frozen snow', 'darkie'),
+(12, 'Kharmak', 'machylneth', 'darkie'),
+(13, 'Kragad', 'kuhkaduh', 'darkie'),
+(14, 'Zzarkandrek', 'underdeeps', 'darkie');
+
+-- --------------------------------------------------------
+
+--
+-- Štruktúra tabuľky pre tabuľku `guilds`
+--
+
+CREATE TABLE `guilds` (
+  `id` int(11) NOT NULL auto_increment,
+  `side` text collate utf8_unicode_ci NOT NULL,
+  `class` text collate utf8_unicode_ci NOT NULL,
+  `zone` text collate utf8_unicode_ci NOT NULL,
+  `lvl` text collate utf8_unicode_ci NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=99 ;
+
+--
+-- Sťahujem dáta pre tabuľku `guilds`
+--
+
+INSERT INTO `guilds` (`id`, `side`, `class`, `zone`, `lvl`) VALUES
+(1, 'whittie', 'cleric', 'alamar', '10'),
+(2, 'whittie', 'cleric', 'antar', '10'),
+(3, 'whittie', 'cleric', 'buthzak-dum', '10'),
+(4, 'whittie', 'cleric', 'galvestone', '10'),
+(5, 'whittie', 'cleric', 'gladstone', '10'),
+(6, 'whittie', 'cleric', 'thistlerock', '10'),
+(7, 'whittie', 'cleric', 'bartakhazan', '20'),
+(8, 'whittie', 'cleric', 'druid groove', '20'),
+(9, 'whittie', 'cleric', 'moonsdale', '20'),
+(10, 'whittie', 'cleric', 'sprite forest', '20'),
+(11, 'whittie', 'cleric', 'magetower', '30'),
+(12, 'whittie', 'cleric', 'andvar', '35'),
+(13, 'whittie', 'cleric', 'astral', '55'),
+(14, 'whittie', 'fighter', 'alamar', '10'),
+(15, 'whittie', 'fighter', 'antar', '10'),
+(16, 'whittie', 'fighter', 'buthzak-dum', '10'),
+(17, 'whittie', 'fighter', 'galvestone', '10'),
+(18, 'whittie', 'fighter', 'gladstone', '10'),
+(19, 'whittie', 'fighter', 'thistlerock', '10'),
+(20, 'whittie', 'fighter', 'bartakhazan', '20'),
+(21, 'whittie', 'fighter', 'stronghold', '35'),
+(22, 'whittie', 'fighter', 'astral', '55'),
+(23, 'whittie', 'mage', 'antar', '10'),
+(24, 'whittie', 'mage', 'alamar', '10'),
+(25, 'whittie', 'mage', 'moonsdale', '20'),
+(26, 'whittie', 'mage', 'andvar', '25'),
+(27, 'whittie', 'mage', 'magetower', '35'),
+(28, 'whittie', 'mage', 'astral', '55'),
+(29, 'whittie', 'paladin', 'antar', '10'),
+(30, 'whittie', 'paladin', 'alamar', '10'),
+(31, 'whittie', 'paladin', 'moonsdale', '20'),
+(32, 'whittie', 'paladin', 'stronghold', '20'),
+(33, 'whittie', 'paladin', 'paladin camp', '35'),
+(34, 'whittie', 'paladin', 'astral', '55'),
+(35, 'whittie', 'ranger', 'alamar', '10'),
+(36, 'whittie', 'ranger', 'dark forest', '20'),
+(37, 'whittie', 'ranger', 'sprite forest', '20'),
+(38, 'whittie', 'ranger', 'druid groove', '30'),
+(39, 'whittie', 'ranger', 'andvar', '35'),
+(40, 'whittie', 'ranger', 'astral', '55'),
+(41, 'whittie', 'slayer', 'galvestone', '10'),
+(42, 'whittie', 'slayer', 'bartakhazan', '10'),
+(43, 'whittie', 'slayer', 'quaterfail', '10'),
+(44, 'whittie', 'slayer', 'stonehill', '20'),
+(45, 'whittie', 'slayer', 'dogruk', '35'),
+(46, 'whittie', 'slayer', 'undercaves', '55'),
+(47, 'whittie', 'thief', 'antar', '10'),
+(48, 'whittie', 'thief', 'alamar', '10'),
+(49, 'whittie', 'thief', 'gladstone', '10'),
+(50, 'whittie', 'thief', 'thistlerock', '10'),
+(51, 'whittie', 'thief', 'moonsdale', '20'),
+(52, 'whittie', 'thief', 'andvar', '35'),
+(53, 'whittie', 'thief', 'astral', '55'),
+(54, 'darkie', 'doomguard', 'goragrom', '10'),
+(55, 'darkie', 'doomguard', 'maze of cutharr', '10'),
+(56, 'darkie', 'doomguard', 'necropolis', '10'),
+(57, 'darkie', 'doomguard', 'orc caves', '10'),
+(58, 'darkie', 'doomguard', 'ogre camp', '20'),
+(59, 'darkie', 'doomguard', 'werewood', '35'),
+(60, 'darkie', 'doomguard', 'astral', '55'),
+(61, 'darkie', 'fighter', 'clevertown', '10'),
+(62, 'darkie', 'fighter', 'goblin caves', '10'),
+(63, 'darkie', 'fighter', 'kuhkaduh', '10'),
+(64, 'darkie', 'fighter', 'maze of cutharr', '10'),
+(65, 'darkie', 'fighter', 'necropolis', '10'),
+(66, 'darkie', 'fighter', 'orc caves', '10'),
+(67, 'darkie', 'fighter', 'machylneth', '20'),
+(68, 'darkie', 'fighter', 'exil', '35'),
+(69, 'darkie', 'fighter', 'astral', '55'),
+(70, 'darkie', 'necromancer', 'clevertown', '10'),
+(71, 'darkie', 'necromancer', 'necropolis', '10'),
+(72, 'darkie', 'necromancer', 'orc caves', '10'),
+(73, 'darkie', 'necromancer', 'ogre camp', '20'),
+(74, 'darkie', 'necromancer', 'teeth tower', '35'),
+(75, 'darkie', 'necromancer', 'astral', '55'),
+(76, 'darkie', 'shaman', 'clevertown', '10'),
+(77, 'darkie', 'shaman', 'goblin caves', '10'),
+(78, 'darkie', 'shaman', 'kuhkaduh', '10'),
+(79, 'darkie', 'shaman', 'necropolis', '10'),
+(80, 'darkie', 'shaman', 'maze of cutharr', '10'),
+(81, 'darkie', 'shaman', 'orc caves', '10'),
+(82, 'darkie', 'shaman', 'watch tower', '35'),
+(83, 'darkie', 'shaman', 'astral', '55'),
+(84, 'darkie', 'slayer', 'kuhkaduh', '10'),
+(85, 'darkie', 'slayer', 'watch tower', '20'),
+(86, 'darkie', 'slayer', 'goragrom', '35'),
+(87, 'darkie', 'slayer', 'astral', '55'),
+(88, 'darkie', 'thief', 'clevertown', '10'),
+(89, 'darkie', 'thief', 'goblin caves', '10'),
+(90, 'darkie', 'thief', 'necropolis', '10'),
+(91, 'darkie', 'thief', 'orc caves', '10'),
+(92, 'darkie', 'thief', 'free harbour', '20'),
+(93, 'darkie', 'thief', 'underdeeps', '35'),
+(94, 'darkie', 'thief', 'astral', '55'),
+(95, 'darkie', 'warlock', 'necropolis', '10'),
+(96, 'darkie', 'warlock', 'duergar shortcut', '20'),
+(97, 'darkie', 'warlock', 'goragrom', '35'),
+(98, 'darkie', 'warlock', 'astral', '55');
+
+-- --------------------------------------------------------
+
+--
+-- Štruktúra tabuľky pre tabuľku `helms`
+--
+
+CREATE TABLE `helms` (
+  `id` int(11) NOT NULL auto_increment,
+  `name` text collate utf8_unicode_ci NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=4 ;
+
+--
+-- Sťahujem dáta pre tabuľku `helms`
+--
+
+INSERT INTO `helms` (`id`, `name`) VALUES
+(1, 'coif'),
+(2, 'helm'),
+(3, 'basinet');
+
+-- --------------------------------------------------------
+
+--
+-- Štruktúra tabuľky pre tabuľku `learning`
+--
+
+CREATE TABLE `learning` (
+  `id` int(11) NOT NULL auto_increment,
+  `msg` text collate utf8_unicode_ci NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=10 ;
+
+--
+-- Sťahujem dáta pre tabuľku `learning`
+--
+
+INSERT INTO `learning` (`id`, `msg`) VALUES
+(1, 'horrible'),
+(2, 'terrible'),
+(3, 'poor'),
+(4, 'mediocre'),
+(5, 'fair'),
+(6, 'good'),
+(7, 'great'),
+(8, 'superb'),
+(9, 'amazing');
+
+-- --------------------------------------------------------
+
+--
+-- Štruktúra tabuľky pre tabuľku `lvl_diff`
+--
+
+CREATE TABLE `lvl_diff` (
+  `id` int(11) NOT NULL auto_increment,
+  `lvl` text collate utf8_unicode_ci NOT NULL,
+  `msg` text collate utf8_unicode_ci NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=20 ;
+
+--
+-- Sťahujem dáta pre tabuľku `lvl_diff`
+--
+
+INSERT INTO `lvl_diff` (`id`, `lvl`, `msg`) VALUES
+(1, '41+', 'Motto for your day: Successful suicide.'),
+(2, '30-40', 'You notice DEATH is walking around.'),
+(3, '19-29', 'Do you like sacrifices?'),
+(4, '15-18', 'Prepare your coffin.'),
+(5, '10-14', 'DON''T TRY IT !!!'),
+(6, '7-9', 'You could have a REAL problem !'),
+(7, '4-6', 'You could barely win it.'),
+(8, '2-3', 'There is some chance.'),
+(9, '1', 'Enemy is little stronger.'),
+(10, '0', 'You are as brothers.'),
+(11, '1', 'You are rather stronger.'),
+(12, '2-3', 'You are stronger.'),
+(13, '4-6', 'You are really stronger.'),
+(14, '7-9', 'You have no real problems.'),
+(15, '10-14', 'This could be massacre.'),
+(16, '15-18', 'You could trample your enemy under ground.'),
+(17, '19-29', 'Your enemy cry in great fear !!!'),
+(18, '30-40', 'Your enemy is DEAD !'),
+(19, '41+', 'You don''t see any enemy around, only one little chicken.');
+
+-- --------------------------------------------------------
+
+--
+-- Štruktúra tabuľky pre tabuľku `members`
+--
+
+CREATE TABLE `members` (
+  `id` int(11) NOT NULL auto_increment,
+  `login` text collate utf8_unicode_ci NOT NULL,
+  `rank` text collate utf8_unicode_ci NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=9 ;
+
+--
+-- Sťahujem dáta pre tabuľku `members`
+--
+
+INSERT INTO `members` (`id`, `login`, `rank`) VALUES
+(1, 'regi', 'founder'),
+(2, 'tyrko', 'founder'),
+(3, 'oki', 'member'),
+(4, 'hollub', 'member'),
+(5, 'gotfather', 'founder'),
+(6, 'laxius', 'leader'),
+(7, 'toudy', 'member'),
+(8, 'timothy', 'member');
+
+-- --------------------------------------------------------
+
+--
+-- Štruktúra tabuľky pre tabuľku `mounts`
+--
+
+CREATE TABLE `mounts` (
+  `id` int(11) NOT NULL auto_increment,
+  `name` text collate utf8_unicode_ci NOT NULL,
+  `size` text collate utf8_unicode_ci NOT NULL,
+  `side` text collate utf8_unicode_ci NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=12 ;
+
+--
+-- Sťahujem dáta pre tabuľku `mounts`
+--
+
+INSERT INTO `mounts` (`id`, `name`, `size`, `side`) VALUES
+(1, 'trained pony', 'small', 'whittie'),
+(2, 'trained horse', 'medium', 'whittie'),
+(3, 'warhorse', 'medium', 'whittie'),
+(4, 'rhinoceros', 'large', 'whittie'),
+(5, 'brown lizard', 'small', 'darkie'),
+(6, 'warg', 'small', 'darkie'),
+(7, 'arachnos', 'medium', 'darkie'),
+(8, 'cold lizard', 'medium', 'darkie'),
+(9, 'warboar', 'medium', 'darkie'),
+(10, 'mammoth', 'large', 'darkie'),
+(11, 'zonga', 'large', 'darkie');
+
+-- --------------------------------------------------------
+
+--
+-- Štruktúra tabuľky pre tabuľku `names`
+--
+
+CREATE TABLE `names` (
+  `id` int(11) NOT NULL auto_increment,
+  `login` varchar(20) collate utf8_unicode_ci NOT NULL,
+  `password` varchar(255) collate utf8_unicode_ci NOT NULL,
+  `firstname` varchar(15) collate utf8_unicode_ci NOT NULL,
+  `surname` varchar(20) collate utf8_unicode_ci NOT NULL,
+  `birth_date` date NOT NULL,
+  `email` varchar(30) collate utf8_unicode_ci NOT NULL,
+  `icq` varchar(12) collate utf8_unicode_ci NOT NULL,
+  `last_login` text collate utf8_unicode_ci NOT NULL,
+  `phone_num` text collate utf8_unicode_ci NOT NULL,
+  `prefered_race` text collate utf8_unicode_ci NOT NULL,
+  `prefered_class` text collate utf8_unicode_ci NOT NULL,
+  `street` text collate utf8_unicode_ci NOT NULL,
+  `zip_code` int(5) default NULL,
+  `number` smallint(6) default NULL,
+  `city` text collate utf8_unicode_ci NOT NULL,
+  `country` text collate utf8_unicode_ci NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=6 ;
+
+--
+-- Sťahujem dáta pre tabuľku `names`
+--
+
+INSERT INTO `names` (`id`, `login`, `password`, `firstname`, `surname`, `birth_date`, `email`, `icq`, `last_login`, `phone_num`, `prefered_race`, `prefered_class`, `street`, `zip_code`, `number`, `city`, `country`) VALUES
+(5, 'regi', '6ee685ee858aa3cb7fcfe87654d4c231', 'Marek', 'Regec', '1986-02-03', 'regi77@gmail.com', '323-397-530', '2008-09-24 08:58:11', '+420776590374', 'dwarf', 'slayer', 'Tobrucká', 16000, 29, 'Praha', 'Czech republic');
+
+-- --------------------------------------------------------
+
+--
+-- Štruktúra tabuľky pre tabuľku `potions`
+--
+
+CREATE TABLE `potions` (
+  `id` int(11) NOT NULL auto_increment,
+  `name` text collate utf8_unicode_ci NOT NULL,
+  `spell` text collate utf8_unicode_ci NOT NULL,
+  `rounds` text collate utf8_unicode_ci NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=16 ;
+
+--
+-- Sťahujem dáta pre tabuľku `potions`
+--
+
+INSERT INTO `potions` (`id`, `name`, `spell`, `rounds`) VALUES
+(1, 'black', 'restore', ''),
+(2, 'blue', 'heal', ''),
+(3, 'bright red', 'might', ''),
+(4, 'brown', 'cure medium wounds', ''),
+(5, 'dark brown', 'cure heavy wounds', ''),
+(6, 'dark green', 'neutralize poison', ''),
+(7, 'dark purple', 'refresh heavy', ''),
+(8, 'deep purple', 'refresh critic', ''),
+(9, 'light brown', 'cure light wounds', ''),
+(10, 'light green', 'slow poison', ''),
+(11, 'light gray', 'cure disease', ''),
+(12, 'light purple', 'refresh light', ''),
+(13, 'purple', 'refresh medium', ''),
+(14, 'yellow', 'cure blindness', ''),
+(15, 'green', 'poison', '');
+
+-- --------------------------------------------------------
+
+--
+-- Štruktúra tabuľky pre tabuľku `prison`
+--
+
+CREATE TABLE `prison` (
+  `id` int(11) NOT NULL auto_increment,
+  `msg` text collate utf8_unicode_ci NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=7 ;
+
+--
+-- Sťahujem dáta pre tabuľku `prison`
+--
+
+INSERT INTO `prison` (`id`, `msg`) VALUES
+(1, 'You will be free soon.'),
+(2, 'It will take a while.'),
+(3, 'It will take a few hours.'),
+(4, 'Just one day.'),
+(5, 'You will spend here a few days.'),
+(6, 'You will be stuck in here for a long long time.');
+
+-- --------------------------------------------------------
+
+--
+-- Štruktúra tabuľky pre tabuľku `races`
+--
+
+CREATE TABLE `races` (
+  `id` int(11) NOT NULL auto_increment,
+  `race` text collate utf8_unicode_ci NOT NULL,
+  `size` text collate utf8_unicode_ci NOT NULL,
+  `class` text collate utf8_unicode_ci NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=60 ;
+
+--
+-- Sťahujem dáta pre tabuľku `races`
+--
+
+INSERT INTO `races` (`id`, `race`, `size`, `class`) VALUES
+(1, 'dwarf', 'small', 'fighter'),
+(2, 'dwarf', 'small', 'cleric'),
+(3, 'dwarf', 'small', 'slayer'),
+(4, 'human', 'medium', 'fighter'),
+(5, 'human', 'medium', 'paladin'),
+(6, 'human', 'medium', 'cleric'),
+(7, 'human', 'medium', 'mage'),
+(8, 'human', 'medium', 'thief'),
+(9, 'human', 'medium', 'ranger'),
+(10, 'human', 'medium', 'slayer'),
+(11, 'gnome', 'small', 'fighter'),
+(12, 'gnome', 'small', 'cleric'),
+(13, 'gnome', 'small', 'mage'),
+(14, 'gnome', 'small', 'thief'),
+(15, 'halfling', 'small', 'fighter'),
+(16, 'halfling', 'small', 'cleric'),
+(17, 'halfling', 'small', 'thief'),
+(18, 'halfling', 'small', 'ranger'),
+(19, 'half-giant', 'large', 'fighter'),
+(20, 'half-giant', 'large', 'cleric'),
+(21, 'half-giant', 'large', 'slayer'),
+(22, 'high-elf', 'medium', 'fighter'),
+(23, 'high-elf', 'medium', 'cleric'),
+(24, 'high-elf', 'medium', 'mage'),
+(25, 'high-elf', 'medium', 'thief'),
+(26, 'high-elf', 'medium', 'ranger'),
+(27, 'wild-elf', 'medium', 'fighter'),
+(28, 'wild-elf', 'medium', 'cleric'),
+(29, 'wild-elf', 'medium', 'ranger'),
+(30, 'wild-elf', 'medium', 'mage'),
+(31, 'wild-elf', 'medium', 'thief'),
+(32, 'duergar', 'small', 'fighter'),
+(33, 'duergar', 'small', 'slayer'),
+(34, 'duergar', 'small', 'shaman'),
+(35, 'dark-elf', 'medium', 'doomguard'),
+(36, 'dark-elf', 'medium', 'fighter'),
+(37, 'dark-elf', 'medium', 'shaman'),
+(38, 'dark-elf', 'medium', 'thief'),
+(39, 'dark-elf', 'medium', 'necromancer'),
+(40, 'dark-elf', 'medium', 'warlock'),
+(41, 'goblin', 'small', 'fighter'),
+(42, 'goblin', 'small', 'shaman'),
+(43, 'goblin', 'small', 'thief'),
+(44, 'minotaur', 'large', 'fighter'),
+(45, 'minotaur', 'large', 'shaman'),
+(46, 'minotaur', 'large', 'doomguard'),
+(47, 'minotaur', 'large', 'slayer'),
+(48, 'svirfneblin', 'small', 'shaman'),
+(49, 'svirfneblin', 'small', 'fighter'),
+(50, 'svirfneblin', 'small', 'thief'),
+(51, 'svirfneblin', 'small', 'necromancer'),
+(52, 'orc', 'medium', 'fighter'),
+(53, 'orc', 'medium', 'shaman'),
+(54, 'orc', 'medium', 'necromancer'),
+(55, 'orc', 'medium', 'thief'),
+(56, 'orc', 'medium', 'doomguard'),
+(57, 'orc', 'medium', 'slayer'),
+(58, 'troll', 'large', 'fighter'),
+(59, 'troll', 'large', 'slayer');
+
+-- --------------------------------------------------------
+
+--
+-- Štruktúra tabuľky pre tabuľku `resist_immunity_items`
+--
+
+CREATE TABLE `resist_immunity_items` (
+  `id` int(11) NOT NULL auto_increment,
+  `color` text collate utf8_unicode_ci NOT NULL,
+  `saving` text collate utf8_unicode_ci NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=17 ;
+
+--
+-- Sťahujem dáta pre tabuľku `resist_immunity_items`
+--
+
+INSERT INTO `resist_immunity_items` (`id`, `color`, `saving`) VALUES
+(1, 'blue', 'electricity'),
+(2, 'bright green', 'acid'),
+(3, 'brown', 'summoning'),
+(4, 'dark green', 'poison'),
+(5, 'dark grey', 'drain'),
+(6, 'fiery red', 'fire'),
+(7, 'magenta', 'petrification'),
+(8, 'multicolored', 'more then 1 saving'),
+(9, 'orange', 'magic'),
+(10, 'pale', 'disease'),
+(11, 'pellucid', 'illusion'),
+(12, 'smooth black', 'deathmagic'),
+(13, 'shiny white', 'cold'),
+(14, 'turquoise', 'mindeffective'),
+(15, 'violet', 'touch'),
+(16, 'yellow', 'energy');
+
+-- --------------------------------------------------------
+
+--
+-- Štruktúra tabuľky pre tabuľku `resist_immunity_value`
+--
+
+CREATE TABLE `resist_immunity_value` (
+  `id` int(11) NOT NULL auto_increment,
+  `savings` text collate utf8_unicode_ci NOT NULL,
+  `percentage` text collate utf8_unicode_ci NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=10 ;
+
+--
+-- Sťahujem dáta pre tabuľku `resist_immunity_value`
+--
+
+INSERT INTO `resist_immunity_value` (`id`, `savings`, `percentage`) VALUES
+(1, 'vulnerable', '0'),
+(2, 'slightly shielded', '1-9'),
+(3, 'somewhat shielded', '10-19'),
+(4, 'shielded', '20-29'),
+(5, 'rather shielded', '30-39'),
+(6, 'highly shielded', '40-49'),
+(7, 'slightly protected', '50-59'),
+(8, 'somewhat protected', '60-69'),
+(9, 'protected', '70-79');
+
+-- --------------------------------------------------------
+
+--
+-- Štruktúra tabuľky pre tabuľku `shields`
+--
+
+CREATE TABLE `shields` (
+  `id` int(11) NOT NULL auto_increment,
+  `name` text collate utf8_unicode_ci NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=6 ;
+
+--
+-- Sťahujem dáta pre tabuľku `shields`
+--
+
+INSERT INTO `shields` (`id`, `name`) VALUES
+(1, 'small shield'),
+(2, 'round shield'),
+(3, 'kite shield'),
+(4, 'large shield'),
+(5, 'tower shield');
+
+-- --------------------------------------------------------
+
+--
+-- Štruktúra tabuľky pre tabuľku `short_score`
+--
+
+CREATE TABLE `short_score` (
+  `id` int(11) NOT NULL auto_increment,
+  `type` text collate utf8_unicode_ci NOT NULL,
+  `msg` text collate utf8_unicode_ci NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=25 ;
+
+--
+-- Sťahujem dáta pre tabuľku `short_score`
+--
+
+INSERT INTO `short_score` (`id`, `type`, `msg`) VALUES
+(1, 'hp', 'feeling very well'),
+(2, 'hp', 'slightly hurt'),
+(3, 'hp', 'somewhat hurt'),
+(4, 'hp', 'hurt'),
+(5, 'hp', 'rather hurt'),
+(6, 'hp', 'very hurt'),
+(7, 'hp', 'in bad shape'),
+(8, 'hp', 'in very bad shape'),
+(9, 'hp', 'terribly hurt'),
+(10, 'hp', 'barely alive'),
+(11, 'hp', 'at dead''s door'),
+(12, 'fp', 'alert'),
+(13, 'fp', 'tired'),
+(14, 'fp', 'slow'),
+(15, 'fp', 'weak'),
+(16, 'fp', 'fainting'),
+(17, 'fp', 'exhausted'),
+(18, 'mana', 'in full vigour'),
+(19, 'mana', 'slightly degraded'),
+(20, 'mana', 'somewhat degraded'),
+(21, 'mana', 'degraded'),
+(22, 'mana', 'indisposed'),
+(23, 'mana', 'worn down'),
+(24, 'mana', 'exhausted');
+
+-- --------------------------------------------------------
+
+--
+-- Štruktúra tabuľky pre tabuľku `skills`
+--
+
+CREATE TABLE `skills` (
+  `id` int(11) NOT NULL auto_increment,
+  `name` text collate utf8_unicode_ci NOT NULL,
+  `learn_on_usage` tinyint(1) NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=48 ;
+
+--
+-- Sťahujem dáta pre tabuľku `skills`
+--
+
+INSERT INTO `skills` (`id`, `name`, `learn_on_usage`) VALUES
+(1, 'all weapon skills', 1),
+(2, 'dodge', 1),
+(3, 'double strike', 1),
+(4, 'dual strike', 1),
+(5, 'dust trickery', 1),
+(6, 'multishot', 1),
+(7, 'parry', 1),
+(8, 'riding', 1),
+(9, 'riposte', 1),
+(10, 'second attack', 1),
+(11, 'shield block', 1),
+(12, 'third attack', 1),
+(13, 'tumble', 1),
+(14, 'accuracy', 0),
+(15, 'acute vision', 0),
+(16, 'alertness', 0),
+(17, 'armour piercing', 0),
+(18, 'armouring', 0),
+(19, 'blindfight', 0),
+(20, 'bowyer', 0),
+(21, 'brawling', 0),
+(22, 'climbing', 0),
+(23, 'critical hit', 0),
+(24, 'detect hidden', 0),
+(25, 'enhanced damage', 0),
+(26, 'extra condition', 0),
+(27, 'fast healing', 0),
+(28, 'friend of trees', 0),
+(29, 'haggling', 0),
+(30, 'leadership', 0),
+(31, 'meditation', 0),
+(32, 'mountaineering', 0),
+(33, 'mounted combat', 0),
+(34, 'multi opponent', 0),
+(35, 'orientation', 0),
+(36, 'peek', 0),
+(37, 'quickdraw', 0),
+(38, 'redemption', 0),
+(39, 'rewield', 0),
+(40, 'smash weapon', 0),
+(41, 'soft steps', 0),
+(42, 'strategy', 0),
+(43, 'swimming', 0),
+(44, 'tactics', 0),
+(45, 'travelling', 0),
+(46, 'two-weapon', 0),
+(47, 'weaponsmith', 0);
+
+-- --------------------------------------------------------
+
+--
+-- Štruktúra tabuľky pre tabuľku `weapons`
+--
+
+CREATE TABLE `weapons` (
+  `id` int(11) NOT NULL auto_increment,
+  `handed` smallint(6) NOT NULL,
+  `name` text collate utf8_unicode_ci NOT NULL,
+  `class` text collate utf8_unicode_ci NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=45 ;
+
+--
+-- Sťahujem dáta pre tabuľku `weapons`
+--
+
+INSERT INTO `weapons` (`id`, `handed`, `name`, `class`) VALUES
+(1, 1, 'club', 'clubs'),
+(2, 1, 'spiked club', 'clubs'),
+(3, 1, 'dagger', 'daggers'),
+(4, 1, 'knife', 'daggers'),
+(5, 1, 'large knife', 'daggers'),
+(6, 1, 'rapier', 'daggers'),
+(7, 1, 'wand', 'staves'),
+(8, 2, 'staff', 'staves'),
+(9, 2, 'warstaff', 'staves'),
+(10, 1, 'cutlass', 'short-blades'),
+(11, 1, 'shortsword', 'short-blades'),
+(12, 1, 'mace', 'maces'),
+(13, 1, 'spear', 'spears'),
+(14, 2, 'trident', 'spears'),
+(15, 1, 'ninetailed cat', 'whips'),
+(16, 1, 'long whip', 'whips'),
+(17, 1, 'whip', 'whips'),
+(18, 1, 'morning star', 'flails'),
+(19, 1, 'flail', 'flails'),
+(20, 1, 'warhammer', 'hammers'),
+(21, 1, 'hammer', 'hammers'),
+(22, 1, 'battle axe', 'axes'),
+(23, 1, 'hand axe', 'axes'),
+(24, 1, 'pick', 'axes'),
+(25, 1, 'broadsword', 'long-blades'),
+(26, 1, 'falchion', 'long-blades'),
+(27, 1, 'longsword', 'long-blades'),
+(28, 1, 'sabre', 'long-blades'),
+(29, 1, 'scimitar', 'long-blades'),
+(30, 1, 'lance', 'polearms'),
+(31, 1, 'pike', 'polearms'),
+(32, 2, 'halberd', 'polearms'),
+(33, 2, 'scythe', 'polearms'),
+(34, 2, 'battle bow', 'bows'),
+(35, 2, 'bow', 'bows'),
+(36, 2, 'longbow', 'bows'),
+(37, 2, 'short bow', 'bows'),
+(38, 2, 'budzogan', 'twohanded-clubs'),
+(39, 2, 'claymore', 'twohanded-blades'),
+(40, 2, 'twohanded sword', 'twohanded-blades'),
+(41, 2, 'great hammer', 'twohanded-hammers'),
+(42, 2, 'great star', 'twohanded-flails'),
+(43, 2, 'katzbalger', 'twohanded-axes'),
+(44, 2, 'great axe', 'twohanded-axes');

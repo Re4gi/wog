@@ -1,0 +1,20 @@
+             TANGWAR FORTRESS
+   EXIT
+    |          upper          lower
+    O          floor          floor
+    |
+O-O-O-O-O      G-O-O-O       O-O-O-O
+ /|X|X|            | |             |
+O-O-O-O-O          O O             O
+|/|  \|\             |             |
+O O-O O-O      L   O O             O
+| |   | |      |   | |             |
+O O-H O O      O-O-O-D       O-O-O-U
+|\   /| |
+O-O-O-O O
+
+G - Ghost Lord
+L - Lich
+D - path ´down´ to ´H´  
+U - path ´up´ to ´H´
+H - path ´up´ or ´down´ (to ´U´ or ´D´)

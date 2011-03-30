@@ -1,0 +1,244 @@
+EQUIPMENT:
+
+- You are using -----------------------------------------------------------
+  on the head      : blessed ruby full helm
+  around the body  : multicoloured mithril dark robe			   [5 resistance]
+  on the neck      : platinum amulet of might                              [1]
+  on the arms      : blessed ruby fullplate sleeves
+  around the wrist : golden bracelet of agility                            [9]
+  on the hands     : blessed ruby fullplate gauntlets
+  on the finger    : blessed emerald ring of absorbtion
+  on the body      : blessed ruby fullplate armour
+  around the waist : ruby belt of endurance
+  on the legs      : blessed ruby fullplate leggings
+  on the feet      : blessed ruby fullplate boots
+  in both hands    : blessed ruby great hammer
+----------------------------------------------------------------------------
+
+****************************************************************************
+
+ATTRIBUTES:
+
+tactics normal:
+
+Your attack bonus is 97% with great hammer in your hands.
+Your equipment gives you 0% bonus to dodge and 37% to parry
+attacks and absorbs 83% of damage from all physical attacks.
+
+Your attack bonus is 66% with warhammer in your right hand
+and 62% with warhammer in your left hand.
+Your equipment gives you 0% bonus to dodge and 39% to parry
+attacks and absorbs 83% of damage from all physical attacks.
+
+Your attack bonus is 77% with warhammer in your right hand.
+Your equipment gives you 0% bonus to dodge and 44% to parry
+attacks and absorbs 83% of damage from all physical attacks.
+You have 100% bonus to block attacks with your tower shield.
+
+tactics aggressive:
+
+Your attack bonus is 116% with great hammer in your hands.
+Your equipment gives you 0% bonus to dodge and 19% to parry
+attacks and absorbs 83% of damage from all physical attacks.
+
+Your attack bonus is 79% with warhammer in your right hand
+and 74% with warhammer in your left hand.
+Your equipment gives you 0% bonus to dodge and 20% to parry
+attacks and absorbs 83% of damage from all physical attacks.
+
+tactics passive:
+
+Your attack bonus is 31% with warhammer in your right hand.
+Your equipment gives you 0% bonus to dodge and 50% to parry
+attacks and absorbs 83% of damage from all physical attacks.
+You have 115% bonus to block attacks with your tower shield.
+
+-*- HP: 795 (795) FP: 240 (240)
+
+****************************************************************************
+
+BACKGROUND:
+
+absorbage [5], stronger, sturdier
+
+****************************************************************************
+
+SCORE:
+
+Champion Yog Hero the half-giant Soldier of Order of Holy Retribution
+------------------------------------------------------------
+ Player level              : 51
+ Gender                    : male
+ Race                      : half-giant
+ Size                      : large
+ Class                     : fighter
+ Alignment                 : good
+ Deity                     : Brom
+ Clan                      : Order of Holy Retribution
+ Hit points(max)           : 795(795)
+ Fatique points(max)       : 240(240)
+Primary stats:
+ Str: 23  Dex: 17  Con: 24  Int: 17  Wis: 19  Cha: 19
+You are feeling very brave !
+------------------------------------------------------------
+
+****************************************************************************
+
+SAVINGS:
+
+Basic saving throws vs    Resistance(%)        Immunity(%)
+-----------------------------------------------------------------
+  fire                   rather shielded       vulnerable
+  cold                  somewhat shielded      vulnerable
+  acid                      shielded           vulnerable
+  electricity           somewhat shielded      vulnerable
+  poison                    shielded           vulnerable
+  touch                     shielded           vulnerable
+  disease                   shielded           vulnerable
+  drain                 somewhat shielded      vulnerable
+  magic                     shielded           vulnerable
+  mindeffective             shielded           vulnerable
+  illusion              somewhat shielded      vulnerable
+  petrification             shielded           vulnerable
+  deathmagic                shielded           vulnerable
+  summoning                 shielded           vulnerable
+  energy                    shielded           vulnerable
+-----------------------------------------------------------------
+
+****************************************************************************
+
+DEITY:
+
+You feel that Brom is very happy.
+
+****************************************************************************
+
+INVENTORY:
+
+one platinum bracelet of haggling [25], one darkened emerald ring of blocking,
+one blessed ruby tower shield, two blessed ruby warhammers, one ruby bracelet
+of giant strength [24], one ruby belt of absorbtion
+
+****************************************************************************
+
+BANK:
+
+5000+
+
+****************************************************************************
+
+GRIMOIRS NEEDED:
+
+no
+
+****************************************************************************
+
+ITEMS:
+
+Alamar Forest:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Antar1:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Antar2:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Bartakhazan Mines:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Buthzak-Dum Mines:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Galvestone:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Gladstone Village:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Loudhorn Village:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Moonsdale:
+-----------------------------------------------------------------
+any blessed emerald ring of freshness
+large ruby amulet of haggling					 [24]
+large ruby bracelet of might					 [1]
+large multicoloured golden amulet				 [6 mindeffective, 5 petrification, 6 energy, 5 disease immunity]
+large platinum bracelet of might				 [1]
+large mithril bracelet of giant strength			 [21]
+large ruby bracelet of giant strength				 [22]
+large silver cloak of regeneration				 [1]
+large ruby dark robe of freshness				 [1]
+large ruby cloak of giant strength				 [23]
+large golden cape of regeneration				 [1]
+large multicoloured mithril amulet				 [11 touch, 9 magic, 10 deathmagic resistance]
+large golden amulet of freshness				 [1]
+large ruby amulet of freshness					 [1]
+large mithril amulet of might					 [1]
+-----------------------------------------------------------------
+
+Thistlerock:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+****************************************************************************
+
+SKILLS:
+
+You don't know any spells.
+You know these skills:
+  accuracy              amazing   |    alertness             amazing
+  armouring             amazing   |    axes                  amazing
+  bows                  amazing   |    brawling              amazing
+  climbing              amazing   |    clubs                 amazing
+  daggers               amazing   |    dodge                 amazing
+  dual strike           amazing   |    enhanced damage       amazing
+  fast healing          amazing   |    flails                amazing
+  haggling              amazing   |    hammers               amazing
+  long-blades           amazing   |    maces                 amazing
+  multi opponent        amazing   |    parry                 amazing
+  polearms              amazing   |    rewield               amazing
+  riding                amazing   |    second attack         amazing
+  shield block          amazing   |    short-blades          amazing
+  smash weapon          amazing   |    spears                amazing
+  staves                amazing   |    strategy              amazing
+  swimming              amazing   |    third attack          amazing
+  two-weapon            amazing   |    twohanded-axes        amazing
+  twohanded-blades      amazing   |    twohanded-clubs       amazing
+  twohanded-flails      amazing   |    twohanded-hammers     amazing
+  unarmed               amazing   |    weaponsmith           amazing
+  whips                 amazing   |
+You know these abilities:
+  appraise              amazing   |    back to back          amazing
+  bash                  amazing   |    berserk               amazing
+  bodyslam              amazing   |    butcher               amazing
+  disarm                amazing   |    disarm trap           amazing
+  doorbash              amazing   |    forge                 amazing
+  hard kick             amazing   |    haymaker              amazing
+  headbutt              amazing   |    kneesmash             amazing
+  punch                 amazing   |    repair                amazing
+  rescue                amazing   |    retreat               amazing
+  rush                  amazing   |    smash                 amazing
+  tendoncut             amazing   |    track                 amazing
+  warcry                amazing   |
+You know these traits:
+  dense skin                                                 amazing
+  tactician                                                  fair
+  endurance                                                  amazing
+
+You have 42 learning points remaining.
+
+****************************************************************************
+
+ALIASES:
+
+OK

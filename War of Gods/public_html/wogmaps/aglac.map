@@ -1,0 +1,17 @@
+       ANCIENT GLACIAL
+
+      O
+     / \
+  D-O O O-O     (1st floor)
+  $ |/  | |
+  $ O O-O-O
+  $        \    $ - path `up` or `down`
+  $         O
+  $
+  U O-O         (ground floor)
+  |/ /|
+  O O O-O O
+       / \|
+      O   O-O-EXIT
+
+
