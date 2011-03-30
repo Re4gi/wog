@@ -1,0 +1,41 @@
+
+            O                  STRONGHOLD
+          /   \
+        /   O   \               (level 0)
+      O     |     O
+    /       O-F    \        W - Old well
+  /         |        \      S - Stables
+O         B-O          O    F - Fighter guild (up to 35)
+|           |          |    P - Paladin guild (up to 20)
+|         U-O-1-U      |    1 - Steel door `down` `up`
+|         | | | |      |    2 - Iron door  `down` `up`
+|       2-O-W-O-O      |    U - `up` `down`
+|         | | | |      |    D - `down`
+O         O-O-O-O-S    O    L - Fladril
+  \       | | | |     /     B - Blacksmith
+    \     U-O-O-U   /
+      O     |     O
+        \   O   /
+          \ | /
+            O
+            |
+            O
+            |
+           EXIT
+
+
+  (Level 1)      (Level 2)        (Level -1)
+
+    O O
+    | |
+O U-O-O-U O       D-O-O-D         O-O     1
+| |     | |       |     |           |     |
+O-O     O-O       O     O         O-2   O-O-O
+  |     |         |     |           |     |
+O O     O-O       O     O         O-O   O-O-O
+| |     | |       |     |           |     |
+O U-O-O-U O       D-O-O-D           O     O
+    | |
+  L-O O-P
+
+

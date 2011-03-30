@@ -1,0 +1,307 @@
+*******************
+CRACK TO UNDERWORLD
+*******************  
+
+=========
+Nupperibo
+=========
+level:				3
+class:				fighter
+hits per round:		2
+special attacks:	none
+
+======
+Lemure
+======
+level:				3
+class:				fighter
+hits per round:		2
+special attacks:	none
+
+=====
+Manes
+=====
+level:				4
+class:				fighter
+hits per round:		2
+special attacks:	bite attack
+
+======
+Dretch
+======
+level:				5
+class:				fighter
+hits per round:		2
+special attacks:	bite attack
+
+===
+Imp
+===
+level:				5
+class:				fighter
+hits per round:		1
+special attacks:	poison sting attack
+
+======
+Quasit
+======
+level:				7
+class:				fighter
+hits per round:		2
+special attacks:	poison bite attack
+
+================
+Tanar'ri cambion
+================
+level:				8
+class:				fighter
+hits per round:		1
+special attacks:	none
+
+=========
+Alu-fiend
+=========
+level:				8
+class:				fighter
+hits per round:		1
+special attacks:	none
+
+========
+Spinagon
+========
+level:				10
+class:				fighter
+hits per round:		2
+special attacks:	pierce and magic pierce attacks
+
+=========
+Rutterkin
+=========
+level:				12
+class:				fighter
+hits per round:		2
+special attacks:	none
+
+=============
+Black abishai
+=============
+level:				13
+class:				fighter
+hits per round:		2
+special attacks:	bite, slash and magic sting attacks
+
+=========
+Bar-lgura
+=========
+level:				13
+class:				fighter
+hits per round:		2
+special attacks:	bite attack
+
+************
+DOOR TO HELL
+************
+
+========
+Spinagon
+========
+level:				10
+class:				fighter
+hits per round:		2
+special attacks:	pierce and magic pierce attacks
+
+=============
+Black abishai
+=============
+level:				13
+class:				fighter
+hits per round:		2
+special attacks:	bite, slash and magic sting attacks
+
+=============
+Green abishai
+=============
+level:				14
+class:				fighter
+hits per round:		2
+special attacks:	bite, slash and poison sting attacks
+
+=======
+Osyluth
+=======
+level:				15
+class:				fighter
+hits per round:		2
+special attacks:	bite and poison sting attacks
+
+===============
+Wandering kyton
+===============
+level:				16
+class:				fighter
+hits per round:		2
+special attacks:	none
+
+=======
+Barbazu
+=======
+level:				17
+class:				fighter
+hits per round:		2
+special attacks:	pierce attack
+
+======
+Erinye
+======
+level:				18
+class:				fighter and ranger
+hits per round:		2
+special attacks:	none
+
+======
+Amnizu
+======
+level:				19
+class:				fighter
+hits per round:		2
+special attacks:	none
+
+===========
+Red abishai
+===========
+level:				20
+class:				fighter
+hits per round:		2
+special attacks:	bite, slash and magic sting attacks
+
+========
+Hamatula
+========
+level:				22
+class:				fighter
+hits per round:		2
+special attacks:	thrust attack
+
+========
+Cornugon
+========
+level:				25
+class:				fighter
+hits per round:		2
+special attacks:	bite, slash and stun slash attacks
+
+=======
+Gelugon
+=======
+level:				33
+class:				fighter
+hits per round:		2
+special attacks:	bite and magic slash attacks
+
+=========
+Pit fiend
+=========
+level:				40
+class:				fighter
+hits per round:		2
+special attacks:	slash, slash, slash and poison bite attacks
+
+***************
+GATE TO GEHENNA
+***************
+
+=========
+Bar-lgura
+=========
+level:				13
+class:				fighter
+hits per round:		2
+special attacks:	bite attack
+
+=====
+Babau
+=====
+level:				15
+class:				fighter
+hits per round:		2
+special attacks:	bite attack
+
+========
+Succubus
+========
+level:				23
+class:				fighter and warlock
+hits per round:		2
+special attacks:	magic gaze, magic gaze, drain_life touch and drain_mana touch attacks
+
+======
+Chasme
+======
+level:				28
+class:				fighter
+hits per round:		2
+special attacks:	bite and pierce attacks
+
+========
+Nabassu
+========
+level:				33
+class:				fighter
+hits per round:		2
+special attacks:	bite attack
+
+=====
+Vrock
+=====
+level:				34
+class:				fighter
+hits per round:		2
+special attacks:	peck, pierce and pierce attacks
+
+======
+Hezrou
+======
+level:				35
+class:				fighter
+hits per round:		2
+special attacks:	bite attack
+
+========
+Glabrezu
+========
+level:				38
+class:				fighter
+hits per round:		2
+special attacks:	pierce, pierce and bite attacks
+
+==========
+Nalfeshnee
+==========
+level:				40
+class:				fighter
+hits per round:		2
+special attacks:	bite attack
+
+========
+Marilith
+========
+level:				41
+class:				fighter
+hits per round:		2
+special attacks:	crush attack
+
+========
+Molydeus
+========
+level:				43
+class:				fighter
+hits per round:		2
+special attacks:	crush, bite and poison bite attacks
+
+=====
+Balor
+=====
+level:				45
+class:				fighter and doomguard
+hits per round:		2
+special attacks:	none

@@ -1,0 +1,31 @@
+           CLEVERTOWN
+  E
+  X
+  I-O      
+  T |
+    O-O O O O-O O                 (2 - UP)
+    |  / \| |   |
+    M-O   O-O-O-O                 O-O-O          M - mounts
+    |  \ /| | |                     |            H - `open hidden door`
+  O-O-O O O O O                     2-O          L - outfiter
+              $                     |            A - alchymist
+              $   L A Q             N            Q - queen
+              $   | | |                          R - armorer
+     `kick    O   O-O-O                          W - weaponer
+    southern  |  /| |                            T - thief guild
+      wall`   H-O R W             (2 - DOWN)     P - `move carpet`; `down`
+               /                                 G - fighter guild
+              /   T                 O O-O        2 - path `up` and `down`
+             O-O  |    2-G          |/|          B - bartender
+              \   O-P /     R       O O O        R - rent
+               \    |/      $       |  \|        K - king
+              O-O---F---O---B       O-O O        F - well
+                |   |   |\          |   |        Z - board room - Hysopher
+                O   O   O O-O     2-O-O-O        S - shaman guild
+                          $ |         |          D - donation room
+                        O $ K         O        LIB - library
+                        | $        O             1 - path `up` or `down`
+                        Z-1-S      |             N - necromancer guild
+                        | |      O-O-O-1
+                        D LIB      |
+                                   O

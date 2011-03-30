@@ -1,0 +1,230 @@
+EQUIPMENT:
+
+- You are using -----------------------------------------------------------
+  on the head      : blessed silk mystic hood
+  around the body  : mithril cape of vigour				    [1]
+  on the neck      : multicoloured golden amulet	                    [13 acid, 11 disease, 14 deathmagic resistance]
+  on the arms      : blessed silk spectral sleeves
+  around the wrist : platinum bracelet of wizardry                          [2]
+  on the hands     : blessed silk spectral gauntlets
+  on the finger    : blessed emerald ring of magic                     
+  on the body      : blessed silk mystic shirt
+  around the waist : ruby belt of endurance
+  on the legs      : blessed silk spectral leggings
+  on the feet      : blessed silk spectral boots
+  in both hands    : blessed ruby magical warstaff (enchanted)
+----------------------------------------------------------------------------
+
+****************************************************************************
+
+ATTRIBUTES:
+
+Your attack bonus is 83% with warstaff in your hands.
+Your equipment gives you 96% bonus to dodge and 89% to parry
+attacks and absorbs 25% of damage from all physical attacks.
+
+-*- HP: 236 (236) FP: 180 (180) Mana: 640 (640)
+
+****************************************************************************
+
+BACKGROUND:
+
+vitality, using magic, intelligent
+
+****************************************************************************
+
+SCORE:
+
+Sage Sanya Hero the high-elven Soldier of Order of Holy Retribution
+------------------------------------------------------------
+ Player level              : 52
+ Gender                    : female
+ Race                      : high-elf
+ Size                      : medium
+ Class                     : mage
+ Alignment                 : good
+ Deity                     : Boelg
+ Clan                      : Order of Holy Retribution
+ Hit points(max)           : 236(236)
+ Fatique points(max)       : 180(180)
+ Mana(max)                 : 640(640)
+Primary stats:
+ Str: 21  Dex: 21  Con: 18  Int: 24  Wis: 21  Cha: 22
+You are feeling very brave !
+------------------------------------------------------------
+
+****************************************************************************
+
+SAVINGS:
+
+Basic saving throws vs    Resistance(%)        Immunity(%)
+-----------------------------------------------------------------
+  fire                      shielded           vulnerable
+  cold                      shielded           vulnerable
+  acid                      shielded           vulnerable
+  electricity            rather shielded       vulnerable
+  poison                    shielded           vulnerable
+  touch                     shielded           vulnerable
+  disease                   shielded           vulnerable
+  drain                     shielded           vulnerable
+  magic                     shielded           vulnerable
+  mindeffective          rather shielded       vulnerable
+  illusion               rather shielded       vulnerable
+  petrification             shielded           vulnerable
+  deathmagic                shielded           vulnerable
+  summoning                 shielded           vulnerable
+  energy                 rather shielded       vulnerable
+-----------------------------------------------------------------
+
+****************************************************************************
+
+DEITY:
+
+You feel that Boelg is pleased with your actions.
+
+****************************************************************************
+
+INVENTORY:
+
+one ruby amulet of haggling [24]
+
+****************************************************************************
+
+BANK:
+
+5000+
+
+****************************************************************************
+
+GRIMOIRS NEEDED:
+
+no
+
+****************************************************************************
+
+ITEMS:
+
+Alamar Forest:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Antar1:
+-----------------------------------------------------------------
+medium blessed silk spectral shirt
+medium blessed silk spectral hood
+-----------------------------------------------------------------
+
+Antar2:
+-----------------------------------------------------------------
+blessed ruby magical large knife (enchanted)
+blessed ruby magical dagger (enchanted)
+-----------------------------------------------------------------
+
+Bartakhazan Mines:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Buthzak-Dum Mines:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Galvestone:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Gladstone Village:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Loudhorn Village:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Moonsdale:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Thistlerock:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+****************************************************************************
+
+SKILLS:
+
+all
+
+You know these spells:
+  astralwalk            superb    |    blood star            amazing
+  burning hands         amazing   |    burning wear          amazing
+  chain lightning       amazing   |    charm                 amazing
+  chill touch           amazing   |    cold wave             amazing
+  comet                 amazing   |    cone of cold          amazing
+  continual light       amazing   |    dark vision           amazing
+  deep dreams           superb    |    desorientation        amazing
+  detect illusion       amazing   |    detect immunities     amazing
+  detect invisibility   amazing   |    detect life           amazing
+  detect magic          amazing   |    detect mana status    amazing
+  detect secret door    amazing   |    dispel illusion       amazing
+  dispel magic          amazing   |    dispel summoned       amazing
+  diversion             amazing   |    enchant item          amazing
+  enchanted weapon      amazing   |    etherealize           amazing
+  faerie fire           amazing   |    faerie fog            amazing
+  fire shield           amazing   |    fireball              amazing
+  fireblast             amazing   |    firebolt              amazing
+  flash                 amazing   |    fly                   amazing
+  forcebolt             amazing   |    fragments of past     amazing
+  friends               amazing   |    frost bolt            amazing
+  globe                 amazing   |    ice storm             amazing
+  identify              amazing   |    inferno               amazing
+  invisibility          amazing   |    knock door            amazing
+  lava burst            amazing   |    levitate              amazing
+  light                 amazing   |    lightning arrow       amazing
+  lightning bolt        amazing   |    locate                amazing
+  magic blast           amazing   |    magic lock            amazing
+  magic missile         amazing   |    mana shield           amazing
+  manaflow              amazing   |    meteor swarm          amazing
+  might                 amazing   |    minor creation        amazing
+  missile shield        amazing   |    mute                  amazing
+  mystical sword        amazing   |    pentagram             superb
+  personal image        amazing   |    phantom armour        amazing
+  prismatic ray         amazing   |    quickness             amazing
+  recharge item         amazing   |    renovate              amazing
+  reveal invisible      amazing   |    rope trick            amazing
+  scare                 amazing   |    scry                  amazing
+  sense exit            amazing   |    shield                amazing
+  silence               amazing   |    skin of stone         amazing
+  sleep                 amazing   |    suggest               amazing
+  summon elemental      amazing   |    teleport              superb
+  thunderstorm          amazing   |    ventriloquism         amazing
+  visibility            amazing   |    visionary symbol      amazing
+  wall of dust          amazing   |    wall of fire          amazing
+  wall of force         amazing   |    wall of stone         amazing
+  warp                  amazing   |    water breath          amazing
+  water element         amazing   |    web                   amazing
+  wizard eye            amazing   |
+You know these skills:
+  accuracy              amazing   |    alertness             amazing
+  blindfight            amazing   |    bows                  amazing
+  climbing              amazing   |    daggers               amazing
+  dodge                 amazing   |    fast healing          amazing
+  haggling              amazing   |    meditation            amazing
+  parry                 amazing   |    riding                amazing
+  shield block          amazing   |    staves                amazing
+  swimming              amazing   |    unarmed               amazing
+You know these abilities:
+  appraise              amazing   |    butcher               amazing
+  disarm trap           amazing   |    punch                 amazing
+  scribe                amazing   |
+You know these traits:
+  elemental mastery                                          amazing
+  spell powering: electricity                                amazing
+  spell charging: electricity                                fair
+
+You have 233 learning points remaining.
+
+****************************************************************************
+
+ALIASES:
+
+OK

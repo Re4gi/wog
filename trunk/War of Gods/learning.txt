@@ -1,0 +1,2 @@
+horrible -> terrible	10,11
+terrible -> poor		 8,11

@@ -1,0 +1,148 @@
+  ae           assist elemental
+  bc           bury corpse
+  c            cast 'charm'
+  cd           close door
+  cg           close gate
+  cof          climb over fence
+  cr           climb rope
+  cs           cast 'shield'
+  da           cast 'dimensional anomaly'
+  dd           cast 'dispel illusion' on room
+  de           cast 'desorientation'
+  dei          cast 'detect immunities'
+  dh           dismount
+  di           cast 'detect invisibility'
+  dim          cast 'dispel magic'
+  dit          cast 'dispel magic' infernal torment on
+  div          cast 'diversion'
+  dl           cast 'detect life'
+  dm           cast 'detect magic'
+  dms          cast 'detect mana status'
+  drt          cast 'dispel magic' rope trick on room
+  ds           cast 'dispel summoned'
+  dsd          cast 'detect secret door'
+  dt           disarm trap on
+  dv           cast 'dark vision'
+  dw           drink water
+  ea           examine amulet
+  eb           eat bread
+  ec           enter cavity
+  ef           eat food
+  ei           cast 'enchant item'
+  el           cast 'summon elemental'
+  eo           enter opening
+  ep           enter passage
+  er           eat ration
+  ew           cast 'enchanted weapon'
+  f            cast 'faerie fire'
+  ff           cast 'faerie fog'
+  fl           cast 'flash'
+  fp           cast 'fragments of past'
+  fr           cast 'friends'
+  fs           cast 'fire shield'
+  ga           get all
+  gb           get all from bones
+  gc           get all from corpse
+  gl           cast 'globe'
+  gs           get all from skeleton
+  kd           cast 'knock door'
+  id           cast 'identify'
+  in           cast 'invisibility'
+  lc           cast 'locate'
+  ld           lock door
+  le           cast 'levitate'
+  lg           lock gate
+  lh           lead horse
+  li           cast 'continual light'
+  lr           lower rope
+  m            messages
+  mana         cast 'mana shield'
+  mc           cast 'minor creation'
+  me           meditate long
+  mf           cast 'manaflow'
+  mig          cast 'might'
+  mis          cast 'missile shield'
+  ml           cast 'magic lock'
+  ms           cast 'mystical sword'
+  mu           cast 'mute'
+  od           open door
+  og           open gate
+  pa           cast 'phantom armour'
+  pi           cast 'personal image'
+  q            quaff
+  qb           quaff blue
+  qg           quaff green
+  qp           quaff purple
+  qr           quaff red
+  qy           quaff yellow
+  qu           cast 'quickness'
+  r            cast 'etherealize'
+  re           cast 'renovate'
+  rh           ride horse
+  ri           cast 'recharge item'
+  rr           raise rope
+  rt           cast 'rope trick'
+  sac          sacrifice corpse
+  sc           cast 'scare'
+  scr          cast 'scry'
+  si           cast 'silence'
+  sl           cast 'sleep'
+  sos          cast 'skin of stone'
+  sr           search room
+  su           cast 'suggest'
+  ud           unlock door
+  ug           unlock gate
+  v            cast 'visibility'
+  ve           cast 'ventriloquism'
+  vs           cast 'visionary symbol'
+  wa           cast 'warp'
+  wae          cast 'water element'
+  wb           cast 'water breath'
+  wd           wimpy direction
+  we           cast 'web'
+  wie          cast 'wizard eye'
+  wod          cast 'wall of dust'
+  wof          cast 'wall of force'
+  wofi         cast 'wall of fire'
+  wos          cast 'wall of stone'
+  8            kill warg
+  9            kill warboar
+  99           kill spider
+  0            kill zonga
+  00           kill mammoth
+  1            kill *dark-elf*
+  2            kill *orc*
+  3            kill *goblin*
+  4            kill *svirfneblin*
+  5            kill *minotaur*
+  6            kill *duergar*
+  7            kill *troll*
+  11           cast 'flash' *dark-elf*
+  22           cast 'flash' *orc*
+  33           cast 'flash' *goblin*
+  44           cast 'flash' *svirfneblin*
+  55           cast 'flash' *minotaur*
+  66           cast 'flash' *duergar*
+  77           cast 'flash' *troll*
+  111          cast 'silence' *dark-elf*
+  222          cast 'silence' *orc*
+  333          cast 'silence' *goblin*
+  444          cast 'silence' *svirfneblin*
+  555          cast 'silence' *minotaur*
+  666          cast 'silence' *duergar*
+  777          cast 'silence' *troll*
+  d1           cast 'desorientation' *dark-elf*
+  d2           cast 'desorientation' *orc*
+  d3           cast 'desorientation' *goblin*
+  d4           cast 'desorientation' *svirfneblin*
+  d5           cast 'desorientation' *minotaur*
+  d6           cast 'desorientation' *duergar*
+  d7           cast 'desorientation' *troll*
+  w1           cast 'web' *dark-elf*
+  w2           cast 'web' *orc*
+  w3           cast 'web' *goblin*
+  w4           cast 'web' *svirfneblin*
+  w5           cast 'web' *minotaur*
+  w6           cast 'web' *duergar*
+  w7           cast 'web' *troll*
+  *F1-F7      1 round dmg spell darkie

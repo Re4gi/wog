@@ -1,0 +1,107 @@
+  aw           assist warhorse
+  b            shield bash
+  bc           bury corpse
+  bg           cast 'back to the grave'
+  bl           cast 'bless'
+  btb          back to back
+  c            charge
+  ca           cast 'armour of faith'
+  cd           close door
+  cf           cast 'fortitude'
+  cg           close gate
+  ch           cast 'heroism'
+  chd          cast 'heroic day'
+  cl           cast 'cure light wounds'
+  cm           cast 'cure medium wounds'
+  cof          climb over fence
+  cr           climb rope
+  cs           cast 'champions strength'
+  csa          cast 'sacred aura'
+  csai         cast 'saint aura'
+  ct           cast 'turn undead'
+  cw           call warhorse
+  db           doorbash
+  dd           dive down
+  dh           dismount
+  di           disarm
+  drw          drill warhorse
+  dt           disarm trap on
+  dw           drink water
+  eb           eat bread
+  ec           enter cavity
+  ef           eat food
+  eo           enter opening
+  ep           enter passage
+  fl           formation legion
+  fp           formation phallanx
+  fs           formation skirmish
+  ga           get all
+  gb           get all from bones
+  gc           get all from corpse
+  gs           get all from skeleton
+  hk           hard kick
+  hm           cast 'holy mark'
+  la           lay hands
+  ld           lock door
+  lg           lock gate
+  lh           lead horse
+  lr           lower rope
+  m            messages
+  me           meditate long
+  oa           order warhorse to assist
+  od           open door
+  og           open gate
+  ogb          order warhorse to get all from bones
+  ogc          order warhorse to get all from corpse
+  ogs          order warhorse to get all from skeleton
+  ok           order warhorse to kill
+  p            punch
+  pr           cast 'prayer'
+  q            quaff
+  qb           quaff blue
+  qg           quaff green
+  qp           quaff purple
+  qr           quaff red
+  qy           quaff yellow
+  r            retreat
+  re           rescue
+  rh           ride horse
+  rr           raise rope
+  rw           rescue warhorse
+  sac          sacrifice corpse
+  sm           smite
+  sr           search room
+  t            trample
+  ta           tactics aggressive
+  tb           tactics berserk
+  td           tactics defensive
+  tg           tactics guard
+  tn           tactics normal
+  to           tactics offensive
+  tp           tactics passive
+  tr           track
+  ud           unlock door
+  ug           unlock gate
+  wd           wimpy direction
+  8            kill warg
+  9            kill warboar
+  99           kill spider
+  0            kill zonga
+  00           kill mammoth
+  1            kill *dark-elf*
+  2            kill *orc*
+  3            kill *goblin*
+  4            kill *svirfneblin*
+  5            kill *minotaur*
+  6            kill *duergar*
+  7            kill *troll*
+  11           charge *dark-elf*
+  22           charge *orc*
+  33           charge *goblin*
+  44           charge *svirfneblin*
+  55           charge *minotaur*
+  66           charge *duergar*
+  77           charge *troll*
+  `            psay HEAL, RESCUE!!!
+  ``           psay RETREAT!!!
+  *F1-F7       cast 'holy mark' darkie	

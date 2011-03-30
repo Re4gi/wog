@@ -1,0 +1,228 @@
+EQUIPMENT:
+
+- You are using -----------------------------------------------------------
+  on the head      : blessed ruby full helm
+  around the body  : mithril cape of stamina				   [54]
+  on the neck      : pearl amulet of might				   [1]
+  on the arms      : blessed ruby fullplate sleeves
+  around the wrist : amber bracelet of regeneration			   [1]
+  on the hands     : blessed ruby fullplate gauntlets
+  on the finger    : blessed emerald ring of absorbtion
+  on the body      : blessed ruby fullplate armour
+  around the waist : ruby belt of endurance
+  on the legs      : blessed ruby fullplate leggings
+  on the feet      : blessed ruby fullplate boots
+  in both hands    : blessed flaming ruby katzbalger
+----------------------------------------------------------------------------
+
+****************************************************************************
+
+ATTRIBUTES:
+
+Your attack bonus is 120% with flaming ruby katzbalger in
+your hands.
+Your equipment gives you 0% bonus to dodge and 50% to parry
+attacks and absorbs 75% of damage from all physical attacks.
+
+-*- HP: 661 (661) FP: 230 (230)
+
+****************************************************************************
+
+BACKGROUND:
+
+melee, stronger, absorbage [5]
+
+****************************************************************************
+
+SCORE:
+
+Champion Terek Hero the dwarven Soldier of Order of Holy Retribution
+------------------------------------------------------------
+ Player level              : 51
+ Gender                    : male
+ Race                      : dwarf
+ Size                      : small
+ Class                     : fighter
+ Alignment                 : good
+ Deity                     : Kovarian
+ Clan                      : Order of Holy Retribution
+ Hit points(max)           : 661(661)
+ Fatique points(max)       : 230(230)
+Primary stats:
+ Str: 22  Dex: 18  Con: 23  Int: 19  Wis: 20  Cha: 19
+You are feeling very brave !
+------------------------------------------------------------
+
+****************************************************************************
+
+SAVINGS:
+
+Basic saving throws vs    Resistance(%)        Immunity(%)
+-----------------------------------------------------------------
+  fire                      shielded           vulnerable
+  cold                  somewhat shielded      vulnerable
+  acid                      shielded           vulnerable
+  electricity           somewhat shielded      vulnerable
+  poison                    shielded           vulnerable
+  touch                     shielded           vulnerable
+  disease                   shielded           vulnerable
+  drain                     shielded           vulnerable
+  magic                  rather shielded       vulnerable
+  mindeffective          rather shielded       vulnerable
+  illusion                  shielded           vulnerable
+  petrification          rather shielded       vulnerable
+  deathmagic                shielded           vulnerable
+  summoning                 shielded           vulnerable
+  energy                    shielded           vulnerable
+-----------------------------------------------------------------
+
+****************************************************************************
+
+DEITY:
+
+You feel that Kovarian is nice as pie.
+
+****************************************************************************
+
+INVENTORY:
+
+one blessed ruby great axe, one ruby bracelet of giant strength [25], 
+one platinum amulet of haggling [29]
+
+****************************************************************************
+
+BANK:
+
+5000+
+
+****************************************************************************
+
+GRIMOIRS NEEDED:
+
+no
+
+****************************************************************************
+
+ITEMS:
+
+Alamar Forest:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Antar1:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Antar2:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Antar3:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Bartakhazan Mines:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Buthzak-Dum Mines:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Galvestone:
+-----------------------------------------------------------------
+any platinum dark robe of regeneration				 [1]
+any mithril cloak of freshness					 [1]
+any magenta platinum cloak					 [15]
+small pearl cape of regeneration				 [1]
+small quartz cape of might					 [1]
+small amber cape of freshness					 [1]
+small linnen cape of might					 [1]
+any platinum cape of regeneration				 [1]
+any ruby cape of giant strength					 [25]
+-----------------------------------------------------------------
+
+Gladstone Village:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Loudhorn Village:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Moonsdale:
+-----------------------------------------------------------------
+small golden bracelet of freshness				 [1]
+small golden bracelet of freshness				 [1]
+small ruby bracelet of freshness				 [1]
+small wool bracelet of regeneration				 [1]
+small silver bracelet of freshness				 [1]
+any ruby bracelet of giant strength				 [25]
+small mithril amulet of haggling				 [22]
+small platinum amulet of freshness				 [1]
+small quartz amulet of regeneration				 [1]
+any platinum amulet of giant strength				 [20]
+any golden amulet of might					 [1]
+any mithril amulet of freshness					 [1]
+any darkened emerald ring of agility
+any darkened emerald ring of might
+small platinum cape of freshness				 [1]
+small ruby bracelet of might					 [1]
+-----------------------------------------------------------------
+
+Thistlerock:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+****************************************************************************
+
+SKILLS:
+
+You don't know any spells.
+You know these skills:
+  accuracy              amazing   |    alertness             amazing
+  armouring             amazing   |    axes                  amazing
+  blindfight            amazing   |    bows                  amazing
+  brawling              amazing   |    climbing              amazing
+  clubs                 amazing   |    daggers               amazing
+  dodge                 amazing   |    dual strike           amazing
+  enhanced damage       amazing   |    fast healing          amazing
+  flails                amazing   |    haggling              amazing
+  hammers               amazing   |    long-blades           amazing
+  maces                 amazing   |    multi opponent        amazing
+  parry                 amazing   |    polearms              amazing
+  rewield               amazing   |    riding                amazing
+  second attack         amazing   |    shield block          amazing
+  short-blades          amazing   |    smash weapon          amazing
+  spears                amazing   |    staves                amazing
+  strategy              amazing   |    swimming              amazing
+  third attack          amazing   |    two-weapon            amazing
+  twohanded-axes        amazing   |    twohanded-blades      amazing
+  twohanded-clubs       amazing   |    twohanded-flails      amazing
+  twohanded-hammers     amazing   |    unarmed               amazing
+  weaponsmith           amazing   |    whips                 amazing
+You know these abilities:
+  appraise              amazing   |    back to back          amazing
+  bash                  amazing   |    berserk               amazing
+  bodyslam              amazing   |    butcher               amazing
+  disarm                amazing   |    disarm trap           amazing
+  doorbash              amazing   |    forge                 amazing
+  hard kick             amazing   |    haymaker              amazing
+  headbutt              amazing   |    kneesmash             amazing
+  punch                 amazing   |    repair                amazing
+  rescue                amazing   |    retreat               amazing
+  rush                  amazing   |    smash                 amazing
+  tendoncut             amazing   |    track                 amazing
+  warcry                amazing   |
+You know these traits:
+  twohanded-axes finesse                                     fair
+  twohanded-axes specialization                              amazing
+  twohanded-axes mastery                                     amazing
+
+You have 160 learning points remaining.
+
+****************************************************************************
+
+ALIASES:
+
+OK

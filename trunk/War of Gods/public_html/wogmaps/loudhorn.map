@@ -1,0 +1,36 @@
+      EXIT             LOUDHORN VILLAGE
+       |
+       O
+       |
+       U-O O O
+       |   | |
+     T-O-O-U-O          O   O U
+       |                |   | |
+       O-O-O-O        O-O-O-O-O
+       |   |          |   |
+       |   U          O   O-A
+       |   |              |
+     B |   O              O-W
+     | |                  |        D - `down`
+   S-O-O-----O------------F--O     T - outfiter
+       |     |            |  |     B - bartender (`up` rent)
+       |     O         O--O  O     S - stables (pony, horse)
+ O-O-O-O     |            |        A - armourer
+   | | |     O     O-O O--O--O     W - weaponer
+   M O |     |     | | |           F - well
+       |     Z-U-O-O-O O-D         J - jail
+     O |    /|         |           Y - `move deck`
+     | | G-O O       O-O-O         P - `search dust`
+   O-O-O               |           Z - `move curtain`
+     | |             O-O-Y   O P   G - Ghost of Sacrifician
+     O O                  \  | |   M - Mayor of Guards
+       |                   O-O-O
+       |                     | |
+    O--O--O--O               O O
+    |  |  |  |
+    O--O--O--O
+    |  |  |  |
+    O--O--O--O
+          |
+         EXIT
+

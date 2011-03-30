@@ -1,0 +1,81 @@
+									
+                           Ruined fortress Gar-Gathor
+
+
+                                    1. LEVEL
+
+
+		    2$O      	1   -   `pass bushes`
+		    #          	2   -   `enter opening`         O   O
+		  O-U-O                                          \ /
+		    #           B   -   cave bear                 U
+		    O           F   -   old fireplace            / \
+		    |           U   -   fountain                O   O-O
+		    O           W   -   old witcher (quest)          /    |
+		    |                                             O-O   O-O
+		  B O                                              \   /  |
+		| $  \                                              O#O
+		O-1#O-O                                            /
+		| |                                               W
+		  F
+
+
+                                    2. LEVEL
+
+
+		   D            3   -   `enter crack`
+		   |          	4   -   `enter gap`
+		 O#O#3          U   -   `climb ladder`                    O
+		   |  $                                                   |
+		   O   U                                          U#O D O-O
+		   |                                                | |\  |
+		   O                                                O$4-O-O
+		  / \
+		 O   O
+
+
+                                    3. LEVEL
+
+
+           O-5 S            5<->D   `pass carpet`
+           | $ |            6   -   `touch glyphs`
+       O   O D O   O        D   -   `climb ladder`       O-O-O       O-O-O
+      /|\  |   |  /|\                                    |   |       |   |
+     O 6 O O   O O 6 O      C   -   chest                O   O-O   O-X   O
+     | $ |  \ $  | $ |      F   -   fountain             |     |   |     |
+     O U O   O X O U O      S   -   shadow             O#O#O   O   O   C#O#O
+     |   |   | $ |   |                                   |      \ /      |
+     O   O-O-F-O-O   O                                 O#O#C     D     O#O#O
+      \ /         \ /
+       O           O
+
+
+                                    4. LEVEL
+
+
+                          O               O         7   -   `enter portcullis`
+                           \             /          8   -   `turn lamp`
+                            O           O
+                           / \         / \
+                          O   O       O   O
+                          |   |       |   |
+                          O   O   O$U O   O
+                          $    \  #  /    $
+                          7     \ 8 /     7
+                         /       \$/       \
+                        D         8         D
+
+
+                                    5. LEVEL
+
+
+            B           C->A    `enter strange painting`
+           /|           P->B    `enter portal`              S
+          O F   O                                           $
+          | #  /|       A       ancient gargoyle [52-54]    O$A-P
+          O C D O       S       shadowed gargoyle [48]      $
+          |     |                                           O
+          O     O       B       huge bell                   #
+          |     |       C       chest                       C
+          O-O-O-O       F       fountain
+                        P       portal

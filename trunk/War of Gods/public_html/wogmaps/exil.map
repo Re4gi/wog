@@ -1,0 +1,73 @@
+                    EXIL
+
+              O-O-O-O-O-O-O
+             /      | | |  \          C Y E
+      Q O-O O-O   O-O O 5 4-O O S     | | |
+      | |    \    | |        \|/      O-O-O
+    U O-O-O-O O   O O O Y   3-O
+    |       | |    /  | |     |
+S-O-O-O-O-O-O-O   O   O-O   1 O-O       Y - path `up` or `down`
+  |       |   |   |     |   | | |       L - Leather armoury
+O-O-O O-  O-O O   O   O-F-O O-O 2       J - Bank
+| |/ /|\  |   |   |   | | |   |         H - Heavy armoury
+O-O O-O-O O B-O   O O-O-O-O-O O         W - Weaponer
+| | | | | |   |   |/         /          T - Outfiter
+O-O O-O-O O-O-O-O-V-O-O-O-O-O   L       A - Alchemist
+     \|/      |   |             |       G - Guilds
+      O       O   O           O-O-J     R - Mercenary barracks
+      |       |   |           | |       U - `up`
+O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-H     P - Portculis
+ \  |  \      |   |   |   |   | |       @ - `search ash` (2x)
+O-O O   O-O O-O   O-O A O-B G-O-O-W         `down` -> @ (lower map)
+  |\     \    |   |           | |      MW - Mounts for whitties
+O O O     O O-O   O-O G G G G O-O-T    MD - Mounts for darkies
+|    \    |\  |   |   | | | |/ \|       C - Chest
+O-O-O-O     O O   O-O-O-O-O-O U O-K     E - Espera
+| |    \    |\|   |   | | |  \|/|       D - Delion
+O O O O O-O O O   O-O G G G N-O Z       V - `give paper to man`
+    | |  \    |   |         | |         M - `give 2 gold to master` (Sam)
+    O-O-O-O G-O   O O O O   D O         F - fountain
+    | | |  \  |   | | | |     |         S - stairs to tower -> guard
+    O O O O O O   O-O O O M-O-O         1,2,3,4,5 - First, Second, Third
+          |  \|   |   | |  /| |                     Fourth, Fifth Lord
+        @-O-O-O   O-O-O-O-O S R         B - bartender
+               \ /            $         K - deathtrap
+                O           O-O         N - mirror
+                |                       Q - inquisitor
+             MW-O-MD                    Z - `move carpet`, `open trapdoor`
+                |                       $ - path `down` or `up`
+                P
+                |
+                O
+                |
+                O->(out) Snake Valley
+
+
+
+                         O-O
+                           |
+                           O
+                           |     
+                           O     3 - `open bars`, `up`
+                          /|     T - Troll `give 5 gold to troll`
+                     O-O-O O     M - Hammond McElhone
+                    /|   | |     D - Deathtrap (be quick)
+C-G                O O O-O O     @ - `up` -> @ (upper map)
+   \                 |   |  \    G - Ancient ghost
+    O              O-D-O O   O   $ - path `down`
+     \                      /    7 - `open bars` `up`
+      O                  O-O     N - Nomier
+      |                 /  |     # - underwater rooms
+      O----O---O       # O O     A - Takari (Fighter guild)
+     /          \     / / \ \    C - chest
+    O            #---# O-O M O   S - `open tapestry`
+    |            $    \  |   |   
+    O O-O-O      #     O S-O O
+   /   /|\       |      \ /| |
+  T-O-O-O-O-O-A  3->O-N  O O O O-O
+   \   \|/                \ / \| |
+    O   O                  O   O O
+    |                          |
+    O                        Selic
+     \
+      @

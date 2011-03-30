@@ -1,0 +1,59 @@
+                            MAGE TOWER
+
+
+   GROUND FLOOR      FIRST FLOOR     SECOND FLOOR    THIRD FLOOR
+
+
+   *       *        *   *   *   *       *   *           *   *
+   |       |        |   |   |   |       |   |           |   |
+   O-O   O-O        D *-O-O-O-* D     *-O-O-O-*         U J U
+   | |   | |        |   | | |   |       | | |           | | |
+   O |   | O        O---O O O---O     U-O O O-U       D-O O O-D
+     |   |          |   | | |   |       |   |           | | |
+   *-O-G-O-*        O-U * O * U-O       D   D         *-O-O-O-*
+     |   |          |           |       |   |           |   |
+     |   |          *           *       *   *           *   *
+   U-O O O-U
+   | | | | |
+   O O-O-O O
+   |       |
+   *       *
+
+
+   FOURTH FLOOR      FIFTH FLOOR     SIXTH FLOOR     SEVENTH FLOOR
+
+
+      *   *             *   *          *                    *
+      |   |             |   |          |                    |
+      D   D           D-O   O-D        O-O T          *-O-U-O-*
+      |   |             |   |          | | |            |   |
+    U-O O O-U         *-O-F-O-*      B-R U O            O D O
+      | | |             | | |          |   |            | | |
+    *-O-O-O-*           * U *        *-O-D-O-*          O O-O
+      |   |               |            |                    |
+      *   *               O            *                    *
+
+
+   EIGHTH FLOOR      NINTH FLOOR    TENTH FLOOR
+
+                                                           |  G->10:
+     *   *                 *             M D        ------------------
+     |   |                 |             | |        G-> 1: | E,S,E,U
+     U O-O             O-O-U           *-O-O-*      1-> 2: | N,W,U
+     |   |                 |               |        2-> 3: | N,E,U
+   *-O-D-O-*         *-D-O-O-*             C        3-> 4: | W,N,U
+     |   |                 |                        4-> 5: | S,E,U
+     *   *                 *                        5-> 6: | W,S,W,S,U
+                                                    6-> 7: | W,S,E,S,U
+                                                    7-> 8: | S,E,S,W,U
+   G - Mahogany gate -> `search room`               8-> 9: | W,S,U
+   U - Stairs up                                    9->10: | E,E,N,U
+   D - Stairs down
+   F - Fountain
+   J - Master of Illusion
+   B - Beholder
+   R - Rusty door -> `search room`
+   T - Body of Master
+   M - Mordenkainen (Mage guild)
+   C - Arhemius (Cleric guild - up to 30)
+   * - Path to opposite room

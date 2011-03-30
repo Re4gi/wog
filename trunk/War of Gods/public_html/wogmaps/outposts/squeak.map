@@ -1,0 +1,17 @@
+                 SQUEAK LAIR
+
+  0 floor      -1 floor
+
+        O        U-O
+        $        | |         $ - path `up` or `down`
+    O   O        O O         D - down 
+     \  $                    U - up
+O     D-O         
+ \    |           
+O-O-O-O           
+ /    |
+O     O
+      | E
+      O-X
+        I
+        T

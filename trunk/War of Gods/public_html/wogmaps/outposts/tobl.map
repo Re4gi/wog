@@ -1,0 +1,23 @@
+           TOWER OF BLUE LIGHTNING
+
+             U                    D
+            / \                  / \
+         O-O-D-O-O              O   O
+
+           second floor        third floor
+
+
+          O-F-O         O-G-O
+          |   |          \ /
+          O   O           U
+          |   |
+          O-O-O
+            |            first floor
+            O
+            |
+           EXIT
+
+          ground
+
+          F - exit UP with firewall
+          G - Exit DOWN with firewall

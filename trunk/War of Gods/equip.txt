@@ -1,0 +1,37 @@
+blessed ruby full set				70
+blessed ruby full helm				9
+blessed ruby fullplate armour		22
+blessed ruby fullplate boots		7
+blessed ruby fullplate gauntlets	5
+blessed ruby fullplate leggings		14
+blessed ruby fullplate sleeves		11
+
+blessed ruby scale set				52
+blessed ruby basinet				6		
+blessed ruby scale armour			16
+blessed ruby scale boots			5
+blessed ruby scale gauntlets		4
+blessed ruby scale leggings			10
+blessed ruby scale sleeves			8
+
+blessed ruby elven set				49
+blessed ruby elven chain armour		15
+blessed ruby elven chain boots		4
+blessed ruby elven chain coif		6
+blessed ruby elven chain gauntlets	3
+blessed ruby elven chain leggings	9
+blessed ruby elven chain sleeves	8
+
+blessed silk spectral boots
+blessed silk spectral gauntlets
+blessed silk spectral hood
+blessed silk spectral leggings
+blessed silk spectral shirt
+blessed silk spectral sleeves
+
+blessed silk shadow boots
+blessed silk shadow gauntlets
+blessed silk shadow hood
+blessed silk shadow leggings
+blessed silk shadow shirt
+blessed silk shadow sleeves

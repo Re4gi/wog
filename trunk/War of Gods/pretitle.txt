@@ -1,0 +1,11 @@
+warlock
+
+male:
+51	Devil
+52	Demon
+
+thief
+
+male:
+51	Stalker
+52	Killer

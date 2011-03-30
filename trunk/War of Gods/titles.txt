@@ -1,0 +1,139 @@
+warlock:
+
+male
+1:	Black Initiate of the 1st Circle
+2:	Black Acolyte of the 1st Circle
+3:	Black Apprentice of the 1st Circle
+4:	Black Aspirant of the 1st Circle
+5:	Black Adept of the 1st Circle
+6:	Black Initiate of the 2nd Circle
+7:	Black Acolyte of the 2nd Circle
+8:	Black Apprentice of the 2nd Circle
+9:	Black Aspirant of the 2nd Circle
+10: Black Adept of the 2nd Circle
+11:	Black Initiate of the 3rd Circle
+12:	Black Acolyte of the 3rd Circle
+13:	Black Apprentice of the 3rd Circle
+14:	Black Aspirant of the 3rd Circle
+15:	Black Adept of the 3rd Circle
+16:	Artisan Warlock
+17:	Master Warlock
+18:	Black Breath of Hell
+19:	Lesser Horror
+20:	Greater Horror
+21:	Horror from Underworld
+22:	Hell Spawn
+23:	Hell Cocoon
+24:	Speaker of Hell
+25:	Claw of Gehenna
+26: Phantom of Gehenna
+27:	Black Herold of Gehenna
+28:	Hand of Abyss
+29:	Shadow of Abyss
+30:	Keeper of Abyss
+31:	Mouth of Death
+32:	Mouth of Death
+
+shaman:
+
+male
+1:	Newbie Swindler
+2:	Crazy Man
+3:	Fanatic Man
+4:	Totem Seller
+5:	Ugly Tatanka
+6:	Fanatic Dancing One
+7:	Hypnotic Look'man
+8:	Greatezt of healing Boyz
+9:	Expert Gravedigger
+10:	Great Humpa-Humpa
+11:	Big Shaman
+12:	Family's Shaman
+13:	Shaman of the Clan
+14:	Shaman of the Tribe
+15:	Big Og-Og
+16:	Ritual Preparer
+17:	Ritual Maker
+18:	Dancer with sacred spirits	
+19:	Dark Blasphemer
+20:	Soul Toucher
+21:	Life Bringer
+22:	Summoner of Undeads
+23:	Dark Cleric of Night
+24:	Finder of path to Halls of Darkness
+25:	Evil Life Stealer
+26:	Dark Embracer
+27:	Hellraiser	
+28:	Elder Brother of Charon
+29:	Left Hand of Death
+30:	Right Hand of Death
+31:	Reincarnation of Death
+
+doomguard: 
+
+male
+1:	Unholy Swordsman
+2:	Unholy Warrior
+3:	Unholy Crusher
+4:	Victim of Hell
+5:	Cursed Blade
+6:	Cursed Sword of Chaos
+7:	Wretched Fang of Chaos
+8:	Mercenary of Chaos
+9:	Chaos Hero
+10:	Shadow Templar
+11:	Protector of Undeads
+12:	Servant of Darkness
+13:	Baron of Twilight
+14:	Prince of Night
+15:	Black Knight
+16:	Dark Knight
+17:	Doom Knight
+18:	Death Knight
+19:	Dark Legionnaire
+20:	Black Lord
+21:	Doom Lord
+22:	Death Lord
+23:	Black Emperor
+24:	Dark Emperor
+25:	Doom Emperor
+26:	Emperor of Death
+27:	Shadow Guardian
+28:	Dark Angel
+29:	Patron of Doom
+30:	King of the Nightmares
+31:	Evil Ruler of Shadows
+
+fighter:
+
+male
+1:	Utter Newbie
+2:	Simple Wanderer
+3:	Prominent Wanderer
+4:	Simple Rover
+5:	Prominent Rover
+6:	Famed Rover
+7:	Amateur Fighter
+8:	Skilled Fighter
+9:	Expert Fighter
+10:	Great Fighter
+11:	Famed Fighter
+12:	Amateur Warrior
+13:	Skilled Warrior
+14:	Expert Warrior
+15:	Great Warrior
+16:	Famed Warrior
+17:	Lesser Champion
+18:	Renowned Champion
+19:	Famed Champion
+20:	Amateur Swordsman
+21:	Lesser Swordsman
+22:	Prominent Swordsman                                                                                                 
+23:	Great Swordsman
+24:	Master Swordsman
+25:	Renowned Swordsman
+26:	Famed Swordsman
+27:	Lesser Mercenary
+28:	Prominent Mercenary
+29:	Great Mercenary
+30:	Master Mercenary

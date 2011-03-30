@@ -1,0 +1,28 @@
+     E-O-O-E            QUATERFAIL VILLAGE
+       |
+     O-O-O-O                E - eagle
+    /    |                  B - blacksmith
+ O-O     |     O            A - bartender
+    \    |     |            S - Surk
+     O-O-O-O O-O            H - shop
+      \   /    |            R - `move circle`  `jump down`
+       \ /     O                `climb up` - to return
+        O     /|        G   W - wolf
+         \   / O        |   G - slayer guild
+          O /   \       O
+          |/     \     / \
+O--O A    O       \   /   O-W
+  / \|   /         \ /   /  |
+ O   O--O           E   R   |
+     |  |          /     \  |
+     O--O--O<-O   O       O-O
+           |  |  / \     /
+           O--H O-O \   /
+          /|\   | |  \ /
+       B-O | \  | |   O
+          \|  \ | | 
+           S   \| | 
+           |    O | 
+           O      O 
+           |
+          EXIT

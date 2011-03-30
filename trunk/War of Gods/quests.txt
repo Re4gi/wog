@@ -1,0 +1,696 @@
+0: Harl's - "Newbie Hints"													       	
+1: Harl's - "Donation for the church"	                            1	100	
+2: Harl's - "Asfaloth's Book"                                       10	20	
+3: Harl's - "Fire Bat"                                              10	20	
+4: Harl's - "Shelan's Talisman"										10	100	
+5: Harl's - "Help Jerome to find his wares"							10	100	
+6: Harl's - "Dymotras's Giant Slammer"                              1	100	
+7: Cross's - "Ryaher'anglath's staff"								10	100	
+8: Xax,Cross's - "Zygurg's dead man"								18	45	
+9: Xax,Cross's - "Zygurg's amulet"									20	45	
+10: Xax's - "Fladril's daughter"									30	80	
+11: Margit's - "Bring Bluuk lost Gruncho"                           5	100 
+12: Malebolgia's - "Old Hunter"										30	60	
+13: Malebolgia's - "Farmers New Hope"								1	30	
+14: Malebolgia's - "Old Painting"									1	30	
+15: Cliff and Malebolgia's - "Tusk Collector"						6	24	
+16: Malebolgia's - "Orcish Draught"									45	100	
+17: Malebolgia's - "Help the Goblin King"                           30	60  
+18: Malebolgia's - "Black Jyhad Mission"                            50	100	
+19: Robin and Malebolgia's - "Kill the Spy"							40	100	
+20: Robin and Malebolgia's - "Mystery of the Ice Fortress"			40	100	
+21: Robin's - "Precious pelt"										30	100	
+22: Suil's - "Soul Cage"                                            20	45	
+23: Suil's - "Jezzira's beauty"                                     15	35	
+
+***********
+Quest No.5:
+***********
+
+Location: Outcast Exile
+Path: n,n,ne,n,n,n,n,n,n,n,e,e,s
+
+===================================================================================================================================
+
+Jerome says: My potion delivery is delayed for several days
+Jerome says: You look like a mighty adventurer, maybe you should help me
+Jerome asks: Will you help me to investigate what has happened with my wares ?
+
+1. Yes, sure, I will do that
+2. Sorry, I have other things to do
+3. No, I am not interested
+
+===================================================================================================================================
+
+Jerome says: Thank you, my friend
+Jerome says: It should not be very hard...
+Jerome says: Try to ask people or guards in the town, maybe the suspect
+             something
+Jerome says: Please find it and return here for a reward
+
+===================================================================================================================================
+
+ 1. Help Jerome to find his wares
+    Alchemist Jerome hasn't got his wares on time and complains that
+    this is not happening for the first time.  He is afraid that his
+    potion delivery was ambushed and robbed.
+    - Find Jerome's wares
+
+===================================================================================================================================
+
+Location: Snake Valley
+Path: e,s,e,e,n,n,n,n,e,enter passage/crawl passage,e
+Alternative path: e,s,e,e,n,n,n,n,e,enter passage/crawl passage,s
+Action: kill robber
+Afteraction: get pack
+
+===================================================================================================================================
+
+ 1. Help Jerome to find his wares
+    Alchemist Jerome hasn't got his wares on time and complains that
+    this is not happening for the first time.  He is afraid that his
+    potion delivery was ambushed and robbed.
+    - Return back to Jerome
+
+===================================================================================================================================
+
+You give the pack of potions to Jerome.
+
+===================================================================================================================================
+
+Well done, Galthran !
+You successfully finished your quest !
+
+===================================================================================================================================
+
+Jerome asks: Where did you find it ?
+Jerome asks: What ? Robbers ? I should inform other shopkeepers...
+Jerome says: Anyway, I would like to offer you something for your effort
+Jerome says: Please choose yourself:
+1. A bunch of potions
+2. A magical symbol [two brown potion, two purple potion, dark green potion, yellow potion]
+
+===================================================================================================================================
+
+Jerome says: Here you are
+
+===================================================================================================================================
+
+***********
+Quest No.7:
+***********
+
+Location: Necropolis
+Path: n,ne,ne,se,ne,ne,enter crack,e,e,enter opening,n,ne,e,e,jump down,e,e,e,d,e,se,e,e,ne,e,e,ne,se,n,se,e,s,s,e,e
+
+===================================================================================================================================
+
+Ryaher'anglath says: A few days ago I have lost my magical staff.
+Ryaher'anglath asks: You look like a mighty adventurer, maybe you should help
+                     me ?
+Ryaher'anglath asks: Will you help me to find my magical staff ?
+1. Yes, of course
+2. No
+
+===================================================================================================================================
+
+Ryaher'anglath says: I see that you are a very empathic person, so listen...
+Ryaher'anglath says: A few days ago while practising fighting skill, I lost my
+                     control over summoned sinister fiend.
+Ryaher'anglath says: The day after I noticed, that my magical staff is
+                     missing.
+Ryaher'anglath says: It had to be a thief or burglars, who came here and stole
+                     it while I was busy.
+Ryaher'anglath says: Please find it and return here for a reward.
+Ryaher'anglath says: You are my last hope...
+
+===================================================================================================================================
+
+ 1. Ryaher'anglath's staff
+    Ryaher'anglath has lost his precious staff while practising his
+    fighting skill. He told me, that he lost control over summoned
+    sinister fiend and probably a thief or a burglar stole his magical
+    staff.
+    - Find Ryaher'anglath's staff
+
+===================================================================================================================================
+
+Location: Anthill
+Path: d,nw
+Alternative location 1: Timber of Shadows
+Path: e,ne,ne,ne
+Alternative location 2: Ogre Camp
+Path: n,n,n,e,e,s
+Alternative location 3: Duergen Shortcut
+Path: e,ne,ne,ne,e,e,e,s,s
+Action: kill fiend
+Afteraction: get staff
+
+===================================================================================================================================
+
+ 1. Ryaher'anglath's staff
+    Ryaher'anglath has lost his precious staff while practising his
+    fighting skill. He told me, that he lost control over summoned
+    sinister fiend and probably a thief or a burglar stole his magical
+    staff.
+    - Return back to Ryaher'anglath
+
+===================================================================================================================================
+
+You give the Ryaher'anglath staff to Ryaher'anglath.
+
+===================================================================================================================================
+
+Well done, Galthran !
+You successfully finished your quest !
+
+===================================================================================================================================
+
+Ryaher'anglath exclaims: Thank you very much !
+Ryaher'anglath says: I knew that you are a true hero.
+Ryaher'anglath asks: Where did you find it ? Ah, that doesn't matter...
+Ryaher'anglath asks: I would like to offer you a small compensation for your
+                     effort ?
+Ryaher'anglath says: Please choose one of the following items:
+1. A magical scroll
+2. A magical wand
+3. A magical symbol
+
+===================================================================================================================================
+
+***********
+Quest No.8:
+***********
+
+Location: Free Harbour
+Path: s,s,s,e,n,e
+
+===================================================================================================================================
+
+Union captain exclaims: Mister ! Wait a minute, I have a certain bussiness
+                        proposal for you. Would you able to provide me one
+                        very special service ?.
+
+1. Yes, go on..
+2. No, ask somebody else..
+
+===================================================================================================================================
+
+Union captain says: Captain says: Very well Mister. As you probably know, a
+                    clan of pirates is operating in eastern part of city.
+                    Their activities cross some interests of Merchant Union -
+                    my employer. It's also very disgusting they cooperate with
+                    inproper races...you surely know what I mean.
+Captain continues: The whole clan stands and falls on one person.
+                   It is their chief called Zygurg. He is hidden somewhere in
+                   the city and very well guarded. Your task is to find that
+                   Zygurg and arrange he will not cause troubles more. Reward
+                   is money and rare potions.
+Union captain asks: Do you accept this task?
+
+1. Yes, I do !
+2. No, I do not !
+
+===================================================================================================================================
+
+Union captain exclaims: It's wonderful ! I wish you a lot of luck.
+
+===================================================================================================================================
+
+ 1. Zygurg's dead man
+    Captain of guards of Harbour Merchant Union offers some reward for
+    getting rid of local pirate clan.
+    - Find Zygurg, the chief of harbour pirates.
+
+===================================================================================================================================
+
+Location: Free Harbour
+Path: w,s,w,s,e,e,se,e,e,n,enter entry,upstairs
+Action: kill zygurg
+
+===================================================================================================================================
+
+ 1. Zygurg's dead man
+    Captain of guards of Harbour Merchant Union offers some reward for
+    getting rid of local pirate clan.
+    - Return back to Captain with the scalp as an evidence.
+
+===================================================================================================================================
+
+You give the zygurg's scalp to union captain.
+
+===================================================================================================================================
+
+Union captain says: Very well Mister, You fulfiled your part of agreement and
+                    I'll give you your reward.
+
+===================================================================================================================================
+
+Well done, Galthran !
+You successfully finished your quest !
+
+===================================================================================================================================
+
+Captain drops some golden armour on the ground.
+Captain drops also some potion.
+Captain smiles at you and says: Take it.
+
+===================================================================================================================================                 
+
+You get the blue potion.
+You get the blue potion.
+You get the golden scale armour.
+
+===================================================================================================================================
+
+************
+Quest No. 9:
+************
+
+Location: Free Harbour
+Path: s,s,s,s,e,e,se,e,e,n,enter entry,upstairs
+
+===================================================================================================================================
+
+Zygurg asks: Hey you...dude, you seem quite capable to me. I have a job for
+             you, reward is this amulet (He is showing you some nasty and
+             dirty amulet hanging on his neck). Zygurg continues: this pretty
+             little thing will help you to become the best thief in these
+             wastelands. All I need is someone to take care of and little
+             searching in Alberon.
+So, are you interested ?
+1. Yes, I'll take care of it.
+2. No, forget it.
+
+===================================================================================================================================
+
+Zygurg says: Well, your target is captain of guards of Merchant
+             Union in this harbour. Bring me kindly his scalp ...as an evidence,
+             do you understand? (He doesn't wait for answer and continues)
+             I want also a bone (smiles at you), it's not a common bone, I want
+             a bone of some damned titan, do you understand ? And it's not a
+             business of yours what I need it for. I don't know where to find it.
+             I heard only something about one corpse of that beast is laying within
+             old southern woods of Alberon. That's all what I can say about that.
+
+===================================================================================================================================
+
+ 1. Zygurg's amulet
+    Evil pirate chief Zygurg offers his amulet for killing his enemy
+    and he requests also a very special item hidden somewhere in
+    Alberon.
+    - Kill the captain of union guards
+    - Find titan's bone a bring it to Zygurg
+ 
+===================================================================================================================================
+
+Location: Free Harbour
+Path: downstairs,out,s,w,w,nw,w,w,n,e,n,e
+Action: kill captain
+
+===================================================================================================================================
+
+Location: Andvar
+Path: s,s,s,s,s,s,w,climb reef
+Action: examine skeleton
+
+===================================================================================================================================
+
+ 1. Zygurg's amulet
+    Evil pirate chief Zygurg offers his amulet for killing his enemy
+    and he requests also a very special item hidden somewhere in
+    Alberon.
+    - Find titan's bone a bring it to Zygurg
+    - Take a scalp of captain for Zygurg as an evidence
+
+===================================================================================================================================
+
+You give the Captain's scalp to zygurg.
+
+Zygurg says: Thanks, that's what I need.
+
+You give the titan's bone to zygurg.
+
+Zygurg says: Thanks, that's what I need.
+
+===================================================================================================================================
+
+Zygurg asks: Are you waiting for the reward ?
+Zygurg exclaims: You're a stupid like a cave troll, I would never gave this
+                 amulet to anyone (He took his amulet from his neck and he's
+                 putting it into his pocket now !).
+Zygurg exclaims: Get out until you are alive !
+
+===================================================================================================================================
+
+Well done, Galthran !
+You successfully finished your quest !
+You gained one wretched experience point.
+
+===================================================================================================================================
+
+You get the wool amulet of zygurg from the corpse.
+
+===================================================================================================================================
+
+************
+Quest No.11:
+************
+
+Location: Orc Caves
+Path: e,s,s,s,w,nw,climb down,e,n
+
+===================================================================================================================================
+
+Bluuk asks: Hello stranger, got some time, have you ? I am quite pissed, right
+            know and you seem to be the right person which could help me with
+            my trouble.See, I used to have a creature named Gruncho. I liked
+            him a lot. But you know he was always a wanderer and he used to
+            get lost a lot. But he always returned. Now it is almost a month
+            since I saw him last time. I cannot go search for him myself, but
+            why don't you help me, huh ? If you get him back, I will give you
+            something you will like for sure..
+So are you intersted ?
+1. Yes, why not.
+2. No, I have other things to do.
+
+===================================================================================================================================
+
+Bluuk asks: Well, then, just now I thought about my former sword-bearer,
+            currently very well respected and also famous merchant somewhere
+            in southern parts of Mountains of Horror, who always liked to feed
+            Gruncho with his roasted leftovers. He always liked watching
+            Gruncho ate it in hurry with dribbles flying around, he he he, he
+            did. Why don't you pay him a visit, would you ?
+
+===================================================================================================================================
+
+ 1. Bring Bluuk lost Gruncho
+    Legendary blood hunter of Kar-Gar, Bluuk, well respected among
+    orcish tribes, is missing his hunting friend Gruncho. Bluuk will
+    reward you if you bring Gruncho back to him.
+    - Find Bluuk's former battle sword-bearer
+
+===================================================================================================================================
+
+Location: Goblin Caves
+Path: n,e,e,n,n,e,e,n,n
+Action: say gruncho
+
+===================================================================================================================================
+
+Dabuh asks: You know that poor bugger too ? It just showed up couple of weeks
+            ago and I knew Bluuk will miss him soon. So I wanted to do a
+            business trip to the Orcs, but see, I needed to gather things up
+            and prepare for that. Meanwhile, there was a robbery in my shop
+            and someone took Gruncho's favourit pot he used to sleep in.
+            Guards were only able to find some tracks of some goblin scout.
+            Interestingly they said that they found a orcish odour on place
+            too, but not orcish tracks. That scout must have came from some
+            orcish place then, I'd say. Well, say Bluuk I am sorry for his
+            loss.
+
+===================================================================================================================================
+
+ 1. Bring Bluuk lost Gruncho
+    Legendary blood hunter of Kar-Gar, Bluuk, well respected among
+    orcish tribes, is missing his hunting friend Gruncho. Bluuk will
+    reward you if you bring Gruncho back to him.
+    - Find goblin scout who stole the pot from Dabuh
+
+===================================================================================================================================
+
+Location: Hidden Outpost 
+Path: s,climb slope,u,s,s,e
+Action: kill scout
+Afteraction: get parchment, read parchment
+
+===================================================================================================================================
+
+TICKET from Dog's house corp.
+
+Goods: one special dog, hears on name Gruncho
+Bought for: 5 gold coins.
+
+Terms of payment:
+1. 2 gold coins on handover    [x]
+2. 3 gold coins after 2 weeks  [ ]
+
+Should the dog died or get lost for any reason,
+2nd payment won't be delivered.
+
+Signed: ,-'-'- (the name not properly visible) -='=, orcish dogkeeper
+
+===================================================================================================================================
+
+ 1. Bring Bluuk lost Gruncho
+    Legendary blood hunter of Kar-Gar, Bluuk, well respected among
+    orcish tribes, is missing his hunting friend Gruncho. Bluuk will
+    reward you if you bring Gruncho back to him.
+    - Find dogkeeper who bought Gruncho from goblin scout
+
+===================================================================================================================================
+
+Location: Watch Tower
+Path: s,se,e,e,s,s,d,w,u
+Action: say gruncho
+
+===================================================================================================================================
+
+Urthai dogkeeper asks: I do have a dog with that name on a stock.Would you
+                       like to buy it?
+
+===================================================================================================================================                       
+                       
+You explain dogkeeper all the story and he agrees on returning
+of Gruncho, but you must give him the ticket and 10 gold coins,
+due to the business he must keep.
+
+===================================================================================================================================
+
+ 1. Bring Bluuk lost Gruncho
+    Legendary blood hunter of Kar-Gar, Bluuk, well respected among
+    orcish tribes, is missing his hunting friend Gruncho. Bluuk will
+    reward you if you bring Gruncho back to him.
+    - Give dogkeeper ticket from dead goblin and 10 gold coins
+
+===================================================================================================================================
+
+CONTINUE
+
+===================================================================================================================================
+
+************
+Quest No.17:
+************
+
+Location: Goblin Caves
+Path: n,n,n,n,n,n,n,n
+
+===================================================================================================================================
+
+T'ikir says: Heeeeeeey you, I have seen you a couple timez arund here.
+T'ikir exclaims: I'v gott a problem!
+T'ikir asks: Can ya help me out?
+1. Yes, what can I do for you?
+2. Nah, get lost!
+
+===================================================================================================================================
+
+The goblin king exclaims: One of our goblin berserkers went mad!
+The goblin king says: He killed some females and males here.
+The goblin king says: Even some kids .. that dirty bastarrd.
+The goblin king says: I wasnt here as it happend.
+The goblin king says: They told me that he even entered
+The goblin king says: my treasure-chamber.
+The goblin king says: I checked it and saw that he has stolen
+The goblin exclaims: my beloved dagger!
+The goblin king says: I just sent some scouts to track him
+The goblin king says: and to slay him.
+The goblin king says: But I think it would be good if you
+The goblin king says: could try to catch him also.
+The goblin king says: The incident happend not long ago
+The goblin king exclaims: He cant be far!
+The goblin king exclaims: If you go now, you can catch him!
+The goblin king exclaims: I'd go myself but I must take care of the caves!
+The goblin king exclaims: Please, get that bastard and slay him!
+The goblin king exclaims: Return me my dagger and I'll be grateful!
+The goblin king exclaims: Go Go now, theres no time to loose!
+
+===================================================================================================================================
+
+ 1. Help the Goblin King
+    A goblin berserker went mad and raged in the goblin caves. He
+    killed some males and females and afterwards stole a dagger from
+    the king's treasury. Trace the goblin, kill him and return the
+    stolen dagger to the king.
+    - Kill the mad goblin and return the stolen dagger to the king
+
+===================================================================================================================================
+
+Location: Hidden Outpost
+Path: s,climb slope,u
+Action: 
+
+===================================================================================================================================
+
+CONTINUE
+
+===================================================================================================================================
+
+************
+Quest No.21:
+************
+
+Location: Outcast Exile
+Path: n,n,ne,n,n,n,n,n,n,n,e,e,e,e,e,e,e,n,n
+
+===================================================================================================================================
+
+Inlanssa says: Hey, sister, come here and listen to me for a while.
+
+Inlanssa asks: Do you want to earn my respect?
+1. Yes, why not?
+2. No, I have no time for this.
+
+===================================================================================================================================
+
+Inlanssa says: Far in the north wilderness, land of frost giants and minotaurs
+
+Inlanssa says: there is one rare beast hunting for its pray. It is called
+               winterwolf,
+Inlanssa says: because of shiny white fur and deadly chilling breath. Please
+               if your
+Inlanssa says: journeys will bring you that far, and you will meet some of
+               these beasts,
+Inlanssa says: bring me its pelt. But beware these beasts usually hunt in
+               packs.
+
+===================================================================================================================================
+
+ 1. Precious pelt
+    Inlanssa, the elven tanner from Outcast Exile has asked you to
+    bring her pelt of a winterwolf. Fearsome beast hunting in far
+    north, where even the most powerful barbarians are careful when
+    comes to battle these beasts. She also mentioned that it is hard
+    to find lonely winterwolf.
+    - Find and kill northern beast called winterwolf.
+
+===================================================================================================================================
+
+Location: Ice Fortress
+Path: sw,sw,sw
+Alternative path 1: sw,sw,sw,se
+Alternative path 2: sw,sw,sw,se,se
+Action: kill winterwolf
+Afteraction: get pelt from corpse
+
+===================================================================================================================================
+
+ 1. Precious pelt
+    Inlanssa, the elven tanner from Outcast Exile has asked you to
+    bring her pelt of a winterwolf. Fearsome beast hunting in far
+    north, where even the most powerful barbarians are careful when
+    comes to battle these beasts. She also mentioned that it is hard
+    to find lonely winterwolf.
+    - Bring winterwolfs pelt to Inlanssa.
+
+===================================================================================================================================
+
+You give the winterwolf pelt to Inlanssa.
+
+===================================================================================================================================
+
+Well done, Galthran !
+You successfully finished your quest !
+
+===================================================================================================================================
+
+Inlanssa says: Thank you for bringing me this precious pelt.
+Inlanssa exclaims: I can finally start work on my masterpiece!
+Inlanssa says: Ah yes some fitting reward, here this should be enough.
+
+===================================================================================================================================
+
+Inlanssa gives you shiny white fur boots.
+
+===================================================================================================================================
+
+************
+Quest No.22:
+************
+
+Location: Ruined fortress Gar-Gathor
+Path: sw,w,sw
+
+Witcher exclaims: You, yes traveler, you are the only hope for me!
+Witcher asks: Do you have some time to help me out?
+
+1. Yes, what do you want?
+2. No, I have no time for this.
+
+===================================================================================================================================
+
+Witcher says: Few days, ago i was same as you a young advanturer as you are
+              now, but for my dumb head i entered these ruins,
+Witcher says: cause heard, at local tavern, that a big treasure can be hided
+              here. I found only dust and ugly demon
+Witcher says: statues standing silently all accross Gar-Gathor. While i was
+              wandering ruins, i come into total-dark room, where
+Witcher says: was no light only void and was attacked by a Lost shadow, it had
+              no bodie, just gas form, my life force was drained
+Witcher says: and my soul was drained and trapped in some gem. As i said
+              before the only thing i remember only darkness, please
+Witcher exclaims: find and kill that shadow and bring me the soul gem, but
+                  beware the shadow is very strong!
+
+===================================================================================================================================
+
+ 1. Soul Cage
+    Witcher, the old dark-elf demon hunter asked you to help him
+    escape soul cage, and regain his life force and make escape from
+    soul cage. Seems a lost Shadow drained his life force, while he
+    was fighting with it at fortress deeps. He escaped barely, and
+    seems cheated Death it self. Now he ask you to find a soul gem to
+    be free again!
+    - Find and slay a lost shadow and return soul gem to Witcher.
+
+===================================================================================================================================
+
+Location: Ruined fortress Gar-Gathor
+Path: ne,nw,e,ne,w,nw,u,s,enter gap,n,w,u,ne,n,e,s,w,n,crawl opening,n,n
+Action: kill shadow
+Afteraction: get gem
+
+===================================================================================================================================
+
+ 1. Soul Cage
+    Witcher, the old dark-elf demon hunter asked you to help him
+    escape soul cage, and regain his life force and make escape from
+    soul cage. Seems a lost Shadow drained his life force, while he
+    was fighting with it at fortress deeps. He escaped barely, and
+    seems cheated Death it self. Now he ask you to find a soul gem to
+    be free again!
+    - Bring soul gem to Witcher.
+
+===================================================================================================================================
+
+You give the soul gem to witcher.
+
+===================================================================================================================================
+
+Well done, Galthran !
+You successfully finished your quest !
+
+===================================================================================================================================
+
+Witcher says: Thank you, my soul are  free again, now will regain my powers!
+Witcher exclaims: I can finally become young again!
+Witcher says: Ah yes some fitting reward, i hope this staff and some gold will help you.
+
+===================================================================================================================================
+
+Witcher gives you 50 gold coins.
+Witcher gives you ruby warstaff.
+
+===================================================================================================================================

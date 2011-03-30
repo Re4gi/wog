@@ -1,0 +1,95 @@
+  b            bash
+  bc           bury corpse
+  be           berserk
+  bo           bodyslam
+  btb          back to back
+  cd           close door
+  cg           close gate
+  cof          climb over fence
+  cr           climb rope
+  db           doorbash
+  dd           dive down
+  di           disarm
+  dr           dismount
+  dt           disarm trap on
+  dw           drink water
+  eb           eat bread
+  ec           enter cavity
+  ef           eat food
+  eo           enter opening
+  ep           enter passage
+  fl           formation legion
+  fp           formation phallanx
+  fs           formation skirmish
+  ga           get all
+  gb           get all from bones
+  gc           get all from corpse
+  gs           get all from skeleton
+  h            headbutt
+  ha           haymaker
+  hk           hard kick
+  kn           kneesmash
+  ld           lock door
+  lg           lock gate
+  lr           lead rhino
+  m            messages
+  od           open door
+  og           open gate
+  p            punch
+  q            quaff
+  qb           quaff blue
+  qg           quaff green
+  qp           quaff purple
+  qr           quaff red
+  qy           quaff yellow
+  r            retreat
+  re           rescue
+  rr           ride rhino
+  ru           rush
+  sac          sacrifice corpse
+  sm           smash
+  sr           search room
+  t            tendoncut
+  tr           track
+  ud           unlock door
+  ug           unlock gate
+  wa           warcry
+  wd           wimpy direction
+  8            kill warg
+  9            kill warboar
+  99           kill spider
+  0            kill zonga
+  00           kill mammoth
+  1            kill *dark-elf*
+  2            kill *orc*
+  3            kill *goblin*
+  4            kill *svirfneblin*
+  5            kill *minotaur*
+  6            kill *duergar*
+  7            kill *troll*
+  11           bodyslam *dark-elf*
+  22           bodyslam *orc*
+  33           bodyslam *goblin*
+  44           bodyslam *svirfneblin*
+  55           bodyslam *minotaur*
+  66           bodyslam *duergar*
+  77           bodyslam *troll*
+  d1           disarm *dark-elf*
+  d2           disarm *orc*
+  d3           disarm *goblin*
+  d4           disarm *svirfneblin*
+  d5           disarm *minotaur*
+  d6           disarm *duergar*
+  d7           disarm *troll*
+  h1           haymaker *dark-elf*
+  h2           haymaker *orc*
+  h3           haymaker *goblin*
+  h4           haymaker *svirfneblin*
+  h5           haymaker *minotaur*
+  h6           haymaker *duergar*
+  h7           haymaker *troll*
+  k5           kneesmash *minotaur*
+  k7           kneesmash *troll*
+  `            psay HEAL, RESCUE!!!
+  ``           psay RETREAT!!!
+  *F1-F7       smash darkie

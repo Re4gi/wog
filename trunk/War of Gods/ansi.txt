@@ -1,0 +1,17 @@
+default							BBBBBB
+shouts, doors,exits				00BB00
+mobs							BB0000
+items on ground, fountain		00BBBB
+enemy							BB00BB
+bites							555555
+feeling very well				FFFFFF
+slightly hurt					FFFFFF
+somewhat hurt					55FF55
+hurt							55FF55
+rather hurt						55FF55
+very hurt						FFFF55
+in bad shape					FFFF55
+in very bad shape				FFFF55
+terribly hurt					FF5555
+barely alive					FF5555
+at death's door					FF5555

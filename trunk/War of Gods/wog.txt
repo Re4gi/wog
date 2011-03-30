@@ -1,0 +1,19 @@
+Plan
+Channel
+Config
+
+  ansi            : all
+  autoassist      : off
+  autobury        : off
+  autoloot        : money
+  combinedhits    : off
+  compact         : on
+  display         : fullmap
+  fightlog        : verbose
+  incognito       : off
+  lines           : 20
+  missedhits      : on
+  overland        : all
+  prompt          : verbose
+  showprompt      : begin
+  skills          : sorted

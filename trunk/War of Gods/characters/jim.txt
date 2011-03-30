@@ -1,0 +1,202 @@
+EQUIPMENT:
+
+- You are using -----------------------------------------------------------
+  on the head      : blessed ruby full helm
+  around the body  : mithril dark robe of might                            [1]
+  on the neck      : golden amulet of regeneration			   [1]
+  on the arms      : blessed ruby fullplate sleeves
+  around the wrist : mithril bracelet of agility                           [12]
+  on the hands     : blessed ruby fullplate gauntlets
+  on the finger    : blessed emerald ring of absorbtion
+  on the body      : blessed ruby fullplate armour
+  around the waist : ruby belt of endurance
+  on the legs      : blessed ruby fullplate leggings
+  on the feet      : blessed ruby fullplate boots
+  in both hands    : blessed ruby great axe
+----------------------------------------------------------------------------
+
+****************************************************************************
+
+ATTRIBUTES:
+
+Your attack bonus is 86% with great axe in your hands.
+Your equipment gives you 0% bonus to dodge and 43% to parry
+attacks and absorbs 81% of damage from all physical attacks.
+Your toughness reduces damage from all attacks by 20%.
+
+-*- HP: 657 (657) FP: 270 (270)
+
+****************************************************************************
+
+BACKGROUND:
+
+melee, stamina [40], absorbage [3]
+
+****************************************************************************
+
+SCORE:
+
+Champion Jim Hero the dwarven Soldier of Order of Holy Retribution
+------------------------------------------------------------
+ Player level              : 51
+ Gender                    : male
+ Race                      : dwarf
+ Size                      : small
+ Class                     : fighter
+ Alignment                 : good
+ Deity                     : Kovarian
+ Clan                      : Order of Holy Retribution
+ Hit points(max)           : 657(657)
+ Fatique points(max)       : 270(270)
+Primary stats:
+ Str: 19  Dex: 18  Con: 23  Int: 19  Wis: 20  Cha: 19
+You are feeling very brave !
+------------------------------------------------------------
+
+****************************************************************************
+
+SAVINGS:
+
+Basic saving throws vs    Resistance(%)        Immunity(%)
+-----------------------------------------------------------------
+  fire                      shielded           vulnerable
+  cold                  somewhat shielded      vulnerable
+  acid                      shielded           vulnerable
+  electricity           somewhat shielded      vulnerable
+  poison                 rather shielded       vulnerable
+  touch                 somewhat shielded      vulnerable
+  disease                   shielded           vulnerable
+  drain                     shielded           vulnerable
+  magic                  rather shielded       vulnerable
+  mindeffective             shielded           vulnerable
+  illusion              somewhat shielded      vulnerable
+  petrification          rather shielded       vulnerable
+  deathmagic                shielded           vulnerable
+  summoning                 shielded           vulnerable
+  energy                    shielded           vulnerable
+-----------------------------------------------------------------
+
+****************************************************************************
+
+DEITY:
+
+You feel that Kovarian is very happy.
+
+****************************************************************************
+
+INVENTORY:
+
+one blessed ruby great axe, one platinum bracelet of haggling [24]
+
+****************************************************************************
+
+BANK:
+
+5000+
+
+****************************************************************************
+
+GRIMOIRS NEEDED:
+
+no
+
+****************************************************************************
+
+ITEMS:
+
+Alamar Forest:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Antar1:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Antar2:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Antar3:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Bartakhazan Mines:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Buthzak-Dum Mines:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Galvestone:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Gladstone Village:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Loudhorn Village:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Moonsdale:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Thistlerock:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+****************************************************************************
+
+SKILLS:
+
+You don't know any spells.
+You know these skills:
+  accuracy              amazing   |    alertness             amazing
+  armouring             amazing   |    axes                  amazing
+  blindfight            amazing   |    bows                  amazing
+  brawling              amazing   |    climbing              amazing
+  clubs                 amazing   |    daggers               amazing
+  dodge                 amazing   |    dual strike           amazing
+  enhanced damage       amazing   |    fast healing          amazing
+  flails                amazing   |    haggling              amazing
+  hammers               amazing   |    long-blades           amazing
+  maces                 amazing   |    multi opponent        amazing
+  parry                 amazing   |    polearms              amazing
+  rewield               amazing   |    riding                amazing
+  second attack         amazing   |    shield block          amazing
+  short-blades          amazing   |    smash weapon          amazing
+  spears                amazing   |    staves                amazing
+  strategy              amazing   |    swimming              amazing
+  third attack          amazing   |    two-weapon            amazing
+  twohanded-axes        amazing   |    twohanded-blades      amazing
+  twohanded-clubs       amazing   |    twohanded-flails      amazing
+  twohanded-hammers     amazing   |    unarmed               amazing
+  weaponsmith           amazing   |    whips                 amazing
+You know these abilities:
+  appraise              amazing   |    back to back          amazing
+  bash                  amazing   |    berserk               amazing
+  bodyslam              amazing   |    butcher               amazing
+  disarm                amazing   |    disarm trap           amazing
+  doorbash              amazing   |    forge                 amazing
+  hard kick             amazing   |    haymaker              amazing
+  headbutt              amazing   |    kneesmash             amazing
+  punch                 amazing   |    repair                amazing
+  rescue                amazing   |    retreat               amazing
+  rush                  amazing   |    smash                 amazing
+  tendoncut             amazing   |    track                 amazing
+  warcry                amazing   |
+You know these traits:
+  high pain threshold                                        fair
+  toughness                                                  amazing
+  dense skin                                                 amazing
+
+You have 179 learning points remaining.
+
+****************************************************************************
+
+ALIASES:
+
+OK

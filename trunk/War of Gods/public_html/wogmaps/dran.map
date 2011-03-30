@@ -1,0 +1,64 @@
+                                                    Dran Forest
+                                                                        #
+                                                                        |
+                                                                # - # - #
+                                                                |   |   |
+                                                        D $ # - # - # - #           # - #
+                                                              \ | /                       \
+                                                        #       #           # $ #           #
+                                                          \     $         /                   \
+                                                            # $ #       #                       L
+                                                              \ $       |                     /
+                                                                #       #                   #
+                                                                $     /   \                 |
+                                                    # - # - # - # $ #       #               #
+                                                  /         $   |             \           /
+                                                W           # $ #               3  <->  #
+                                                            $
+                                                            #
+                                                            $
+                                                            #                            #
+                                                          / | \                          |
+                                                        # - # - #                # - # - E - L
+                                                      B   \ | /                  |       |
+                                                    P       #                    # - Q   #
+                                                  /   \                              |
+                                    #           #       #                            #
+                                    |         /           \
+                                    #   #   #       T       #
+                                  /   \ |   |       2       |
+                            C - # - # - # - # - # - # - # - #
+                                                    |
+                                                    #
+                                                    |
+                                                # $ # $ #
+                                                    |
+                                                    #
+                                                    |       
+                                        #       # - #       K - # - #
+                                      / |       |     \   /     |   |
+                                    # - S - # - 1       #       # - # - # - OL
+                                      \ |       | \     |
+                                        #       # - #   #
+						|   | /
+                                                #   #
+                                                  \ |
+                                                    #
+                                                    |
+                                                    OL
+
+1 - enter hole <-> up (invis sprite is here)
+2 - enter crack (tree sage here)
+3 - climb plant
+S - spring
+$ - hidden exit
+T - Very old ent (storyteller) (Krezdra is evil Witch, Yarnalla is queen of Dran, Ygbar knows something about Landkhader, Drevozub is ent, )
+P - awake sleeping plant
+B - bark door
+C - not coded yet
+K - climb branches,down,climb tree (su moznosti pohybu medzi dvoma castami lesa)
+L - climb liane
+D - Drevozub
+W - Krezdra the evil Witch
+E - pulsating crystals
+Q - Queen (Queen+worm+dryad+dryad)

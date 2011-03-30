@@ -1,0 +1,51 @@
+EXIT<-B                          ORC CAVES
+      |
+      O          LEVEL 0
+      |
+  1   O
+   \  |
+    O-O-O-2              B - bronze gate (`climb creek` to troll stonethrower)
+    |\|/|                1 - climb down
+    O-W-O                2,3,4 - `down`
+    |/|\|                N - donation room
+  4-O-O-O                B - bartender
+    |   |                R - Khunda receptionist
+    O   O   3-N          P - weaponer
+        |     |          A - armourer
+        O-O-O-O          T - thief guild
+          | |            W - well
+      T-O-O-O-B-R
+          | |
+          P A
+
+
+      K   O       LEVEL -1
+      |   |
+    1-O-O-O             1 - climb up 
+           \            2 - `up` and 'down'
+    O---3   2   O       3,4 - `up`
+    |    \  |   |       H - 2x thief chief
+    O H   O O-O-O-O     $ - path `up` or `down`
+     \|   | |\          M - shaman guild
+  4-O-O---L-O O         L - `move plank` -> `down`
+    $ |   $   |         N - necromancer guild
+    O O   O   Y         K - Bluuk (search room to find way in)
+      |   $             Y - fighter guild
+    M-O-N O-O           
+          | |
+          O-O
+            $         
+            O
+            |\
+            O O       LEVEL -2
+            | |
+            O O-O       2-O-D
+             \|
+              O        
+              $
+         GATE-O-O       D - doomguard guild
+              |
+              O
+
+
+            

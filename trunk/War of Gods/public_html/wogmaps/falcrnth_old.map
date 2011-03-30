@@ -1,0 +1,28 @@
+
+       O
+       |
+       O
+       |
+   O-O-O-O-O                        O-U 
+       |
+   O-O-O-O-O                          D
+       |                              |
+EXIT-S-O-O-O                     U  D-O-O
+         |  \                   /        \
+       O-O-O O-O-O-O     D   U-O          D
+      O  |       | |     |                      /
+      |  |       O-O     B              O-U-OO-O-
+    O-O--T-O       |     |             /    |  | |
+      |  | O       U     D            O     O--O-O
+      O  | |                          |           \
+       O-O-O-O                        O-
+         | |                         /
+         O O
+
+
+
+S - sign
+T - statue
+U - up 
+D - down
+B - bridge(troll) (100 coins to pass through bridge)

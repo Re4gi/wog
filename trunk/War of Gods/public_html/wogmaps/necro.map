@@ -1,0 +1,57 @@
+                         NECROPOLIS
+
+                         ( LEVEL 0 )
+
+                                S                    S - spectral spirit
+                                |\                   D - enter hole -> DEATHTRAP
+         O-O-O                  O O D   O
+           $                     \|  \  |
+           O                      O   O-O
+           $                       \ /  |
+           O                        O-O-3-O O
+           |                       /    $   |
+     O-O O-O   O                  O     O-O-G-4
+       $/   \ /|                  |         |
+     O-O     O 1-O-O   1-O-2 <--> O         O
+        \     /|
+         O O-O-O    $ - path `up` or `down`
+        / \|/       1 - <- `enter hole`
+       O   O            -> `enter crack`
+      /             2 - `enter opening` - spider mother (autoattacker, if you are not dark-elf)
+     O              3 - `jump down`
+     |              G - City gate
+EXIT-O              4 - path `down` -> 4 (on next map)
+
+
+              O   R   O
+              |   |   |
+          O   O   O   O              4 - path `up` (on previous map)
+           \   \  |  /               $ - path `up` or `down`
+            O   O-O-O                B - blood fountain (board room)
+             \  |\|/|                A - armourer
+              O-O B O                W - weaponer
+                |\|/|                J - rent
+                O-O-O-O-O-O          I - inn
+                 \|/                 G - outfiter
+          A W     O                  K - bank
+          | |     |                  C - alchymist
+      J-I-O-O K   O O-C-O            F - fountain
+          |  \|   | $                5 - path `down`
+          G   O-O-O-O D     T        Y - fighter guild
+              | | |  \ \   /         S - shaman guild (up,e,d,e) -> altar
+              O 5 F   H-O-O-S        T - barman (down)
+              |/ \|\  |  \|          Z - warlock guild
+4-O   O   O-O-O   O O-O-M O-O        N - necromancer guild
+   \  |  / \|/ \  |   |\ /$          P - post
+    O-O-O   O   Y O P-O O O-SHOP     E - mounts
+      | |         $   |    \         D - donation room
+      O E         O   O-O-N O        M - doomguard guild
+        |         |   | |            H - thief guild: search room, ne 
+        E         O   O Z            R - High Priestess of Lloth
+                 / \    $            V - fire elemental (autoatacker)
+              O O   O O L            L - library
+              | |   | |
+ V-O-5      O-O-O-O-O-O
+              |   |   |
+              O   O   O
+

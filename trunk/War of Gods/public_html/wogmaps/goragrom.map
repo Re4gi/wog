@@ -1,0 +1,73 @@
+           GORAGROM
+                              O
+                               \       LEVEL 0
+$ - path `up` and `down`        O
+L - lizard                     /
+F - bone               O--O   G
+7 - `down`                 \ / \
+M - Mhor-da          L  F   O O O
+    Z`sran           |  |   | |  \
+    Ven`ommis        L--O   O O-O-O-->EXIT
+B - gate                |  / \   /
+G - giant             O O O   O-O
+A - aga giant          X /    |
+                    A-O G     O-O
+                   /|/ /         \
+      7         O-G-B-O           O
+       \       /|X|/
+        O--O--A-O-O
+                  $
+                  O--M
+
+
+
+LEVEL -1
+
+5          3            3 - `down`
+ \          \           4 - `down`
+  7          O          5 - `down`
+   \         |          6 - `down`
+    6        O          7 - `up` (`climb up`)
+             |     
+             O          
+            /
+           4
+
+LEVEL -2
+
+
+         O                 U - shaman guild (Gonga)
+         |                 S - shop
+     U   O                 3 - `up` or `down`
+     |   |                 5 - `up` or `climb`->1
+ S   O---O--3   B G        T - bartender
+  \ /        \ /  |        G - giant
+   O          L   T        4 - `up`
+  /            \ /         1,2 - `climb slope` exit -> level -3
+ 1              O    O <-  6 - `up`
+ |               \   |  |  F - fighter guild
+ 5                O--O  |  B - bank
+  \              /   |  |  R - rent
+F--O      O--O--4    O  |  W - weaponer
+    \    /|  |          |  V - to Warlock guild:
+     6--2 W  V--R       |      up, east, touch portal, say hell
+             |          |  L - Slayer guild
+           (pass tunnel)-
+
+
+LEVEL -3
+
+
+
+ C L
+ |  \          C - chieftain
+ A-O-O-3       L - Cloud giant
+  /    |       A - aga giant
+ 1     O-A     M - armourer
+  \    |       D - donation room
+   O   O-M     S - alchemist
+  / \  |       R - ogre
+ R   2-D       1,2,3 - `up`
+        \
+         S
+

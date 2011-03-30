@@ -1,0 +1,216 @@
+EQUIPMENT:
+
+- You are using -----------------------------------------------------------
+  on the head      : blessed ruby basinet
+  around the body  : platinum cape of stamina				   [59]
+  on the neck      : wool amulet of Zygurg
+  on the arms      : blessed ruby scale sleeves
+  around the wrist : cotton bracelet of might				   [1]
+  on the hands     : blessed ruby scale gauntlets
+  on the finger    : blessed emerald ring of absorbtion
+  on the body      : blessed ruby scale armour
+  around the waist : ruby belt of endurance
+  on the legs      : blessed ruby scale leggings
+  on the feet      : blessed ruby scale boots
+  in both hands    : blessed ruby battle bow
+----------------------------------------------------------------------------
+
+****************************************************************************
+
+ATTRIBUTES:
+
+Your attack bonus is 95% with battle bow in your hands.
+Your equipment gives you 1% bonus to dodge and 69% to parry
+attacks and absorbs 67% of damage from all physical attacks.
+
+Your attack bonus is 71% with warstaff in your hands.
+Your equipment gives you 1% bonus to dodge and 113% to parry
+attacks and absorbs 67% of damage from all physical attacks.
+
+-*- HP: 544 (544) FP: 200 (200) Mana: 313 (313)
+
+****************************************************************************
+
+BACKGROUND:
+
+carry much more things, sturdier, intelligent
+
+****************************************************************************
+
+SCORE:
+
+Trailmaster Ceger Hero the wild-elven Soldier of Order of Holy Retribution
+------------------------------------------------------------
+ Player level              : 51
+ Gender                    : male
+ Race                      : wild-elf
+ Size                      : medium
+ Class                     : ranger
+ Alignment                 : lawful good
+ Deity                     : Laerwen
+ Clan                      : Order of Holy Retribution
+ Hit points(max)           : 544(544)
+ Fatique points(max)       : 200(200)
+ Mana(max)                 : 313(313)
+Primary stats:
+ Str: 18  Dex: 22  Con: 20  Int: 21  Wis: 21  Cha: 22
+You are feeling very brave !
+------------------------------------------------------------
+
+****************************************************************************
+
+SAVINGS:
+
+Basic saving throws vs    Resistance(%)        Immunity(%)
+-----------------------------------------------------------------
+  fire                      shielded           vulnerable
+  cold                   rather shielded       vulnerable
+  acid                      shielded           vulnerable
+  electricity               shielded           vulnerable
+  poison                    shielded           vulnerable
+  touch                     shielded           vulnerable
+  disease                   shielded           vulnerable
+  drain                     shielded           vulnerable
+  magic                     shielded           vulnerable
+  mindeffective          rather shielded       vulnerable
+  illusion                  shielded           vulnerable
+  petrification             shielded           vulnerable
+  deathmagic                shielded           vulnerable
+  summoning                 shielded           vulnerable
+  energy                    shielded           vulnerable
+-----------------------------------------------------------------
+
+****************************************************************************
+
+DEITY:
+
+You feel that Laerwen is pleased with your actions.
+
+****************************************************************************
+
+INVENTORY:
+
+one darkened emerald ring of freshness, one blessed ruby warstaff (enchanted), 
+one ruby amulet of haggling [20], one golden cloak of giant strength [20]
+
+****************************************************************************
+
+BANK:
+
+5000+
+
+****************************************************************************
+
+GRIMOIRS NEEDED:
+
+no
+
+****************************************************************************
+
+ITEMS:
+
+Alamar Forest:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Antar1:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Antar2:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Bartakhazan Mines:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Buthzak-Dum Mines:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Galvestone:
+-----------------------------------------------------------------
+blessed ruby longsword
+-----------------------------------------------------------------
+
+Gladstone Village:
+-----------------------------------------------------------------
+medium blessed ruby kite shield
+-----------------------------------------------------------------
+
+Loudhorn Village:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Moonsdale:
+-----------------------------------------------------------------
+medium ruby cloak of absorbtion					 [5]
+any blessed emerald ring of warding
+-----------------------------------------------------------------
+
+Thistlerock:
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+****************************************************************************
+
+SKILLS:
+
+You know these spells:
+  ally of nature        amazing   |    animal friendship     amazing
+  barkskin              amazing   |    call companion        amazing
+  create food           amazing   |    create water          amazing
+  dance of the firefliesamazing   |    enchant staff         amazing
+  ever burning log      amazing   |    friends               amazing
+  grasping roots        amazing   |    insect plague         amazing
+  meteor                amazing   |    mouldy coat           amazing
+  spike thorns          amazing   |    spirit of wolf        amazing
+  stick to snakes       amazing   |    tangle weed           amazing
+  thornfoot             amazing   |
+You know these skills:
+  accuracy              amazing   |    acute vision          amazing
+  alertness             amazing   |    blindfight            amazing
+  bows                  amazing   |    bowyer                amazing
+  brawling              amazing   |    climbing              amazing
+  daggers               amazing   |    dodge                 amazing
+  dual strike           amazing   |    fast healing          amazing
+  friend of trees       amazing   |    haggling              amazing
+  long-blades           amazing   |    maces                 amazing
+  meditation            amazing   |    mountaineering        amazing
+  multi opponent        amazing   |    multishot             amazing
+  parry                 amazing   |    polearms              amazing
+  rewield               amazing   |    riding                amazing
+  riposte               amazing   |    shield block          amazing
+  short-blades          amazing   |    soft steps            amazing
+  spears                amazing   |    staves                amazing
+  swimming              amazing   |    trailing              amazing
+  travelling            amazing   |    tumble                amazing
+  two-weapon            amazing   |    unarmed               amazing
+  whips                 amazing   |
+You know these abilities:
+  ambush                amazing   |    appraise              amazing
+  bearcharge            amazing   |    butcher               amazing
+  calm animal           amazing   |    camp                  amazing
+  conceal               amazing   |    craft                 amazing
+  creep                 amazing   |    disarm                amazing
+  disarm trap           amazing   |    feint                 amazing
+  high kick             amazing   |    hunt                  amazing
+  mend                  amazing   |    pugil                 amazing
+  punch                 amazing   |    rapid shot            amazing
+  rescue                amazing   |    retreat               amazing
+  scan terrain          amazing   |    serpentstrike         amazing
+  snare                 amazing   |    tame                  amazing
+  track                 amazing   |    trip                  amazing
+You know these traits:
+  endurance                                                  amazing
+  animal mastery                                             amazing
+  combat casting                                             amazing
+
+You have 232 learning points remaining.
+
+****************************************************************************
+
+ALIASES:
+
+OK

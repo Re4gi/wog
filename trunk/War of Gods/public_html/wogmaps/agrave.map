@@ -1,0 +1,18 @@
+                      ANTAR GRAVEYARD
+
+       (LEVEL 0)        (LEVEL -1)
+
+           O
+           |
+           O
+           |         1-O-O-O-O-O-O-O      S - `enter shack`
+   O-O-O-O-O-O->S      |   |       |      P - `open vault` -> G (level -1)
+   | | | | | |         G   O       3      G - exit to level 0
+   O-O-O-O-O-O             |              1 - shadow
+   |   | | | |             O-O-O          2 - banshee
+   O P-O-O-O-O             |   |          3 - mummy
+   |   | | | |       5-O   2   O-O-4      4 - spectre
+   O-O-O-O-O-O         |       |          5 - demilich
+           |           O       O          6 - daeth master's lab
+          EXIT         |       |
+       (to Antar)      O-O-O-O-6-O-O

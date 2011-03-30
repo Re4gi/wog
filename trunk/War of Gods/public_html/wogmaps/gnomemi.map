@@ -1,0 +1,23 @@
+     GNOME MINES
+       
+     EXIT
+      |
+      O             W - worm(s) or centipede(s)
+      |                   (autoattacker)
+  O-W-O-W-O-W
+  |   |     |
+  O   O     O-W
+  |   |     |
+  O   O-O   O-O
+  |   | |   |
+  O   O W   O-O-O
+  |     |       |
+O-O     O       O
+        |       |
+        O       O
+        |
+      W-O
+      |
+      O
+      |
+      O   
