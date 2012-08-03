@@ -1,43 +1,105 @@
 warlock:
 
-male
-1:	Black Initiate of the 1st Circle
-2:	Black Acolyte of the 1st Circle
-3:	Black Apprentice of the 1st Circle
-4:	Black Aspirant of the 1st Circle
-5:	Black Adept of the 1st Circle
-6:	Black Initiate of the 2nd Circle
-7:	Black Acolyte of the 2nd Circle
-8:	Black Apprentice of the 2nd Circle
-9:	Black Aspirant of the 2nd Circle
-10: Black Adept of the 2nd Circle
-11:	Black Initiate of the 3rd Circle
-12:	Black Acolyte of the 3rd Circle
-13:	Black Apprentice of the 3rd Circle
-14:	Black Aspirant of the 3rd Circle
-15:	Black Adept of the 3rd Circle
-16:	Artisan Warlock
-17:	Master Warlock
-18:	Black Breath of Hell
-19:	Lesser Horror
-20:	Greater Horror
-21:	Horror from Underworld
-22:	Hell Spawn
-23:	Hell Cocoon
-24:	Speaker of Hell
-25:	Claw of Gehenna
-26: Phantom of Gehenna
-27:	Black Herold of Gehenna
-28:	Hand of Abyss
-29:	Shadow of Abyss
-30:	Keeper of Abyss
-31:	Mouth of Death
-32:	Mouth of Death
+male											   Health	Mana
+1:	Black Initiate of the 1st Circle				14 		 14
+2:	Black Acolyte of the 1st Circle                  7       14
+3:	Black Apprentice of the 1st Circle               8       14
+4:	Black Aspirant of the 1st Circle                 8       12
+5:	Black Adept of the 1st Circle                    8       12
+6:	Black Initiate of the 2nd Circle                 8       12
+7:	Black Acolyte of the 2nd Circle                  9       12
+8:	Black Apprentice of the 2nd Circle               7       14
+9:	Black Aspirant of the 2nd Circle                 8       14
+10: Black Adept of the 2nd Circle                    7       13
+11:	Black Initiate of the 3rd Circle                 9       12
+12:	Black Acolyte of the 3rd Circle                  6       13
+13:	Black Apprentice of the 3rd Circle               7       12
+14:	Black Aspirant of the 3rd Circle                 7       14
+15:	Black Adept of the 3rd Circle                    7       14
+16:	Artisan Warlock                                  9       13
+17:	Master Warlock                                   9       12
+18:	Black Breath of Hell                             8       12
+19:	Lesser Horror                                    9       13
+20:	Greater Horror                                   9       12
+21:	Horror from Underworld                           8       12
+22:	Hell Spawn                                       8       14
+23:	Hell Cocoon                                      8       13
+24:	Speaker of Hell                                  8       12
+25:	Claw of Gehenna                                  7       14
+26: Phantom of Gehenna                               9       13
+27:	Black Herold of Gehenna                          7       13
+28:	Hand of Abyss                                    7       14
+29:	Shadow of Abyss                                  9       12
+30:	Keeper of Abyss                                  6       13
+31:	Mouth of Death                                   7       13
+32:                                                  8       13
+33:                                                  9       13
+34:                                                  8       13
+35:                                                  9       14
+36:                                                  7       12
+37:                                                  7       12
+38:                                                  8       12
+39:                                                  9       13
+40:                                                  8       14
+41:                                                  3       13
+42:                                                  3       12
 
 shaman:
 
-male
-1:	Newbie Swindler
+female                                             Health   Mana
+1:	Newbie Swindler                                 13       11 
+2:	Mad Dunce                                        9       13
+3:	Fanatic Fury                                     9       14
+4:  Totem Seller                                     9       14
+5:  Ugly Tatanka                                     9       12
+6:  Franatic Dancing On                              8       11
+7:  Hypnotic Look'woman                              9       13
+8:  Greatezt of healing Girlz                        9       12
+9:  Expert Gravedigger                               7       12
+10: Great Humpa-Humpa                                8       12
+11: Big Shaman                                       9       14
+12: Family's Shaman                                  9       13
+13: Shaman of the Clan                               7       12
+14: Shaman of the Tribe                              9       12
+15: Big Og-Og-Ova                                    9       14
+16: Ritual Preparer                                  7       13
+17: Ritual Maker                                     8       14
+18: Dancer with sacred spirits                       7       12
+19: Dark Blasphemerin                                9       13
+20: Soul Toucher                                     9       14
+21: Life Bringer                                     7       12
+22: Summoner of Undeads                              8       14
+23: Dark Cleric of Night                             9       11
+24: Finder of path to Halls of Darkness              7       14
+25: Evil Life Stealer                                8       10
+26: Dark Embracer                                    8       12
+27: Bloodlust                                        9       14
+28: Elder Sister of Charon                           7       13
+29: Left Hand of Death                               7       14
+30: Right Hand of Death                              9       14
+31: Reincarnation of Death                           7       13
+32:                                                  8       12
+33:                                                  9       13
+34:                                                  8       12
+35:                                                  8       14
+36:                                                  7       14
+37:                                                  7       14
+38:                                                  9       14
+39:                                                  6       12
+40:                                                  7       10
+41:													 3       12
+42:                                                  3       12
+43:													 3       14
+44:                                                  3       12
+45:                                                  3       14
+46:                                                  3       14
+47:                                                  3       11
+48:                                                  3       14
+49:                                                  4       11
+50:                                                  4       11
+
+male                                               
+1:	Newbie Swindler                                
 2:	Crazy Man
 3:	Fanatic Man
 4:	Totem Seller
@@ -137,3 +199,68 @@ male
 28:	Prominent Mercenary
 29:	Great Mercenary
 30:	Master Mercenary
+
+slayer:
+
+male                                               Health
+1:	Insect Brawler                                   
+2:	Bunny Hunter                                     
+3:  Squirrel Slayer                                  
+4:	Pig Ripper                                       
+5:	Animal Killer								     
+6:  Grunt                                            
+7:  Brawler										     
+8:  Troublemaker									 
+9:  Great Bully										 
+10: Wildman                                          
+11: Natural Beastman                                 
+12: Trance Warrior                                   
+13: Born Killer                                      
+14: Crusher                                          
+15: Beast Mangler                                    
+16: Brute                                            
+17: Rager                                            
+18: Scourge                                          
+19: Berserker                                        
+20: Undead Smasher                                   
+21:	Bloodboiler									     
+22: Ironman                                          
+23: Vanquisher		                                 
+24: Shredder                                         
+25: Monster Slayer                                   
+26: Skullcrusher                                     
+
+thief:
+
+male                                               Health
+1:  Newbie Beggar                                    13
+2:  Rag Man                                           8
+3:  Unexperienced Rogue								  7
+4:  Apprentice Footpad                                6
+5:  Practising Locksmith                              8
+6:  Trained Cutpurse                                  7
+7:  Skilled Robber                                    8
+8:  Bank Burglar                                      8
+9:  Renowned Filcher                                  6
+10: Brillant Sharper                                  7
+11: Perfect Magsman                                   8
+12:	Aspiring Thief	                                  8
+13: Master Thief                                      6
+14: Dangerous Brigand                                 7
+15: Traitor for Sale                                  6
+16: Road Bandit                                       7
+17: Agent of Shadow Eminence                          7
+18: Grandfather                                       6
+19: Whirling Blade                                    7
+20: Killer of Uncomfortable Persons                   6
+21: Hired Executioner                                 7
+22: Hired Slayer                                      6
+23: Hidden Murder                                     8
+24: Street Thug                                       7
+25: Invisible Abductor                                8
+26: Lurking Ambusher                                  8
+
+necromancer:
+
+female                                             Health   Mana
+1:  Young Necrofil                                   9       14   

@@ -10,6 +10,13 @@ class:				fighter
 hits per round:		2
 special attacks:	none
 
+savings:
+
+  Fire            res: slightly shielded    imm: immune
+  Cold            res: shielded             imm: vulnerable
+  Acid            res: shielded             imm: vulnerable
+  Poison          res: vulnerable           imm: immune
+
 ======
 Lemure
 ======
@@ -17,6 +24,13 @@ level:				3
 class:				fighter
 hits per round:		2
 special attacks:	none
+
+savings:
+
+  Fire            res: slightly shielded    imm: immune
+  Cold            res: shielded             imm: vulnerable
+  Acid            res: shielded             imm: vulnerable
+  Poison          res: vulnerable           imm: immune
 
 =====
 Manes
@@ -26,6 +40,14 @@ class:				fighter
 hits per round:		2
 special attacks:	bite attack
 
+savings:
+
+  Fire            res: invulnerable         imm: vulnerable
+  Cold            res: shielded             imm: vulnerable
+  Acid            res: shielded             imm: vulnerable
+  Electricity     res: vulnerable           imm: immune
+  Poison          res: vulnerable           imm: immune
+
 ======
 Dretch
 ======
@@ -33,6 +55,14 @@ level:				5
 class:				fighter
 hits per round:		2
 special attacks:	bite attack
+
+savings:
+
+  Fire            res: invulnerable         imm: vulnerable
+  Cold            res: shielded             imm: vulnerable
+  Acid            res: shielded             imm: vulnerable
+  Electricity     res: slightly shielded    imm: immune
+  Poison          res: vulnerable           imm: immune
 
 ===
 Imp
@@ -42,6 +72,11 @@ class:				fighter
 hits per round:		1
 special attacks:	poison sting attack
 
+savings:
+
+  Fire            res: somewhat shielded    imm: vulnerable
+  Poison          res: slightly shielded    imm: immune
+
 ======
 Quasit
 ======
@@ -49,6 +84,14 @@ level:				7
 class:				fighter
 hits per round:		2
 special attacks:	poison bite attack
+
+savings:
+
+  Fire            res: shielded             imm: immune
+  Cold            res: shielded             imm: vulnerable
+  Acid            res: shielded             imm: vulnerable
+  Electricity     res: slightly shielded    imm: immune
+  Poison          res: vulnerable           imm: immune
 
 ================
 Tanar'ri cambion
@@ -58,6 +101,14 @@ class:				fighter
 hits per round:		1
 special attacks:	none
 
+savings:
+
+  Fire            res: invulnerable         imm: vulnerable
+  Cold            res: shielded             imm: vulnerable
+  Acid            res: shielded             imm: vulnerable
+  Electricity     res: vulnerable           imm: immune
+  Poison          res: slightly shielded    imm: immune
+
 =========
 Alu-fiend
 =========
@@ -65,6 +116,14 @@ level:				8
 class:				fighter
 hits per round:		1
 special attacks:	none
+
+savings:
+
+  Fire            res: invulnerable         imm: vulnerable
+  Cold            res: shielded             imm: vulnerable
+  Acid            res: shielded             imm: vulnerable
+  Electricity     res: vulnerable           imm: immune
+  Poison          res: slightly shielded    imm: immune
 
 ========
 Spinagon
@@ -74,6 +133,13 @@ class:				fighter
 hits per round:		2
 special attacks:	pierce and magic pierce attacks
 
+savings:
+
+  Fire            res: slightly shielded    imm: immune
+  Cold            res: shielded             imm: vulnerable
+  Acid            res: shielded             imm: vulnerable
+  Poison          res: vulnerable           imm: immune
+
 =========
 Rutterkin
 =========
@@ -81,6 +147,14 @@ level:				12
 class:				fighter
 hits per round:		2
 special attacks:	none
+
+savings:
+
+  Fire            res: shielded             imm: immune
+  Cold            res: shielded             imm: vulnerable
+  Acid            res: shielded             imm: vulnerable
+  Electricity     res: slightly shielded    imm: immune
+  Poison          res: slightly shielded    imm: immune
 
 =============
 Black abishai
@@ -90,6 +164,13 @@ class:				fighter
 hits per round:		2
 special attacks:	bite, slash and magic sting attacks
 
+savings:
+
+  Fire            res: slightly shielded    imm: immune
+  Cold            res: shielded             imm: vulnerable
+  Acid            res: shielded             imm: vulnerable
+  Poison          res: slightly shielded    imm: immune
+
 =========
 Bar-lgura
 =========
@@ -97,6 +178,14 @@ level:				13
 class:				fighter
 hits per round:		2
 special attacks:	bite attack
+
+savings:
+
+  Fire            res: shielded             imm: immune
+  Cold            res: shielded             imm: vulnerable
+  Acid            res: shielded             imm: vulnerable
+  Electricity     res: vulnerable           imm: immune
+  Poison          res: slightly shielded    imm: immune
 
 ************
 DOOR TO HELL
@@ -110,6 +199,13 @@ class:				fighter
 hits per round:		2
 special attacks:	pierce and magic pierce attacks
 
+savings:
+
+  Fire            res: slightly shielded    imm: immune
+  Cold            res: shielded             imm: vulnerable
+  Acid            res: shielded             imm: vulnerable
+  Poison          res: slightly shielded    imm: immune
+
 =============
 Black abishai
 =============
@@ -117,6 +213,13 @@ level:				13
 class:				fighter
 hits per round:		2
 special attacks:	bite, slash and magic sting attacks
+
+savings:
+
+  Fire            res: slightly shielded    imm: immune
+  Cold            res: shielded             imm: vulnerable
+  Acid            res: shielded             imm: vulnerable
+  Poison          res: slightly shielded    imm: immune
 
 =============
 Green abishai
@@ -126,6 +229,13 @@ class:				fighter
 hits per round:		2
 special attacks:	bite, slash and poison sting attacks
 
+savings:
+
+  Fire            res: slightly shielded    imm: immune
+  Cold            res: rather shielded      imm: vulnerable
+  Acid            res: shielded             imm: vulnerable
+  Poison          res: vulnerable           imm: immune
+
 =======
 Osyluth
 =======
@@ -133,6 +243,13 @@ level:				15
 class:				fighter
 hits per round:		2
 special attacks:	bite and poison sting attacks
+
+savings:
+
+  Fire            res: slightly shielded    imm: immune
+  Cold            res: shielded             imm: vulnerable
+  Acid            res: shielded             imm: vulnerable
+  Poison          res: slightly shielded    imm: immune
 
 ===============
 Wandering kyton
@@ -142,6 +259,24 @@ class:				fighter
 hits per round:		2
 special attacks:	none
 
+savings:
+
+  Fire            res: shielded             imm: vulnerable
+  Cold            res: shielded             imm: immune
+  Acid            res: shielded             imm: vulnerable
+  Electricity     res: shielded             imm: vulnerable
+  Poison          res: shielded             imm: immune
+  Touch           res: shielded             imm: vulnerable
+  Disease         res: shielded             imm: vulnerable
+  Drain           res: shielded             imm: vulnerable
+  Magic           res: shielded             imm: vulnerable
+  Mindeffective   res: shielded             imm: vulnerable
+  Illusion        res: shielded             imm: vulnerable
+  Petrification   res: shielded             imm: vulnerable
+  Deathmagic      res: shielded             imm: vulnerable
+  Summoning       res: shielded             imm: vulnerable
+  Energy          res: shielded             imm: vulnerable
+
 =======
 Barbazu
 =======
@@ -149,6 +284,13 @@ level:				17
 class:				fighter
 hits per round:		2
 special attacks:	pierce attack
+
+savings:
+
+  Fire            res: slightly shielded    imm: immune
+  Cold            res: shielded             imm: vulnerable
+  Acid            res: shielded             imm: vulnerable
+  Poison          res: slightly shielded    imm: immune
 
 ======
 Erinye
@@ -158,6 +300,13 @@ class:				fighter and ranger
 hits per round:		2
 special attacks:	none
 
+savings:
+
+  Fire            res: slightly shielded    imm: immune
+  Cold            res: shielded             imm: vulnerable
+  Acid            res: shielded             imm: vulnerable
+  Poison          res: slightly shielded    imm: immune
+
 ======
 Amnizu
 ======
@@ -165,6 +314,13 @@ level:				19
 class:				fighter
 hits per round:		2
 special attacks:	none
+
+savings:
+
+  Fire            res: slightly shielded    imm: immune
+  Cold            res: shielded             imm: vulnerable
+  Acid            res: shielded             imm: vulnerable
+  Poison          res: slightly shielded    imm: immune
 
 ===========
 Red abishai
@@ -174,6 +330,13 @@ class:				fighter
 hits per round:		2
 special attacks:	bite, slash and magic sting attacks
 
+savings:
+
+  Fire            res: slightly shielded    imm: immune
+  Cold            res: shielded             imm: vulnerable
+  Acid            res: shielded             imm: vulnerable
+  Poison          res: slightly shielded    imm: immune
+
 ========
 Hamatula
 ========
@@ -181,6 +344,13 @@ level:				22
 class:				fighter
 hits per round:		2
 special attacks:	thrust attack
+
+savings:
+
+  Fire            res: slightly shielded    imm: immune
+  Cold            res: shielded             imm: vulnerable
+  Acid            res: rather shielded      imm: vulnerable
+  Poison          res: slightly shielded    imm: immune
 
 ========
 Cornugon
@@ -190,6 +360,13 @@ class:				fighter
 hits per round:		2
 special attacks:	bite, slash and stun slash attacks
 
+savings:
+
+  Fire            res: slightly shielded    imm: immune
+  Cold            res: rather shielded      imm: vulnerable
+  Acid            res: rather shielded      imm: vulnerable
+  Poison          res: slightly shielded    imm: immune
+
 =======
 Gelugon
 =======
@@ -197,6 +374,21 @@ level:				33
 class:				fighter
 hits per round:		2
 special attacks:	bite and magic slash attacks
+
+savings:
+
+  Fire            res: rather shielded      imm: vulnerable
+  Cold            res: somewhat shielded    imm: immune
+  Acid            res: rather shielded      imm: vulnerable
+  Electricity     res: somewhat shielded    imm: vulnerable
+  Poison          res: somewhat shielded    imm: immune
+  Drain           res: somewhat shielded    imm: vulnerable
+  Magic           res: somewhat shielded    imm: vulnerable
+  Mindeffective   res: somewhat shielded    imm: vulnerable
+  Illusion        res: somewhat shielded    imm: vulnerable
+  Petrification   res: somewhat shielded    imm: vulnerable
+  Deathmagic      res: somewhat shielded    imm: vulnerable
+  Energy          res: somewhat shielded    imm: vulnerable
 
 =========
 Pit fiend
@@ -218,6 +410,14 @@ class:				fighter
 hits per round:		2
 special attacks:	bite attack
 
+savings:
+
+  Fire            res: shielded             imm: immune
+  Cold            res: shielded             imm: vulnerable
+  Acid            res: shielded             imm: vulnerable
+  Electricity     res: slightly shielded    imm: immune
+  Poison          res: slightly shielded    imm: immune
+
 =====
 Babau
 =====
@@ -226,6 +426,16 @@ class:				fighter
 hits per round:		2
 special attacks:	bite attack
 
+savings:
+
+  Fire            res: shielded             imm: immune
+  Cold            res: shielded             imm: vulnerable
+  Acid            res: rather shielded      imm: vulnerable
+  Electricity     res: slightly shielded    imm: immune
+  Poison          res: slightly shielded    imm: immune
+
+special:            acid skin
+  
 ========
 Succubus
 ========
@@ -233,6 +443,14 @@ level:				23
 class:				fighter and warlock
 hits per round:		2
 special attacks:	magic gaze, magic gaze, drain_life touch and drain_mana touch attacks
+
+savings:
+
+  Fire            res: rather shielded      imm: immune
+  Cold            res: shielded             imm: vulnerable
+  Acid            res: shielded             imm: vulnerable
+  Electricity     res: slightly shielded    imm: immune
+  Poison          res: slightly shielded    imm: immune
 
 ======
 Chasme
@@ -242,6 +460,14 @@ class:				fighter
 hits per round:		2
 special attacks:	bite and pierce attacks
 
+savings:
+
+  Fire            res: shielded             imm: immune
+  Cold            res: rather shielded      imm: vulnerable
+  Acid            res: rather shielded      imm: vulnerable
+  Electricity     res: slightly shielded    imm: immune
+  Poison          res: slightly shielded    imm: immune
+
 ========
 Nabassu
 ========
@@ -249,6 +475,14 @@ level:				33
 class:				fighter
 hits per round:		2
 special attacks:	bite attack
+
+savings:
+
+  Fire            res: rather shielded      imm: immune
+  Cold            res: shielded             imm: vulnerable
+  Acid            res: rather shielded      imm: vulnerable
+  Electricity     res: slightly shielded    imm: immune
+  Poison          res: slightly shielded    imm: immune
 
 =====
 Vrock
@@ -258,6 +492,15 @@ class:				fighter
 hits per round:		2
 special attacks:	peck, pierce and pierce attacks
 
+savings:
+
+  Fire            res: rather shielded      imm: immune
+  Cold            res: shielded             imm: vulnerable
+  Acid            res: rather shielded      imm: vulnerable
+  Electricity     res: slightly shielded    imm: immune
+  Poison          res: slightly shielded    imm: immune
+  Touch           res: somewhat shielded    imm: vulnerable
+
 ======
 Hezrou
 ======
@@ -265,6 +508,14 @@ level:				35
 class:				fighter
 hits per round:		2
 special attacks:	bite attack
+
+savings:
+
+  Fire            res: shielded             imm: immune
+  Cold            res: shielded             imm: vulnerable
+  Acid            res: rather shielded      imm: vulnerable
+  Electricity     res: slightly shielded    imm: immune
+  Poison          res: slightly shielded    imm: immune
 
 ========
 Glabrezu
