@@ -1,86 +1,811 @@
-Goblin caves:
+====
+AXES
+====
 
- 1. ruby hammer
- 2. ruby great hammer
- 3. ruby claymore
- 4. ruby morning star
- 5. ruby mace
- 6. ruby sabre
- 7. ruby hand axe
- 8. ruby warstaff
- 9. ruby staff
- 10. ruby spear
- 11. ruby knife
- 12. ruby club
- 13. ruby cutlass
- 14. ruby pike
- 15. ruby halberd
- 16. ruby great axe
- 17. ruby shortsword
- 18. ruby flail
- 19. ruby warhammer       
- 20. ruby battle axe       
- 
-Free Harbour: 
- 
- 1. ruby falchion   
- 2. ruby great star 
- 3. ruby twohanded sword
- 4. ruby ninetailed cat
- 5. ruby spiked club
- 6.	ruby whip
- 7. ruby longsword  
- 8. ruby rapier
- 9. ruby budzogan
- 
-ALL:
+----------
+battle axe
+----------
 
-battle axe			X		axes
-battle bow					bows
-bow							bows
-broadsword					long-blades
-budzogan			X		twohanded-clubs
-claymore			X		twohanded-blades
-club				X		clubs
-crossbow			-		
-cutlass				X		short-blades
-dagger						daggers
-falchion			X		long-blades
-flail				X		flails				
-great axe			X		twohanded-axes
-great hammer		X		twohanded-hammers
-great star			X		twohanded-flails
-halberd				X		polearms
-hammer				X		hammers
-hand axe			X		axes
-katzbalger					twohanded-axes
-knife				X		daggers
-lance						polearms
-large knife					daggers
-light crossbow		-
-long whip					whips				
-longbow						bows
-longsword			X		long-blades	
-mace				X		maces
-magical wand
-massive trunk		-
-morning star		X		flails
-ninetailed cat		X		whips
-pick				-		axes
-pike				X		polearms
-rapier				X		daggers
-sabre				X		long-blades
-scimitar					long-blades
-scythe						polearms
-shortbow					bows
-shortsword			X		short-blades
-sickle				-		
-spear				X		spears	
-spiked club			X		clubs
-staff				X		staves
-torch				-
-trident						spears
-twohanded sword		X		twohanded-blades
-warhammer			X		hammers
-warstaff			X		staves
-whip				X		whips	  
+A finely crafted battle axe. This is the standard weapon of the dwarves.
+Easily crafted and maintained, axes like this one are found in great
+quantities in dwarven armies.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 9-15, Pierce: 0-0%, Crit. hit: 0-0%, Magic: +3, Att: 37, Pry: 8
+  Group: axes, Type: cleave, Length: 40, Weight: 7, Value: 44953
+  Material: ruby, Strength: 46150/46150, Repairs: 0
+Extras: one-handed,
+
+--------
+hand axe
+--------
+
+Hand axe is the smallest among the group of cleaving weapons. It is rather
+useful when you want to cut some branches but it is not very good as battle
+equipment.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 7-10, Pierce: 0-0%, Crit. hit: 0-0%, Magic: +3, Att: 34, Pry: 5
+  Group: axes, Type: cleave, Length: 24, Weight: 3, Value: 9654
+  Material: ruby, Strength: 21300/21300, Repairs: 0
+Extras: one-handed,
+
+----
+pick
+----
+
+It's a common pick. It makes dificult miner work somewhat easier.
+It's covered by dry mud.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 6-9, Pierce: 0-0%, Crit. hit: 0-0%, Magic: +3, Att: 35, Pry: 5
+  Group: axes, Type: cleave, Length: 30, Weight: 6, Value: 4376
+  Material: ruby, Strength: 21300/21300, Repairs: 0
+Extras: one-handed,
+
+====
+BOWS
+====
+
+----------
+battle bow
+----------
+
+Battle bow is a specialy designed bow with like-to-be-broken edges which
+enable longer range for the shot. The string of battle bow is strengthened
+for better force to an arrow and longer lifetime of the bow.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 11-16, Pierce: 15-20%, Crit. hit: 0-0%, Magic: +3, Att: 30, Pry: 0
+  Group: bows, Type: missile, Length: 0, Weight: 6, Value: 59461
+  Material: ruby, Strength: 49700/49700, Repairs: 0
+Extras: two-handed,
+Ranged weapon stats:
+  Ranged weapon: battle bow, Speed: +1, Accuracy: 18
+  Requires arrows in quiver as ammunition.
+
+---
+bow
+---
+
+Bow with string made from deer guts is a basic weapon of rangers. Also
+each common squad in a fortress include several skilled archers. The bow
+gives the chance to defend against flying monsters.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 10-14, Pierce: 10-15%, Crit. hit: 0-0%, Magic: +3, Att: 20, Pry: 0
+  Group: bows, Type: missile, Length: 0, Weight: 4, Value: 37165
+  Material: ruby, Strength: 42600/42600, Repairs: 0
+Extras: two-handed,
+Ranged weapon stats:
+  Ranged weapon: bow, Speed: +1, Accuracy: 12
+  Requires arrows in quiver as ammunition.
+
+-------
+longbow
+-------
+
+This fine longbow is made in the traditional elven design. It has very
+high long range.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 10-15, Pierce: 10-25%, Crit. hit: 0-0%, Magic: +3, Att: 25, Pry: 0
+  Group: bows, Type: missile, Length: 0, Weight: 5, Value: 59364
+  Material: ruby, Strength: 56800/56800, Repairs: 0
+Extras: two-handed,
+Ranged weapon stats:
+  Ranged weapon: longbow, Speed: +1, Accuracy: 15
+  Requires arrows in quiver as ammunition.
+
+--------
+shortbow
+--------
+
+Shortbow is a smaller version of an usual bow with proportions adequate
+for small races. Haflings or goblins should use this weapon without any
+problems.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 9-14, Pierce: 10-15%, Crit. hit: 0-0%, Magic: +3, Att: 17, Pry: 0
+  Group: bows, Type: missile, Length: 0, Weight: 3, Value: 22891
+  Material: ruby, Strength: 28400/28400, Repairs: 0
+Extras: two-handed,
+Ranged weapon stats:
+  Ranged weapon: shortbow, Speed: +1, Accuracy: 10
+  Requires arrows in quiver as ammunition.
+
+=====
+CLUBS
+=====
+
+----
+club
+----
+
+A sturdy bludgeoning weapon. Often used by clerics or giant warriors.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 6-10, Pierce: 0-0%, Crit. hit: 0-0%, Magic: +3, Att: 27, Pry: 15
+  Group: clubs, Type: crush, Length: 36, Weight: 4, Value: 17369
+  Material: ruby, Strength: 42600/42600, Repairs: 0
+Extras: one-handed,
+
+-----------
+spiked club
+-----------
+
+Similar to a normal club but this one is covered with sharp spikes.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 8-13, Pierce: 5-10%, Crit. hit: 0-0%, Magic: +3, Att: 28, Pry: 17
+  Group: clubs, Type: crush, Length: 36, Weight: 5, Value: 21442
+  Material: ruby, Strength: 46150/46150, Repairs: 0
+Extras: one-handed,
+
+=========
+CROSSBOWS
+=========
+
+--------
+crossbow
+--------
+
+This fine crossbow is made for an army crossbowmen, with the simple design
+and none decoration. It was made because of its high effectivity in the
+battle.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 11-15, Pierce: 15-20%, Crit. hit: 0-0%, Magic: +3, Att: 39, Pry: 0
+  Group: crossbows, Type: missile, Length: 0, Weight: 7, Value: 51612
+  Material: ruby, Strength: 42600/42600, Repairs: 0
+Extras: two-handed,
+Ranged weapon stats:
+  Ranged weapon: crossbow, Speed: +2, Accuracy: 23
+  Requires quarrels in quiver as ammunition.
+
+--------------
+light crossbow
+--------------
+
+The lighter kind of a crossbow is nearly as accurate as its heavier
+version and also its damage is similar. It was designed for archers
+with lower strength and because of its smaller size, it is easier
+to hide it in cloths.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 11-14, Pierce: 10-20%, Crit. hit: 0-0%, Magic: +3, Att: 30, Pry: 0
+  Group: crossbows, Type: missile, Length: 0, Weight: 5, Value: 34993
+  Material: ruby, Strength: 35500/35500, Repairs: 0
+Extras: two-handed,
+Ranged weapon stats:
+  Ranged weapon: light crossbow, Speed: +1, Accuracy: 18
+  Requires quarrels in quiver as ammunition.
+
+=======
+DAGGERS
+=======
+
+------
+dagger
+------
+
+A fine dagger with a keen edge.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 5-9, Pierce: 20-30%, Crit. hit: 5-10%, Magic: +3, Att: 39, Pry: 8
+  Group: daggers, Type: pierce, Length: 15, Weight: 2, Value: 6205
+  Material: ruby, Strength: 24850/24850, Repairs: 0
+Extras: one-handed,
+
+-----
+knife
+-----
+
+Although small, this knife has a keen edge on it.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 5-8, Pierce: 10-30%, Crit. hit: 0-0%, Magic: +3, Att: 42, Pry: 1
+  Group: daggers, Type: pierce, Length: 14, Weight: 2, Value: 3344
+  Material: ruby, Strength: 21300/21300, Repairs: 0
+Extras: one-handed,
+
+-----------
+large knife
+-----------
+
+A large bladed knife. Its hilt is made of simple wood.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 6-8, Pierce: 10-30%, Crit. hit: 0-0%, Magic: +3, Att: 40, Pry: 3
+  Group: daggers, Type: pierce, Length: 20, Weight: 2, Value: 4530
+  Material: ruby, Strength: 28400/28400, Repairs: 0
+Extras: one-handed,
+
+------
+rapier
+------
+
+A well crafted rapier with very thin long blade. The guard is made
+from several strips of steel, giving the over all impression of an
+ornate weave to the basket hilt.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 6-9, Pierce: 15-40%, Crit. hit: 0-0%, Magic: +3, Att: 40, Pry: 13
+  Group: daggers, Type: pierce, Length: 48, Weight: 3, Value: 30136
+  Material: ruby, Strength: 35500/35500, Repairs: 0
+Extras: one-handed,
+
+---------------
+throwing dagger
+---------------
+
+A well balanced throwing dagger with a sharp blade.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 11-16, Pierce: 0-0%, Crit. hit: 0-0%, Magic: +3, Att: 0, Pry: 0
+  Group: daggers, Type: missile, Length: 0, Weight: 3, Value: 20315
+  Material: ruby, Strength: 17750/17750, Repairs: 0
+Extras: one-handed,
+Ranged weapon stats:
+  Ranged weapon: throwing dagger, Speed: +1, Base accuracy: 10
+
+======
+FLAILS
+======
+
+-----
+flail
+-----
+
+This flail is a suitable weapon for any cleric. Flail consists of
+two sticks chained together. The longer one is used to hold on and
+the shorter one is used to beat. Metal pins could be seen very often
+on the battle versions of flail.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 8-13, Pierce: 5-10%, Crit. hit: 0-0%, Magic: +3, Att: 37, Pry: 6
+  Group: flails, Type: crush, Length: 48, Weight: 12, Value: 40990
+  Material: ruby, Strength: 49700/49700, Repairs: 0
+Extras: one-handed,
+It looks heavy.
+
+------------
+morning star
+------------
+
+Morning star is a one-handed weapon used to cause a great damage, doesn't
+matter if your opponent has armour or not, because this weapon simply
+beats through the armour and then makes the bloody mess from the opponent's
+body.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 7-14, Pierce: 5-10%, Crit. hit: 0-0%, Magic: +3, Att: 35, Pry: 6
+  Group: flails, Type: crush, Length: 42, Weight: 9, Value: 44252
+  Material: ruby, Strength: 49700/49700, Repairs: 0
+Extras: one-handed,
+
+=======
+HAMMERS
+=======
+
+------
+hammer
+------
+
+Typical instrument of blacksmith, but it can be used also in fight.
+It is not as good as warhammer but still effective.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 8-15, Pierce: 0-0%, Crit. hit: 0-0%, Magic: +3, Att: 25, Pry: 5
+  Group: hammers, Type: crush, Length: 38, Weight: 5, Value: 33857
+  Material: ruby, Strength: 49700/49700, Repairs: 0
+Extras: one-handed,
+
+---------
+warhammer
+---------
+
+It's common warhammer. It is a good battle weapon for best warriors.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 8-16, Pierce: 0-0%, Crit. hit: 0-0%, Magic: +3, Att: 27, Pry: 6
+  Group: hammers, Type: crush, Length: 40, Weight: 6, Value: 38621
+  Material: ruby, Strength: 49700/49700, Repairs: 0
+Extras: one-handed,
+
+===========
+LONG-BLADES
+===========
+
+----------
+broadsword
+----------
+  
+Standard one-handed sword. It is the first weapon mostly each warrior
+takes to his hands and learns how to fight with. Broadsword has broad
+blade and simple hilt.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 9-14, Pierce: 0-0%, Crit. hit: 0-0%, Magic: +3, Att: 37, Pry: 30
+  Group: long-blades, Type: slash, Length: 42, Weight: 5, Value: 55446
+  Material: ruby, Strength: 49700/49700, Repairs: 0
+Extras: one-handed,
+
+--------
+falchion
+--------
+
+It is a middle long sword with sparkle blade sharp edged from both sides.
+It's widen to the end where is aslant cut down. Hilt is created into
+the shape of threatening creature and is handsome decorated. This is
+valuable weapon in every point.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 9-14, Pierce: 0-0%, Crit. hit: 0-0%, Magic: +3, Att: 40, Pry: 27
+  Group: long-blades, Type: slash, Length: 38, Weight: 5, Value: 46156
+  Material: ruby, Strength: 49700/49700, Repairs: 0
+Extras: one-handed,
+
+---------
+longsword
+--------- 
+  
+This sword has typical long blade. It is much longer than broadsword but
+light enough to hold it in one hand. This kind of weapon is also marked
+as one and half halook pike
+nded weapon.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 8-15, Pierce: 0-0%, Crit. hit: 0-0%, Magic: +3, Att: 42, Pry: 27
+  Group: long-blades, Type: slash, Length: 48, Weight: 6, Value: 51763
+  Material: ruby, Strength: 53250/53250, Repairs: 0
+Extras: one-handed,
+
+-----
+sabre
+-----
+
+This blade is called sabre. It is a mixture between scimitar and broadsword,
+not as bend as scimitar but still lighter than broadsword.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 9-14, Pierce: 0-0%, Crit. hit: 0-0%, Magic: +3, Att: 39, Pry: 28
+  Group: long-blades, Type: slash, Length: 45, Weight: 4, Value: 45096
+  Material: ruby, Strength: 47925/47925, Repairs: 0
+Extras: one-handed,
+
+--------
+scimitar
+--------
+
+Scimitar is a bend long blade shorter than longsword and mostly prefered by
+pirates and hobgoblins in the battle. It is much easier to control this
+weapon than usual heavy swords.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 8-15, Pierce: 0-0%, Crit. hit: 0-0%, Magic: +3, Att: 45, Pry: 25
+  Group: long-blades, Type: slash, Length: 36, Weight: 4, Value: 44307
+  Material: ruby, Strength: 47925/47925, Repairs: 0
+Extras: one-handed,
+
+=====
+MACES
+=====
+
+----
+mace
+----
+
+This is a fine and sturdy mace, bound with strong leather along the
+length of its grip.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 8-14, Pierce: 0-0%, Crit. hit: 0-0%, Magic: +3, Att: 34, Pry: 11
+  Group: maces, Type: crush, Length: 36, Weight: 7, Value: 43398
+  Material: ruby, Strength: 49700/49700, Repairs: 0
+Extras: one-handed,
+
+========
+POLEARMS
+========
+
+-------
+halberd
+-------
+
+This weapon is so heavy that you have to hold it in both hands, but it
+looks very impressive so you feel much safe with it in this dangerous
+world. It consists from two parts, from a very long pole and massive head.
+Head is of queer shape and is tacked on the pole. It has two sharp spikes
+lying in the right angle. Against one of them is sharp into semi-circle
+curved blade. This weapon must be very dangerous in hands of somebody who
+knows to work with it.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 16-28, Pierce: 0-0%, Crit. hit: 0-0%, Magic: +3, Att: 40, Pry: 1
+  Group: polearms, Type: thrust, Length: 60, Weight: 15, Value: 120332
+  Material: ruby, Strength: 71000/71000, Repairs: 0
+Extras: two-handed,
+It looks very heavy.
+
+-----
+lance
+-----
+
+Common lance. It is the most dangerous weapon used by mounted knights.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 10-20, Pierce: 0-0%, Crit. hit: 0-0%, Magic: +3, Att: 17, Pry: 0
+  Group: polearms, Type: thrust, Length: 150, Weight: 10, Value: 86657
+  Material: ruby, Strength: 71000/71000, Repairs: 0
+Extras: one-handed,
+It looks heavy.
+
+----
+pike
+----
+
+Pike is a good weapon for fighters that like defensive fight. Because of its
+high length you can hit an opponent that is 5 meters from you without any
+problems. Pike is also the best weapon when trying to form phallanx.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 10-22, Pierce: 0-0%, Crit. hit: 0-0%, Magic: +3, Att: 39, Pry: 0
+  Group: polearms, Type: thrust, Length: 120, Weight: 8, Value: 84825
+  Material: ruby, Strength: 63900/63900, Repairs: 0
+Extras: one-handed,
+
+------
+scythe
+------
+
+Scythe is the instrument of people working on the field, but you can use it
+as deadly weapon if you know how. It is also said that DEAD is walking with
+scythe in its bone hand.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 16-26, Pierce: 0-0%, Crit. hit: 0-0%, Magic: +3, Att: 42, Pry: 0
+  Group: polearms, Type: cleave, Length: 80, Weight: 12, Value: 38744
+  Material: ruby, Strength: 31950/31950, Repairs: 0
+Extras: two-handed,
+It looks heavy.
+
+===========
+SHORTBLADES
+===========
+
+-------
+cutlass
+-------  
+  
+This implement is looking like a sabre but is a bit broadest. It's wholy
+straight, only the end is curved. Its opposite side is finished with
+short release which is made right into your hand. It is not very heavy.
+You could use it on different activities, even on defence against little
+animals or to clean your way in a dense bush.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 9-14, Pierce: 0-0%, Crit. hit: 0-0%, Magic: +3, Att: 28, Pry: 13
+  Group: short-blades, Type: slash, Length: 36, Weight: 3, Value: 9714
+  Material: ruby, Strength: 28400/28400, Repairs: 0
+Extras: one-handed,
+
+----------
+shortsword
+----------
+
+The blade is very short, but effective. The handle is made of wood
+and the blade is held in it by leather straps.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 5-10, Pierce: 15-30%, Crit. hit: 5-10%, Magic: +3, Att: 30, Pry: 13
+  Group: short-blades, Type: slash, Length: 30, Weight: 3, Value: 33418
+  Material: ruby, Strength: 42600/42600, Repairs: 0
+Extras: one-handed,
+
+=======
+SICKLES
+=======
+
+------
+sickle
+------
+
+It is a short tool with curved blade in shape of semi-circle. Its blade
+is in some place cracked, it looks that somebody has hard worked with
+it already, but it is sharp enought for that you can scythe grass growing
+around. It is typical druidic symbol.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 5-8, Pierce: 0-0%, Crit. hit: 0-0%, Magic: +3, Att: 34, Pry: 3
+  Group: sickles, Type: cleave, Length: 24, Weight: 2, Value: 3871
+  Material: ruby, Strength: 28400/28400, Repairs: 0
+Extras: one-handed,
+
+======
+SPEARS
+======
+
+-----
+spear
+-----
+
+Long staff with a pointy end with size about 12 feet.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 5-11, Pierce: 0-0%, Crit. hit: 0-0%, Magic: +3, Att: 37, Pry: 6
+  Group: spears, Type: thrust, Length: 70, Weight: 5, Value: 28257
+  Material: ruby, Strength: 42600/42600, Repairs: 0
+Extras: one-handed,
+
+-------
+trident
+-------
+
+This is very long weapon on the one end ended with three sharp teeth.
+It has handle made from hard material, probably from some scarce wood.
+It is very similar to pitchfork, but looks more impressive and worthy.
+Teeth are ended with litle tip, adapted to make another injury and cruel
+pain when drowing it out of a wound.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 16-28, Pierce: 0-0%, Crit. hit: 0-0%, Magic: +3, Att: 35, Pry: 8
+  Group: spears, Type: thrust, Length: 56, Weight: 5, Value: 34767
+  Material: ruby, Strength: 49700/49700, Repairs: 0
+Extras: two-handed,
+
+======
+STAVES
+======
+
+-----
+staff
+-----
+
+This long stave is a shod at one end, prooving to be a valuable weapon
+in combat. Along the sides of the staff are runes of various types.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 19-24, Pierce: 0-0%, Crit. hit: 0-0%, Magic: +3, Att: 20, Pry: 23
+  Group: staves, Type: crush, Length: 80, Weight: 5, Value: 33759
+  Material: ruby, Strength: 56800/56800, Repairs: 0
+Extras: two-handed,
+
+--------
+warstaff
+--------
+
+This long staff is slightly different from usual staff. The sharp bayonets
+on the edges of the staff are used for stabbing into enemy's body, causing
+deep wounds. Along the sides of the staff are runes of various types.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 18-26, Pierce: 0-0%, Crit. hit: 0-0%, Magic: +3, Att: 23, Pry: 27
+  Group: staves, Type: crush, Length: 82, Weight: 7, Value: 67423
+  Material: ruby, Strength: 63900/63900, Repairs: 0
+Extras: two-handed,
+
+==============
+TWOHANDED-AXES
+==============
+
+---------
+great axe
+---------
+
+Heavy axe with large blade is aimed to be hold in both hands when fighting.
+It can cause deep wounds cleaving through the opponent's armour like big
+knife through butter. This weapon is convenient for 'hard' warriors that
+don't care about defence and massacre their foes rather.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 18-30, Pierce: 0-0%, Crit. hit: 0-0%, Magic: +3, Att: 20, Pry: 0
+  Group: twohanded-axes, Type: cleave, Length: 85, Weight: 17, Value: 174727
+  Material: ruby, Strength: 78100/78100, Repairs: 0
+Extras: two-handed,
+It looks very heavy.
+
+----------
+katzbalger
+----------
+
+Katzbalger is very heavy twohanded axe with enruned blade protected with
+powerful runes of destruction. It is the family weapon of dwarves and their
+relatives duergars but it is hard to find this fine weapon in these days.
+It is known that katzbalger of Nari the Stonebitter was called Astralfist
+because it has killed many of Tanar'ries and their demonic cousins during
+the Age of Demons.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 19-29, Pierce: 0-0%, Crit. hit: 0-0%, Magic: +3, Att: 23, Pry: 0
+  Group: twohanded-axes, Type: cleave, Length: 85, Weight: 18, Value: 238890
+  Material: ruby, Strength: 99400/99400, Repairs: 0
+Extras: two-handed,
+It looks very heavy.
+
+================
+TWOHANDED-BLADES
+================
+
+--------
+claymore
+--------
+
+Heavy twohanded sword with perfectly forged blade and sharp protuberances
+near its hilt used to rip opponent's face or body to bloody pieces of
+flesh. Claymore has wide blade sharpened on both edges.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 18-28, Pierce: 0-0%, Crit. hit: 0-0%, Magic: +3, Att: 23, Pry: 34
+  Group: twohanded-blades, Type: cleave, Length: 76, Weight: 13, Value: 148636
+  Material: ruby, Strength: 78100/78100, Repairs: 0
+Extras: two-handed,
+It looks heavy.
+
+---------------
+twohanded sword
+---------------
+
+It's a common twohanded sword. It is nearly as long as human size with
+wide blade aimed for cleaving. You have to hold it in two hands because
+it is very heavy !
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 16-30, Pierce: 0-0%, Crit. hit: 0-0%, Magic: +3, Att: 30, Pry: 30
+  Group: twohanded-blades, Type: cleave, Length: 72, Weight: 15, Value: 133881
+  Material: ruby, Strength: 71000/71000, Repairs: 0
+Extras: two-handed,
+It looks very heavy.
+
+===============
+TWOHANDED-CLUBS
+===============
+
+--------
+budzogan
+--------
+
+Budzogan is terrible weapon in the hands of monstrous humanoids like forest
+giants or similar. One wound with this weapon should send you to the ground
+in bloody-mess with your own crushed bones and bowels.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 17-31, Pierce: 0-0%, Crit. hit: 0-0%, Magic: +3, Att: 13, Pry: 0
+  Group: twohanded-clubs, Type: crush, Length: 85, Weight: 19, Value: 123822
+  Material: ruby, Strength: 63900/63900, Repairs: 0
+Extras: two-handed,
+It looks very heavy.
+
+================
+TWOHANDED-FLAILS
+================
+
+----------
+great star
+----------
+
+Huge morning star is a dangerous weapon, and it takes quite skill to wield
+it. Its solid wood-metal shaft is around 3 feet long and several spiked
+balls are hanging on long chains. It is a brutal weapon and two hands are
+better to be used to wield it properly.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 16-26, Pierce: 5-10%, Crit. hit: 0-0%, Magic: +3, Att: 20, Pry: 0
+  Group: twohanded-flails, Type: crush, Length: 80, Weight: 19, Value: 145999
+  Material: ruby, Strength: 71000/71000, Repairs: 0
+Extras: two-handed,
+It looks very heavy.
+
+=================
+TWOHANDED-HAMMERS
+=================
+
+------------
+great hammer
+------------
+
+Great hammer is ponderous weapon for average warrior, but creatures with
+incredible strength like trolls could fight with it easily. Hit of
+this weapon could smash through the body of the victim crushing his
+bones and tearing his flesh into indefinite mass.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 16-32, Pierce: 0-0%, Crit. hit: 0-0%, Magic: +3, Att: 17, Pry: 0
+  Group: twohanded-hammers, Type: crush, Length: 92, Weight: 15, Value: 162605
+  Material: ruby, Strength: 85200/85200, Repairs: 0
+Extras: two-handed,
+It looks very heavy.
+
+=====
+WHIPS
+=====
+
+---------
+long whip
+---------
+
+Long whip is larger version of usual whip. It is strongly recommended for
+aspirants of slave mastery - its 'biting' end will send each disobedient
+slave to the ground.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 8-14, Pierce: 0-0%, Crit. hit: 0-0%, Magic: +3, Att: 49, Pry: 0
+  Group: whips, Type: lash, Length: 40, Weight: 4, Value: 26995
+  Material: ruby, Strength: 35500/35500, Repairs: 0
+Extras: one-handed,
+
+----
+whip
+----
+
+Whip is almost used as helpful instrument when riding a mount but skilled
+fighters could be pretty dangerous with it when they know how to use it.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 9-13, Pierce: 0-0%, Crit. hit: 0-0%, Magic: +3, Att: 44, Pry: 0
+  Group: whips, Type: lash, Length: 40, Weight: 2, Value: 21796
+  Material: ruby, Strength: 35500/35500, Repairs: 0
+Extras: one-handed,
+
+=======
+GENERAL
+=======
+
+----
+wand
+----
+
+The wand is scribed with ancient runes of magical power.
+It is in superb condition.
+It is made of ruby.
+Weapon stats:
+  Damage: 3-4, Pierce: 0-0%, Crit. hit: 0-0%, Magic: +3, Att: 8, Pry: 0
+  Group: general, Type: crush, Length: 15, Weight: 2, Value: 27098
+  Material: ruby, Strength: 500/500, Repairs: 0
+Extras: one-handed,
