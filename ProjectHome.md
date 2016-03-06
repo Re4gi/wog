@@ -1,0 +1,1 @@
+Summary of War of Gods game and my characters.
